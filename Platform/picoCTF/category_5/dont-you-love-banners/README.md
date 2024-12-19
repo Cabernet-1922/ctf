@@ -54,6 +54,6 @@ except:
     KeyboardInterrupt
 ```
 
-Something need to pay attention is that the at the very beginning of program, it tries to open the `banner` file. Therefore, a symlink is needed here: `ln -sf /root/flag.txt banner` force to make a symlink. After that, we reconnect the remote server and it will access the symlink and print out the flag.
+One thing to note is that the at the very beginning of program, it tries to open the `banner` file. So a symlink is needed here: `ln -sf /root/flag.txt banner` to force a symlink. Then, we reconnect to the remote server,and it will access the symlink and print out the flag.
 
 flag: `picoCTF{b4nn3r_gr4bb1n9_su((3sfu11y_218ef5d6}`
