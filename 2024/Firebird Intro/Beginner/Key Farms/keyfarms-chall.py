@@ -1,4 +1,4 @@
-from Crypto.Util.number import bytes_to_long, getPrime
+from crypto.Util.number import bytes_to_long, getPrime
 from flag import flag
 
 p, q = getPrime(1024), getPrime(1024)
