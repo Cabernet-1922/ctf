@@ -1,4 +1,4 @@
-from Crypto.Util.number import *
+from crypto.Util.number import *
 from math import gcd
 from secret import flag
 
