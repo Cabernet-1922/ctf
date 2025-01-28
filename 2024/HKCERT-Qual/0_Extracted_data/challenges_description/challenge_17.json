@@ -1,0 +1,77 @@
+{
+    "challenge": {
+        "id": 17,
+        "title": {
+            "zh": "⚡",
+            "en": "⚡"
+        },
+        "description": {
+            "zh": "以太坊嘅交易費實在太貴喇。有啲人會用鏈下啲方法，例如雷電網絡。喺到介紹返：⚡，一個開源嘅交易工具。\n\n依家開戶，即享零交易費！\\*\n\n\\* 除咗第一個同埋最後一個交易。",
+            "en": "The transaction fee in Ethereum is high. People researched in off-chain solutions like Raiden. Introducing ⚡, an open-source project that everyone can audit its source code!\n\nRegister an account and enjoy zero transaction fees (except the first and the last transfers)!"
+        },
+        "points": 450,
+        "solves": 6,
+        "releasedAt": "2024-11-08T10:00:00.000Z",
+        "categories": [
+            "web",
+            "difficulty-5"
+        ],
+        "metadata": {
+            "author": "Mystiz",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/zap_f9df08d202eed40a94431209ee684a6a.zip",
+                    "name": "zap_f9df08d202eed40a94431209ee684a6a.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/d08aa61cb1cd43d8bd120c8b13c91d3c.webp",
+            "deploymentType": "instancer",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/434fea57b46458ba0cc327a6bfd2277417a73e9b1990bdb032f032c873e1d704.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 2034,
+            "team": {
+                "name": "MEOW MEOW MEOW MEOW MEOW"
+            },
+            "solvedAt": "2024-11-08T23:45:53.854Z"
+        },
+        {
+            "id": 2488,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T05:33:42.977Z"
+        },
+        {
+            "id": 3983,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-09T18:49:12.613Z"
+        },
+        {
+            "id": 4488,
+            "team": {
+                "name": "jinmo123"
+            },
+            "solvedAt": "2024-11-10T06:38:57.902Z"
+        },
+        {
+            "id": 4679,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T08:38:25.269Z"
+        },
+        {
+            "id": 4755,
+            "team": {
+                "name": "O0104 - NuttyShell Purple"
+            },
+            "solvedAt": "2024-11-10T09:05:17.430Z"
+        }
+    ]
+}

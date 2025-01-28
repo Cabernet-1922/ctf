@@ -1,0 +1,161 @@
+{
+    "challenge": {
+        "id": 62,
+        "title": {
+            "zh": "JSPyaml",
+            "en": "JSPyaml"
+        },
+        "description": {
+            "zh": "我只知道如何用 Python 解析 YAML，所以我用 JS 執行 Python 來解析 YAML。",
+            "en": "I only know how to parse YAML with Python, so I use JS to run Python to parse YAML."
+        },
+        "points": 400,
+        "solves": 18,
+        "releasedAt": "2024-11-09T02:00:00.000Z",
+        "categories": [
+            "web",
+            "difficulty-4"
+        ],
+        "metadata": {
+            "author": "Ozetta",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/jspyaml_3c3a6ee9d56cc287a5852cc8873b594b.zip",
+                    "name": "jspyaml_3c3a6ee9d56cc287a5852cc8873b594b.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/df4cc4b6105865cbd046711f5380169b.webp",
+            "deploymentType": "instancer",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/b93adfa4a833da660d37e48b9143a10c2625aafe9532f824fa79827ef6cc76fb.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 2223,
+            "team": {
+                "name": "MEOW MEOW MEOW MEOW MEOW"
+            },
+            "solvedAt": "2024-11-09T03:05:13.859Z"
+        },
+        {
+            "id": 2660,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T07:19:56.847Z"
+        },
+        {
+            "id": 3303,
+            "team": {
+                "name": "jinmo123"
+            },
+            "solvedAt": "2024-11-09T12:05:48.769Z"
+        },
+        {
+            "id": 3523,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T13:57:45.496Z"
+        },
+        {
+            "id": 3838,
+            "team": {
+                "name": "T0051 - PwnStars"
+            },
+            "solvedAt": "2024-11-09T16:49:39.633Z"
+        },
+        {
+            "id": 3911,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T17:43:25.400Z"
+        },
+        {
+            "id": 3925,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T17:49:42.739Z"
+        },
+        {
+            "id": 4034,
+            "team": {
+                "name": "O0104 - NuttyShell Purple"
+            },
+            "solvedAt": "2024-11-09T20:02:04.166Z"
+        },
+        {
+            "id": 4062,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-09T21:00:25.417Z"
+        },
+        {
+            "id": 4074,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T21:21:47.090Z"
+        },
+        {
+            "id": 4146,
+            "team": {
+                "name": "FlagMotori"
+            },
+            "solvedAt": "2024-11-09T23:35:12.022Z"
+        },
+        {
+            "id": 4214,
+            "team": {
+                "name": "bhackari"
+            },
+            "solvedAt": "2024-11-10T02:16:42.302Z"
+        },
+        {
+            "id": 4594,
+            "team": {
+                "name": "S0027 - Diocesan Boys' School"
+            },
+            "solvedAt": "2024-11-10T07:41:40.507Z"
+        },
+        {
+            "id": 4603,
+            "team": {
+                "name": "NEURON"
+            },
+            "solvedAt": "2024-11-10T07:48:43.490Z"
+        },
+        {
+            "id": 4678,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T08:38:14.451Z"
+        },
+        {
+            "id": 4746,
+            "team": {
+                "name": "T0057 - NuttyShell Red"
+            },
+            "solvedAt": "2024-11-10T09:04:30.106Z"
+        },
+        {
+            "id": 4833,
+            "team": {
+                "name": "T0027 - Students Taking Flags United"
+            },
+            "solvedAt": "2024-11-10T09:28:55.406Z"
+        },
+        {
+            "id": 4838,
+            "team": {
+                "name": "T0056 - NuttyShell"
+            },
+            "solvedAt": "2024-11-10T09:29:08.831Z"
+        }
+    ]
+}

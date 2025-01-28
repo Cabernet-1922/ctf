@@ -1,0 +1,231 @@
+{
+    "challenge": {
+        "id": 191436469,
+        "title": {
+            "zh": "RSA LCG (1)",
+            "en": "RSA LCG (1)"
+        },
+        "description": {
+            "zh": "魯迅​曾經警告過：「唔好用爛嘅隨機數生成器嚟生成 RSA 所用嘅質數。」作為線性同餘生成器 (LCG) 嘅愛好者，我決定唔理佢。我諗我應該無事掛？\n\n##### 挑戰系列: RSA LCG\n\n其他在此系列內的挑戰 (並沒有依存關係，可以由任何一個挑戰開始): [0️⃣](/challenges/222391861) • [1️⃣](/challenges/191436469) • [2️⃣](/challenges/667212561) • [3️⃣](/challenges/457848091)",
+            "en": "Lu Xun once said, \"Don't generate RSA primes with insecure PRNGs\". As a LCG-holic, I am not going to listen to him. What will go wrong?\n\n##### Series: RSA LCG\n\nOther challenges in this series (not dependent on each other, start with the one you like): [0️⃣](/challenges/222391861) • [1️⃣](/challenges/191436469) • [2️⃣](/challenges/667212561) • [3️⃣](/challenges/457848091)"
+        },
+        "points": 300,
+        "solves": 28,
+        "releasedAt": "2024-11-08T10:00:00.000Z",
+        "categories": [
+            "crypto",
+            "difficulty-3"
+        ],
+        "metadata": {
+            "author": "Mystiz",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/rsalcg-1_4ac18c5a078fd5f5df7a11f16a47a919.zip",
+                    "name": "rsalcg-1_4ac18c5a078fd5f5df7a11f16a47a919.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/6029bec6d66690a6654930af2d681da4.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/434fea57b46458ba0cc327a6bfd2277417a73e9b1990bdb032f032c873e1d704.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": [
+        {
+            "id": 785,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-08T11:52:42.732Z"
+        },
+        {
+            "id": 906,
+            "team": {
+                "name": "T0070 - throw stone to water"
+            },
+            "solvedAt": "2024-11-08T12:25:19.926Z"
+        },
+        {
+            "id": 1203,
+            "team": {
+                "name": "BKISC"
+            },
+            "solvedAt": "2024-11-08T14:00:04.483Z"
+        },
+        {
+            "id": 1252,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-08T14:17:08.246Z"
+        },
+        {
+            "id": 1278,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-08T14:26:16.197Z"
+        },
+        {
+            "id": 1309,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-08T14:38:27.217Z"
+        },
+        {
+            "id": 1432,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-08T15:22:43.606Z"
+        },
+        {
+            "id": 1714,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-08T17:35:21.448Z"
+        },
+        {
+            "id": 1867,
+            "team": {
+                "name": "rustyboys"
+            },
+            "solvedAt": "2024-11-08T19:36:54.570Z"
+        },
+        {
+            "id": 1961,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-08T21:44:04.334Z"
+        },
+        {
+            "id": 1973,
+            "team": {
+                "name": "Stellar Vector"
+            },
+            "solvedAt": "2024-11-08T22:07:32.157Z"
+        },
+        {
+            "id": 1975,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-08T22:11:58.244Z"
+        },
+        {
+            "id": 1992,
+            "team": {
+                "name": "MoaiMan"
+            },
+            "solvedAt": "2024-11-08T22:38:55.943Z"
+        },
+        {
+            "id": 2043,
+            "team": {
+                "name": "Phish Paprikash"
+            },
+            "solvedAt": "2024-11-09T00:04:23.311Z"
+        },
+        {
+            "id": 2095,
+            "team": {
+                "name": "RipeRice🌾"
+            },
+            "solvedAt": "2024-11-09T01:39:30.470Z"
+        },
+        {
+            "id": 2298,
+            "team": {
+                "name": "T0037 - Google Or Mushroom"
+            },
+            "solvedAt": "2024-11-09T03:46:16.932Z"
+        },
+        {
+            "id": 2445,
+            "team": {
+                "name": "MCs"
+            },
+            "solvedAt": "2024-11-09T05:10:51.575Z"
+        },
+        {
+            "id": 3204,
+            "team": {
+                "name": "NEURON"
+            },
+            "solvedAt": "2024-11-09T11:22:34.999Z"
+        },
+        {
+            "id": 3419,
+            "team": {
+                "name": "terkctf"
+            },
+            "solvedAt": "2024-11-09T13:04:22.493Z"
+        },
+        {
+            "id": 3765,
+            "team": {
+                "name": "VGU_1337"
+            },
+            "solvedAt": "2024-11-09T16:05:11.298Z"
+        },
+        {
+            "id": 4007,
+            "team": {
+                "name": "G04T3DP30PL3"
+            },
+            "solvedAt": "2024-11-09T19:16:25.143Z"
+        },
+        {
+            "id": 4070,
+            "team": {
+                "name": "MEOW MEOW MEOW MEOW MEOW"
+            },
+            "solvedAt": "2024-11-09T21:14:57.289Z"
+        },
+        {
+            "id": 4076,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-09T21:24:51.696Z"
+        },
+        {
+            "id": 4425,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T05:41:32.456Z"
+        },
+        {
+            "id": 4625,
+            "team": {
+                "name": "Aqua Cat"
+            },
+            "solvedAt": "2024-11-10T08:03:31.990Z"
+        },
+        {
+            "id": 4693,
+            "team": {
+                "name": "valgrind"
+            },
+            "solvedAt": "2024-11-10T08:41:26.379Z"
+        },
+        {
+            "id": 4832,
+            "team": {
+                "name": "T0027 - Students Taking Flags United"
+            },
+            "solvedAt": "2024-11-10T09:28:49.094Z"
+        },
+        {
+            "id": 4858,
+            "team": {
+                "name": "Setters"
+            },
+            "solvedAt": "2024-11-10T09:36:36.420Z"
+        }
+    ]
+}

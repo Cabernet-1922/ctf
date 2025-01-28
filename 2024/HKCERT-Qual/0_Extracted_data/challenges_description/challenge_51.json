@@ -1,0 +1,105 @@
+{
+    "challenge": {
+        "id": 51,
+        "title": {
+            "zh": "翻轉英雄",
+            "en": "Flipper Hero"
+        },
+        "description": {
+            "zh": "如果你可以翻轉世界，你會改變什麼？",
+            "en": "If you could flip the world, what would you change?"
+        },
+        "points": 250,
+        "solves": 10,
+        "releasedAt": "2024-11-09T02:00:00.000Z",
+        "categories": [
+            "pwn",
+            "difficulty-3"
+        ],
+        "metadata": {
+            "author": "botton",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/flipper-hero_f3bdfe63e9a5c8fa3247b1449bcd8031.zip",
+                    "name": "flipper-hero_f3bdfe63e9a5c8fa3247b1449bcd8031.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/805f0509d21795f71dfe6fe7a27390b6.webp",
+            "deploymentType": "instancer",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/01c51261118171130987068e4dd86a28d6dd219ff65eb0ac6504fbbeae5c7354.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 2261,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T03:24:08.837Z"
+        },
+        {
+            "id": 2359,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T04:26:06.879Z"
+        },
+        {
+            "id": 2662,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T07:21:09.894Z"
+        },
+        {
+            "id": 2793,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T08:29:20.602Z"
+        },
+        {
+            "id": 3126,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T10:51:26.351Z"
+        },
+        {
+            "id": 3166,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T11:06:50.666Z"
+        },
+        {
+            "id": 3372,
+            "team": {
+                "name": "bhackari"
+            },
+            "solvedAt": "2024-11-09T12:39:58.974Z"
+        },
+        {
+            "id": 3835,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T16:47:27.464Z"
+        },
+        {
+            "id": 4554,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T07:19:50.126Z"
+        },
+        {
+            "id": 4580,
+            "team": {
+                "name": "jinmo123"
+            },
+            "solvedAt": "2024-11-10T07:32:18.411Z"
+        }
+    ]
+}

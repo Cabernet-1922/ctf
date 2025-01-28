@@ -1,0 +1,106 @@
+{
+    "challenge": {
+        "id": 57,
+        "title": {
+            "zh": "Python 小算盤 2",
+            "en": "Python Calculator 2"
+        },
+        "description": {
+            "zh": "有人話 HKCERT 賽前遊樂場裡面嘅 Python 小算盤太容易了，所以我加左一個白名單同黑名單。",
+            "en": "Someone told me that the Python calculator challenge from the HKCERT training platform is too easy. Let's have a whitelisting and blacklisting."
+        },
+        "points": 400,
+        "solves": 10,
+        "releasedAt": "2024-11-09T02:00:00.000Z",
+        "categories": [
+            "misc",
+            "difficulty-4",
+            "sub-pwn"
+        ],
+        "metadata": {
+            "author": "Cire Meat Pop",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/python-calculator-2_55822d5da2cbf770d1feee3b5276bf5e.zip",
+                    "name": "python-calculator-2_55822d5da2cbf770d1feee3b5276bf5e.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/850573b22c5df0f800a6a15d2c202e7f.webp",
+            "deploymentType": "stateless",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/630b7d16c331585f27d909408d95432841f78e1f7266dfdb662e2e51ab5d1c95.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 2620,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-09T06:54:14.384Z"
+        },
+        {
+            "id": 3482,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T13:36:18.154Z"
+        },
+        {
+            "id": 3542,
+            "team": {
+                "name": "TOP PROGRAMMER 2005 DATABASE MAESTRO"
+            },
+            "solvedAt": "2024-11-09T14:06:44.541Z"
+        },
+        {
+            "id": 4078,
+            "team": {
+                "name": "FlagMotori"
+            },
+            "solvedAt": "2024-11-09T21:26:42.774Z"
+        },
+        {
+            "id": 4208,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-10T02:04:15.079Z"
+        },
+        {
+            "id": 4578,
+            "team": {
+                "name": "Echo"
+            },
+            "solvedAt": "2024-11-10T07:31:31.208Z"
+        },
+        {
+            "id": 4579,
+            "team": {
+                "name": "Ph0ny"
+            },
+            "solvedAt": "2024-11-10T07:31:50.558Z"
+        },
+        {
+            "id": 4601,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-10T07:45:56.963Z"
+        },
+        {
+            "id": 4689,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T08:40:04.810Z"
+        },
+        {
+            "id": 4891,
+            "team": {
+                "name": "Mr.Robot"
+            },
+            "solvedAt": "2024-11-10T09:54:04.026Z"
+        }
+    ]
+}

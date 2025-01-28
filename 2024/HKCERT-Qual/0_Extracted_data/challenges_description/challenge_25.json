@@ -1,0 +1,70 @@
+{
+    "challenge": {
+        "id": 25,
+        "title": {
+            "zh": "奇美拉",
+            "en": "Chimera"
+        },
+        "description": {
+            "zh": "最近我喺度翻睇《鋼之鍊金術師》，發現鍊金術好似幾好玩喎。唔知將啲CTF問題合埋一齊會變做啲乜？一舊金？全部木？",
+            "en": "I've been re-watching Fullmetal Alchemist recently and I'm obsessed with Alchemy now. How about merging CTF challenges together?"
+        },
+        "points": 500,
+        "solves": 5,
+        "releasedAt": "2024-11-08T13:00:00.000Z",
+        "categories": [
+            "web",
+            "difficulty-5"
+        ],
+        "metadata": {
+            "author": "hollow",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/chimera_3075c2014cffcee087009da2b01b409a.zip",
+                    "name": "chimera_3075c2014cffcee087009da2b01b409a.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/96034ca3e1b32756010405976e2bb30a.webp",
+            "deploymentType": "instancer",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/b21b17b4ecc60cdbfa7b8dfd13b611a862f8c0a8416f0a0958356cffef8e26f2.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 1876,
+            "team": {
+                "name": "MEOW MEOW MEOW MEOW MEOW"
+            },
+            "solvedAt": "2024-11-08T19:45:56.391Z"
+        },
+        {
+            "id": 2015,
+            "team": {
+                "name": "FlagMotori"
+            },
+            "solvedAt": "2024-11-08T23:07:19.750Z"
+        },
+        {
+            "id": 2203,
+            "team": {
+                "name": "NEURON"
+            },
+            "solvedAt": "2024-11-09T02:53:40.825Z"
+        },
+        {
+            "id": 4302,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-10T03:41:45.093Z"
+        },
+        {
+            "id": 4681,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T08:38:34.687Z"
+        }
+    ]
+}

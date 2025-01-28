@@ -1,0 +1,34 @@
+{
+    "challenge": {
+        "id": 28686476,
+        "title": {
+            "zh": "APT攻擊在哪裡 (2)",
+            "en": "Where's the APT Attack (2)"
+        },
+        "description": {
+            "zh": "請以第1題繼續。\n\n您是高級網絡安全分析師。\n\n您的經理要求您協助分析Windows內存映像，作為我們目前調查的一部分。\n\n這臺受害機器已經被隔離，Windows內存映像已經被提取供您調查。\n\n預計內存映像將揭示一個包含命令和控制（C2）進程的常見程序，通常被稱為信標 (beacon)。\n\n請找出**信標進程**中的旗。\n\n有隱藏旗。如果大神您找到的話請跟在下交流一下IR\n\n##### 挑戰系列: APT攻擊在哪裡？\n\n其他在此系列內的挑戰: [1️⃣](/challenges/149915428) • [2️⃣](/challenges/28686476)",
+            "en": "Please continue from Q1.\n\nYou are the Senior Cybersecurity Analyst.\n\nYour Manager is requesting your assistance in analyzing a Windows memory image as a component of our current investigation.\n\nThis victim machine has been isolated and the Windows memory image has been extracted for your review.\n\nPreliminary analysis of the SIEM logs indicates an volume of suspicious network activity originating from this victim machine.\n\nPlease find the flag from the **beacon process**.\n\nBTW, there is a hidden flag! It will be great to contact me if you can find it, you should be very great in IR.\n\n##### Series: Where's the APT Attack?\n\nOther challenges in this series: [1️⃣](/challenges/149915428) • [2️⃣](/challenges/28686476)"
+        },
+        "points": 350,
+        "solves": 0,
+        "releasedAt": "2024-11-08T10:00:00.000Z",
+        "categories": [
+            "forensic",
+            "difficulty-4"
+        ],
+        "metadata": {
+            "author": "NightSedge",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/where-is-the-apt-attack_066205c226d954d2d0687f0f0c738b6e.7z",
+                    "name": "where-is-the-apt-attack_066205c226d954d2d0687f0f0c738b6e.7z"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/e983c4e6cd043e7b8e2b07529503ce25.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/407e46eb67b382cf5e95e7fd42fb129ecb573ecc323bced6cdb62bc143b30ac9.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": []
+}

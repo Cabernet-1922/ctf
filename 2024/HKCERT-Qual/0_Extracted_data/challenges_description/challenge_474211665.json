@@ -1,0 +1,105 @@
+{
+    "challenge": {
+        "id": 474211665,
+        "title": {
+            "zh": "大師的加密標準 (2)：洗勻",
+            "en": "mAEStro (2): Shuffle"
+        },
+        "description": {
+            "zh": "2024 年仲玩 AES？唔係㗎，呢題只係弱化版嘅 AES。我都係是但喺將啲運算洗勻拎出嚟用咋嘛。\n\n##### 挑戰系列: 大師的加密標準\n\n其他在此系列內的挑戰 (並沒有依存關係，可以由任何一個挑戰開始): [1️⃣](/challenges/404992759) • [2️⃣](/challenges/474211665)",
+            "en": "Yet another AES challenge in 2024? Well, it is not AES -- The internal operations are randomly shuffled.\n\n##### Series: mAEStro\n\nOther challenges in this series (not dependent on each other, start with the one you like): [1️⃣](/challenges/404992759) • [2️⃣](/challenges/474211665)"
+        },
+        "points": 350,
+        "solves": 10,
+        "releasedAt": "2024-11-09T06:00:00.000Z",
+        "categories": [
+            "crypto",
+            "difficulty-4"
+        ],
+        "metadata": {
+            "author": "Mystiz, hoifanrd",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/maestro-2_b57368ee01e70c226bcb364cd8fb87a6.zip",
+                    "name": "maestro-2_b57368ee01e70c226bcb364cd8fb87a6.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/d99dcb10360b7d3480275d77d757b91b.webp",
+            "deploymentType": "stateless",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/c28eca8d287966201b4614fc9b0c7d94df7b985d48117be17d6a28b49dc7ffc7.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 3028,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T10:16:36.245Z"
+        },
+        {
+            "id": 3263,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T11:46:27.989Z"
+        },
+        {
+            "id": 3531,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T14:00:42.103Z"
+        },
+        {
+            "id": 3811,
+            "team": {
+                "name": "BKISC"
+            },
+            "solvedAt": "2024-11-09T16:35:52.359Z"
+        },
+        {
+            "id": 3947,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T18:14:07.092Z"
+        },
+        {
+            "id": 4152,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T23:46:07.028Z"
+        },
+        {
+            "id": 4315,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-10T03:57:31.455Z"
+        },
+        {
+            "id": 4538,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-10T07:08:18.178Z"
+        },
+        {
+            "id": 4619,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-10T07:56:56.888Z"
+        },
+        {
+            "id": 4682,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T08:38:45.362Z"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+  2           0 LOAD_CONST               1 (0)
+              2 LOAD_CONST               0 (None)
+              4 IMPORT_NAME              0 (base64)
+              6 STORE_FAST               1 (base64)
+
+  3           8 BUILD_LIST               0
+             10 STORE_FAST               2 (tmp)
+
+  4          12 LOAD_FAST                0 (i)
+             14 GET_ITER
+        >>   16 FOR_ITER                26 (to 44)
+             18 STORE_FAST               3 (a)
+
+  5          20 LOAD_FAST                2 (tmp)
+             22 LOAD_METHOD              1 (append)
+             24 LOAD_GLOBAL              2 (pow)
+             26 LOAD_GLOBAL              3 (ord)
+             28 LOAD_FAST                3 (a)
+             30 CALL_FUNCTION            1
+             32 LOAD_CONST               2 (101)
+             34 LOAD_CONST               3 (127)
+             36 CALL_FUNCTION            3
+             38 CALL_METHOD              1
+             40 POP_TOP
+             42 JUMP_ABSOLUTE           16
+
+  6     >>   44 LOAD_FAST                1 (base64)
+             46 LOAD_METHOD              4 (b64encode)
+             48 LOAD_GLOBAL              5 (bytes)
+             50 LOAD_FAST                2 (tmp)
+             52 CALL_FUNCTION            1
+             54 CALL_METHOD              1
+             56 LOAD_METHOD              6 (decode)
+             58 CALL_METHOD              0
+             60 RETURN_VALUE

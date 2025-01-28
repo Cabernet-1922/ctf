@@ -1,0 +1,52 @@
+{
+    "challenge": {
+        "id": 377742175,
+        "title": {
+            "zh": "通靈字盤 5.5",
+            "en": "Tuning Keyboard 5.5"
+        },
+        "description": {
+            "zh": "🫵(^v^)jm9.....[?](https://c59b-tuning-keyboard-5-5.hkcert24.pwnable.hk)\n\n##### 挑戰系列: 通靈字盤\n\n其他在此系列內的挑戰 (並沒有依存關係，可以由任何一個挑戰開始): [[5]](/challenges/737170479) • [[5.5]](/challenges/377742175)",
+            "en": "🫵(^v^)jm9.....[?](https://c59b-tuning-keyboard-5-5.hkcert24.pwnable.hk)\n\n##### Series: Tuning Keyboard\n\nOther challenges in this series (not dependent on each other, start with the one you like): [[5]](/challenges/737170479) • [[5.5]](/challenges/377742175)"
+        },
+        "points": 444,
+        "solves": 3,
+        "releasedAt": "2024-11-08T13:00:00.000Z",
+        "categories": [
+            "misc",
+            "difficulty-5",
+            "sub-web"
+        ],
+        "metadata": {
+            "author": "Ozetta",
+            "attachments": [],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/123df9a1d6a4110e3e2de09d92a70ce9.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/b93adfa4a833da660d37e48b9143a10c2625aafe9532f824fa79827ef6cc76fb.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": [
+        {
+            "id": 2866,
+            "team": {
+                "name": "T0027 - Students Taking Flags United"
+            },
+            "solvedAt": "2024-11-09T09:15:12.658Z"
+        },
+        {
+            "id": 3251,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T11:38:30.325Z"
+        },
+        {
+            "id": 3699,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T15:24:00.129Z"
+        }
+    ]
+}

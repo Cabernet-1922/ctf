@@ -1,0 +1,127 @@
+{
+    "challenge": {
+        "id": 43,
+        "title": {
+            "zh": "MBTI 探測儀",
+            "en": "MBTI Radar"
+        },
+        "description": {
+            "zh": "輸入你的名字以獲得你之後將遇到的 12 個人的 MBTI！",
+            "en": "Enter your name to receive the MBTI of the next 12 people you will meet later!"
+        },
+        "points": 500,
+        "solves": 13,
+        "releasedAt": "2024-11-08T13:00:00.000Z",
+        "categories": [
+            "reverse",
+            "difficulty-5",
+            "sub-crypto"
+        ],
+        "metadata": {
+            "author": "TWY",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/unity_a733362e24a99fb1317c2e8db09994bc.zip",
+                    "name": "unity_a733362e24a99fb1317c2e8db09994bc.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/92ed76af9537a77ef82686d4f089a79e.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/c67caec1d2d448b8d497c3af452a26d9619d8c964f54afbf2c51ceef6a523124.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": [
+        {
+            "id": 1639,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-08T16:52:35.053Z"
+        },
+        {
+            "id": 1909,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-08T20:31:33.129Z"
+        },
+        {
+            "id": 2045,
+            "team": {
+                "name": "jinmo123"
+            },
+            "solvedAt": "2024-11-09T00:12:15.978Z"
+        },
+        {
+            "id": 3200,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-09T11:20:58.879Z"
+        },
+        {
+            "id": 3388,
+            "team": {
+                "name": "Asuri"
+            },
+            "solvedAt": "2024-11-09T12:48:21.577Z"
+        },
+        {
+            "id": 3993,
+            "team": {
+                "name": "SU"
+            },
+            "solvedAt": "2024-11-09T18:59:56.240Z"
+        },
+        {
+            "id": 4088,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-09T21:46:43.927Z"
+        },
+        {
+            "id": 4117,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T22:33:15.166Z"
+        },
+        {
+            "id": 4143,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-09T23:28:44.521Z"
+        },
+        {
+            "id": 4401,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-10T05:25:49.247Z"
+        },
+        {
+            "id": 4662,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-10T08:30:50.514Z"
+        },
+        {
+            "id": 4684,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T08:39:10.693Z"
+        },
+        {
+            "id": 4849,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-10T09:32:15.099Z"
+        }
+    ]
+}

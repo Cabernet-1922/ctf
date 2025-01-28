@@ -1,0 +1,105 @@
+{
+    "challenge": {
+        "id": 50,
+        "title": {
+            "zh": "黑色 C2",
+            "en": "Black C2"
+        },
+        "description": {
+            "zh": "你了解C2伺服器嗎？\n我做了一個簡單的 C2 伺服器模擬器，但我認為它太糟糕了。",
+            "en": "Do you know C2 server?\nI made a simple C2 server simulator but I think it is so broken."
+        },
+        "points": 400,
+        "solves": 10,
+        "releasedAt": "2024-11-08T13:00:00.000Z",
+        "categories": [
+            "pwn",
+            "difficulty-4"
+        ],
+        "metadata": {
+            "author": "botton",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/black-c2_9d656a389449e04a9780ac12cc6ad680.zip",
+                    "name": "black-c2_9d656a389449e04a9780ac12cc6ad680.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/7c3cd49e391c6c41c808823070c66a1e.webp",
+            "deploymentType": "stateless",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/01c51261118171130987068e4dd86a28d6dd219ff65eb0ac6504fbbeae5c7354.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 1771,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-08T18:13:52.977Z"
+        },
+        {
+            "id": 1860,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-08T19:29:49.560Z"
+        },
+        {
+            "id": 1982,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-08T22:20:51.341Z"
+        },
+        {
+            "id": 1985,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-08T22:23:28.285Z"
+        },
+        {
+            "id": 2644,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T07:07:28.394Z"
+        },
+        {
+            "id": 2974,
+            "team": {
+                "name": "AlphaG0"
+            },
+            "solvedAt": "2024-11-09T10:04:11.224Z"
+        },
+        {
+            "id": 3478,
+            "team": {
+                "name": "FlagMotori"
+            },
+            "solvedAt": "2024-11-09T13:34:41.239Z"
+        },
+        {
+            "id": 3497,
+            "team": {
+                "name": "T0056 - NuttyShell"
+            },
+            "solvedAt": "2024-11-09T13:43:54.347Z"
+        },
+        {
+            "id": 3618,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T14:39:10.274Z"
+        },
+        {
+            "id": 4686,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T08:39:32.022Z"
+        }
+    ]
+}

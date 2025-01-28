@@ -1,0 +1,56 @@
+{
+    "challenge": {
+        "id": 34,
+        "title": {
+            "zh": "隱秘．隱秘．RSA",
+            "en": "Mask-mask-RSA"
+        },
+        "description": {
+            "zh": "自 2020 年起，Mystiz 開始以抄襲自己嘅題目變得有名。\n\n到今時今日，情況從糟糕變得難以理解。佢依家開始抄[其他 CTF 嘅題目](https://github.com/OfficialCyberSpace/CSCTF-2024/blob/main/crypto/mask-rsa/README.md)。更加痴線嘅係，佢知道條問題嘅原作者係會玩呢場 CTF 嘅。\n\n利申：個原作者喺見到呢條問題之前都唔知我抄佢。",
+            "en": "Since 2020, Mystiz is well-known plagiarizing his own challenges.\n\nThis situation gets worse in 2024. He is now copying challenges from the [other CTFs](https://github.com/OfficialCyberSpace/CSCTF-2024/blob/main/crypto/mask-rsa/README.md). What's worse, the challenge author participates in this CTF!\n\nDisclaimer: The challenge author didn't know I was going to copy his challenge."
+        },
+        "points": 500,
+        "solves": 3,
+        "releasedAt": "2024-11-08T13:00:00.000Z",
+        "categories": [
+            "crypto",
+            "difficulty-5"
+        ],
+        "metadata": {
+            "author": "Mystiz",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/mask-mask-rsa_d11a2e5d3f444a9a854327b5c7bfe22f.zip",
+                    "name": "mask-mask-rsa_d11a2e5d3f444a9a854327b5c7bfe22f.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/ae9252a84cbf32757db3c405d10b2488.webp",
+            "deploymentType": "stateless",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/434fea57b46458ba0cc327a6bfd2277417a73e9b1990bdb032f032c873e1d704.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 1428,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-08T15:21:34.899Z"
+        },
+        {
+            "id": 1821,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-08T18:50:47.036Z"
+        },
+        {
+            "id": 3995,
+            "team": {
+                "name": "T0084 - ' or '1' = '1"
+            },
+            "solvedAt": "2024-11-09T19:02:08.251Z"
+        }
+    ]
+}

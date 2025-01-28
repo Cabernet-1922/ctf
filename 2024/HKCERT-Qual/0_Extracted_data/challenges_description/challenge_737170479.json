@@ -1,0 +1,65 @@
+{
+    "challenge": {
+        "id": 737170479,
+        "title": {
+            "zh": "通靈字盤 5",
+            "en": "Tuning Keyboard 5"
+        },
+        "description": {
+            "zh": "🫵(^v^)jm9.....[?](https://file.ctf.pwnable.hk/tuning-keyboard-5_0a98633513cf54dd1144131d6eec2f73.zip)\n\n##### 挑戰系列: 通靈字盤\n\n其他在此系列內的挑戰 (並沒有依存關係，可以由任何一個挑戰開始): [[5]](/challenges/737170479) • [[5.5]](/challenges/377742175)",
+            "en": "🫵(^v^)jm9.....[?](https://file.ctf.pwnable.hk/tuning-keyboard-5_0a98633513cf54dd1144131d6eec2f73.zip)\n\n##### Series: Tuning Keyboard\n\nOther challenges in this series (not dependent on each other, start with the one you like): [[5]](/challenges/737170479) • [[5.5]](/challenges/377742175)"
+        },
+        "points": 255,
+        "solves": 5,
+        "releasedAt": "2024-11-08T13:00:00.000Z",
+        "categories": [
+            "misc",
+            "difficulty-3"
+        ],
+        "metadata": {
+            "author": "Ozetta",
+            "attachments": [],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/50d6f338bab3b14f5cb33cca669a5d5b.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/b93adfa4a833da660d37e48b9143a10c2625aafe9532f824fa79827ef6cc76fb.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": [
+        {
+            "id": 2862,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T09:13:58.923Z"
+        },
+        {
+            "id": 3456,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T13:22:34.624Z"
+        },
+        {
+            "id": 3966,
+            "team": {
+                "name": "T0027 - Students Taking Flags United"
+            },
+            "solvedAt": "2024-11-09T18:36:15.498Z"
+        },
+        {
+            "id": 4360,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-10T04:54:26.240Z"
+        },
+        {
+            "id": 4841,
+            "team": {
+                "name": "S0064 - Ying Wa College"
+            },
+            "solvedAt": "2024-11-10T09:30:59.919Z"
+        }
+    ]
+}

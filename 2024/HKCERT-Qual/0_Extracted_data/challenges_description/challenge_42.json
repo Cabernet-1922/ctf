@@ -1,0 +1,337 @@
+{
+    "challenge": {
+        "id": 42,
+        "title": {
+            "zh": "音感的挑戰",
+            "en": "Hearing Check"
+        },
+        "description": {
+            "zh": "以下你會聽到一段錄音，請根據範例材料（`ACEFHJLM.mid`）的名稱及內容回答題目。而家請用三十秒收聽題目及範例材料。\n\n（如範例材料內容並非上行 F 大調音階，請考慮更換音樂播放器）",
+            "en": "In the following task, you will listen to a recording. Follow the name and the content of the sample file (`ACEFHJLM.mid`) to complete the task. You now have 30 seconds to familiarize yourself with the task.\n\n(If the sample file does not sound like an Ascending F major scale, consider using another music player.)"
+        },
+        "points": 100,
+        "solves": 43,
+        "releasedAt": "2024-11-09T06:00:00.000Z",
+        "categories": [
+            "misc",
+            "difficulty-1",
+            "sub-forensic"
+        ],
+        "metadata": {
+            "author": "TWY",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/midi_0cae4078255f3d4d14bf63bc62f09b6a.zip",
+                    "name": "midi_0cae4078255f3d4d14bf63bc62f09b6a.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/b85e5d5220387d47ffebb2cc0875e28a.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/c67caec1d2d448b8d497c3af452a26d9619d8c964f54afbf2c51ceef6a523124.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": [
+        {
+            "id": 2604,
+            "team": {
+                "name": "T0057 - NuttyShell Red"
+            },
+            "solvedAt": "2024-11-09T06:43:43.861Z"
+        },
+        {
+            "id": 2609,
+            "team": {
+                "name": "T0056 - NuttyShell"
+            },
+            "solvedAt": "2024-11-09T06:48:03.401Z"
+        },
+        {
+            "id": 2612,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-09T06:49:03.123Z"
+        },
+        {
+            "id": 2691,
+            "team": {
+                "name": "O0073 - Nightwing"
+            },
+            "solvedAt": "2024-11-09T07:32:32.608Z"
+        },
+        {
+            "id": 2713,
+            "team": {
+                "name": "T0051 - PwnStars"
+            },
+            "solvedAt": "2024-11-09T07:50:10.634Z"
+        },
+        {
+            "id": 2782,
+            "team": {
+                "name": "Echo"
+            },
+            "solvedAt": "2024-11-09T08:22:57.858Z"
+        },
+        {
+            "id": 2816,
+            "team": {
+                "name": "T0063 - kawaii firebird chan imprisons me every day"
+            },
+            "solvedAt": "2024-11-09T08:43:21.127Z"
+        },
+        {
+            "id": 2850,
+            "team": {
+                "name": "Ph0ny"
+            },
+            "solvedAt": "2024-11-09T09:06:47.896Z"
+        },
+        {
+            "id": 2901,
+            "team": {
+                "name": "O0103 - Aussie Wildlife"
+            },
+            "solvedAt": "2024-11-09T09:30:41.040Z"
+        },
+        {
+            "id": 2913,
+            "team": {
+                "name": "T0037 - Google Or Mushroom"
+            },
+            "solvedAt": "2024-11-09T09:36:03.082Z"
+        },
+        {
+            "id": 3070,
+            "team": {
+                "name": "Aqua Cat"
+            },
+            "solvedAt": "2024-11-09T10:25:01.117Z"
+        },
+        {
+            "id": 3116,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-09T10:45:55.130Z"
+        },
+        {
+            "id": 3137,
+            "team": {
+                "name": "O0104 - NuttyShell Purple"
+            },
+            "solvedAt": "2024-11-09T10:55:41.318Z"
+        },
+        {
+            "id": 3199,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T11:19:39.312Z"
+        },
+        {
+            "id": 3247,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T11:36:30.997Z"
+        },
+        {
+            "id": 3253,
+            "team": {
+                "name": "O0023 - 404: APT Not Found"
+            },
+            "solvedAt": "2024-11-09T11:40:41.294Z"
+        },
+        {
+            "id": 3414,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T13:02:18.585Z"
+        },
+        {
+            "id": 3527,
+            "team": {
+                "name": "T0078 - FLAG{jackpot_777}"
+            },
+            "solvedAt": "2024-11-09T13:59:41.693Z"
+        },
+        {
+            "id": 3528,
+            "team": {
+                "name": "S0065 - Tseung Kwan O Government Secondary School"
+            },
+            "solvedAt": "2024-11-09T13:59:46.526Z"
+        },
+        {
+            "id": 3580,
+            "team": {
+                "name": "O0072 - TheBeginners"
+            },
+            "solvedAt": "2024-11-09T14:24:24.475Z"
+        },
+        {
+            "id": 3689,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-09T15:17:07.911Z"
+        },
+        {
+            "id": 3706,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T15:29:32.719Z"
+        },
+        {
+            "id": 3746,
+            "team": {
+                "name": "Lorem Ipsec"
+            },
+            "solvedAt": "2024-11-09T15:56:54.981Z"
+        },
+        {
+            "id": 3839,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T16:49:53.681Z"
+        },
+        {
+            "id": 3919,
+            "team": {
+                "name": "bhackari"
+            },
+            "solvedAt": "2024-11-09T17:46:13.114Z"
+        },
+        {
+            "id": 3923,
+            "team": {
+                "name": "MoaiMan"
+            },
+            "solvedAt": "2024-11-09T17:49:19.735Z"
+        },
+        {
+            "id": 3942,
+            "team": {
+                "name": "La frèrerie"
+            },
+            "solvedAt": "2024-11-09T18:10:29.065Z"
+        },
+        {
+            "id": 4018,
+            "team": {
+                "name": "Okizeme"
+            },
+            "solvedAt": "2024-11-09T19:28:20.084Z"
+        },
+        {
+            "id": 4044,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T20:33:38.306Z"
+        },
+        {
+            "id": 4073,
+            "team": {
+                "name": "valgrind"
+            },
+            "solvedAt": "2024-11-09T21:20:56.253Z"
+        },
+        {
+            "id": 4242,
+            "team": {
+                "name": "suica"
+            },
+            "solvedAt": "2024-11-10T02:46:09.919Z"
+        },
+        {
+            "id": 4317,
+            "team": {
+                "name": "Jarkom? "
+            },
+            "solvedAt": "2024-11-10T04:04:46.833Z"
+        },
+        {
+            "id": 4358,
+            "team": {
+                "name": "T0070 - throw stone to water"
+            },
+            "solvedAt": "2024-11-10T04:53:09.010Z"
+        },
+        {
+            "id": 4458,
+            "team": {
+                "name": "T0059 - NuttyShell Green"
+            },
+            "solvedAt": "2024-11-10T06:08:21.394Z"
+        },
+        {
+            "id": 4461,
+            "team": {
+                "name": "T0075 - Jeff's Team"
+            },
+            "solvedAt": "2024-11-10T06:14:05.251Z"
+        },
+        {
+            "id": 4520,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-10T06:55:48.600Z"
+        },
+        {
+            "id": 4636,
+            "team": {
+                "name": "T0061 - THEI"
+            },
+            "solvedAt": "2024-11-10T08:13:55.619Z"
+        },
+        {
+            "id": 4709,
+            "team": {
+                "name": "Phish Paprikash"
+            },
+            "solvedAt": "2024-11-10T08:47:21.493Z"
+        },
+        {
+            "id": 4730,
+            "team": {
+                "name": "O0014 - FirebUwU"
+            },
+            "solvedAt": "2024-11-10T08:59:10.346Z"
+        },
+        {
+            "id": 4748,
+            "team": {
+                "name": "S0126 - SHATIN TSUNG TSIN SECONDARY SCHOOL"
+            },
+            "solvedAt": "2024-11-10T09:04:43.240Z"
+        },
+        {
+            "id": 4818,
+            "team": {
+                "name": "T0027 - Students Taking Flags United"
+            },
+            "solvedAt": "2024-11-10T09:26:51.786Z"
+        },
+        {
+            "id": 4887,
+            "team": {
+                "name": "S0004 - Carmel Divine Grace Foundation Secondary School"
+            },
+            "solvedAt": "2024-11-10T09:51:27.031Z"
+        },
+        {
+            "id": 4894,
+            "team": {
+                "name": "S0003 - Baptist Lui Ming Choi Secondary School"
+            },
+            "solvedAt": "2024-11-10T09:55:33.457Z"
+        }
+    ]
+}

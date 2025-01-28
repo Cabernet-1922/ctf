@@ -1,0 +1,209 @@
+{
+  "categories": [
+    {
+      "name": "Welcome to Firebird CTF 2025!",
+      "challenges": [
+        {
+          "name": "Feedback",
+          "score": 179,
+          "solves": 19
+        },
+        {
+          "name": "Sanity Check",
+          "score": 120,
+          "solves": 25
+        }
+      ]
+    },
+    {
+      "name": "Binary Challenge",
+      "challenges": [
+        {
+          "name": "UwUIncantation",
+          "score": 1000,
+          "solves": 1
+        },
+        {
+          "name": "UwUHacker",
+          "score": 935,
+          "solves": 3
+        },
+        {
+          "name": "Guess the Number",
+          "score": 970,
+          "solves": 2
+        },
+        {
+          "name": "Meoware Revenge",
+          "score": 970,
+          "solves": 2
+        },
+        {
+          "name": "TwTOF",
+          "score": 1000,
+          "solves": 0
+        },
+        {
+          "name": "UwUSpirit",
+          "score": 1000,
+          "solves": 0
+        }
+      ]
+    },
+    {
+      "name": "Reverse Challenge",
+      "challenges": [
+        {
+          "name": "Magical Runes",
+          "score": 794,
+          "solves": 6
+        },
+        {
+          "name": "No Game No Life",
+          "score": 970,
+          "solves": 2
+        },
+        {
+          "name": "Speedflagger",
+          "score": 675,
+          "solves": 8
+        },
+        {
+          "name": "Importunate Permutation",
+          "score": 1000,
+          "solves": 1
+        },
+        {
+          "name": "Meoware Analysis",
+          "score": 1000,
+          "solves": 1
+        }
+      ]
+    },
+    {
+      "name": "Web Challenge",
+      "challenges": [
+        {
+          "name": "Firebird Chan's Fanclub",
+          "score": 1000,
+          "solves": 1
+        },
+        {
+          "name": "Firebird Chan's Travel Guide",
+          "score": 736,
+          "solves": 7
+        },
+        {
+          "name": "Baby PHP",
+          "score": 894,
+          "solves": 4
+        },
+        {
+          "name": "Babier PHP",
+          "score": 894,
+          "solves": 4
+        }
+      ]
+    },
+    {
+      "name": "Crypto Challenge",
+      "challenges": [
+        {
+          "name": "3 Heraes fight against Lubu",
+          "score": 794,
+          "solves": 6
+        },
+        {
+          "name": "Project Sagekai",
+          "score": 1000,
+          "solves": 1
+        },
+        {
+          "name": "What a Mystake! (1)",
+          "score": 794,
+          "solves": 6
+        },
+        {
+          "name": "Favourite Signature",
+          "score": 935,
+          "solves": 3
+        },
+        {
+          "name": "RSA-CTR",
+          "score": 970,
+          "solves": 2
+        },
+        {
+          "name": "What a Mystake! (2)",
+          "score": 935,
+          "solves": 3
+        }
+      ]
+    },
+    {
+      "name": "Forensics Challenge",
+      "challenges": [
+        {
+          "name": "Flags Warehouse 2",
+          "score": 794,
+          "solves": 6
+        },
+        {
+          "name": "Awaria",
+          "score": 1000,
+          "solves": 1
+        },
+        {
+          "name": "Firebird-chan's SigKnow",
+          "score": 894,
+          "solves": 4
+        },
+        {
+          "name": "Hidden in Niflheim",
+          "score": 1000,
+          "solves": 1
+        },
+        {
+          "name": "Perceptie Snelle Responscode 2.0",
+          "score": 675,
+          "solves": 8
+        }
+      ]
+    },
+    {
+      "name": "Misc Challenge",
+      "challenges": [
+        {
+          "name": "Essay Enjoyer",
+          "score": 329,
+          "solves": 14
+        },
+        {
+          "name": "Broken Television",
+          "score": 611,
+          "solves": 9
+        },
+        {
+          "name": "Quad Suffer",
+          "score": 1000,
+          "solves": 1
+        },
+        {
+          "name": "Tuning Parkour",
+          "score": 794,
+          "solves": 6
+        },
+        {
+          "name": "I Wanna Get the Flag",
+          "score": 935,
+          "solves": 3
+        },
+        {
+          "name": "just read the flag",
+          "score": 1000,
+          "solves": 1
+        }
+      ]
+    }
+  ]
+}

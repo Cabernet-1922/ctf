@@ -1,0 +1,140 @@
+{
+    "challenge": {
+        "id": 22,
+        "title": {
+            "zh": "Bashed!",
+            "en": "Bashed!"
+        },
+        "description": {
+            "zh": "成個 program 淨係得一個有意義嘅 function，個 function 仲要得 500 bytes 都無。有幾難？\n\n```\n./❤️.sh ***FLAG***\n❤️\n```",
+            "en": "The program has only one meaningful function, and the function is less than 500 bytes long. What's hard understanding it?\n\n```\n./❤️.sh ***FLAG***\n❤️\n```"
+        },
+        "points": 500,
+        "solves": 15,
+        "releasedAt": "2024-11-08T10:00:00.000Z",
+        "categories": [
+            "reverse",
+            "difficulty-5"
+        ],
+        "metadata": {
+            "author": "Mystiz",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/bashed_89d984b177c984086cf3a5db1cb30adf.zip",
+                    "name": "bashed_89d984b177c984086cf3a5db1cb30adf.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/1db118010539eeae41a0611212fb0f08.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/434fea57b46458ba0cc327a6bfd2277417a73e9b1990bdb032f032c873e1d704.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": [
+        {
+            "id": 1457,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-08T15:33:37.222Z"
+        },
+        {
+            "id": 1997,
+            "team": {
+                "name": "jinmo123"
+            },
+            "solvedAt": "2024-11-08T22:42:15.308Z"
+        },
+        {
+            "id": 2423,
+            "team": {
+                "name": "TOP PROGRAMMER 2005 DATABASE MAESTRO"
+            },
+            "solvedAt": "2024-11-09T05:02:40.227Z"
+        },
+        {
+            "id": 2607,
+            "team": {
+                "name": "Aqua Cat"
+            },
+            "solvedAt": "2024-11-09T06:47:08.487Z"
+        },
+        {
+            "id": 3445,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T13:19:42.978Z"
+        },
+        {
+            "id": 3760,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T16:03:46.873Z"
+        },
+        {
+            "id": 4017,
+            "team": {
+                "name": "T0063 - kawaii firebird chan imprisons me every day"
+            },
+            "solvedAt": "2024-11-09T19:27:57.710Z"
+        },
+        {
+            "id": 4071,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T21:15:49.723Z"
+        },
+        {
+            "id": 4144,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-09T23:32:45.527Z"
+        },
+        {
+            "id": 4171,
+            "team": {
+                "name": "I'm Carried by Putra's Family"
+            },
+            "solvedAt": "2024-11-10T00:42:45.153Z"
+        },
+        {
+            "id": 4291,
+            "team": {
+                "name": "RipeRice🌾"
+            },
+            "solvedAt": "2024-11-10T03:32:10.140Z"
+        },
+        {
+            "id": 4607,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-10T07:49:39.111Z"
+        },
+        {
+            "id": 4703,
+            "team": {
+                "name": "Asuri"
+            },
+            "solvedAt": "2024-11-10T08:44:42.021Z"
+        },
+        {
+            "id": 4890,
+            "team": {
+                "name": "Ph0ny"
+            },
+            "solvedAt": "2024-11-10T09:53:45.132Z"
+        },
+        {
+            "id": 4892,
+            "team": {
+                "name": "Echo"
+            },
+            "solvedAt": "2024-11-10T09:54:21.758Z"
+        }
+    ]
+}

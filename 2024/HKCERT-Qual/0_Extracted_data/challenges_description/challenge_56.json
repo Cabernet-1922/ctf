@@ -1,0 +1,168 @@
+{
+    "challenge": {
+        "id": 56,
+        "title": {
+            "zh": "ChatGGT (2)",
+            "en": "ChatGGT (2)"
+        },
+        "description": {
+            "zh": "我哋收到唔少意見指出聊天機械人（初版）睇落唔多似人工智能咁。好，呢度隆重呈獻採用左最新人工智能模型嘅聊天機械人，chatggt1.1!\n\n##### 挑戰系列: ChatGGT\n\n其他在此系列內的挑戰 (並沒有依存關係，可以由任何一個挑戰開始): [1️⃣](/challenges/64) • [2️⃣](/challenges/56)",
+            "en": "There are so many feedbacks state that my chatbot(prototype) does not response like an AI. Well, here we are, the chatbot adapted with latest AI model, chatggt1.1!\n\n##### Series: ChatGGT\n\nOther challenges in this series (not dependent on each other, start with the one you like): [1️⃣](/challenges/64) • [2️⃣](/challenges/56)"
+        },
+        "points": 230,
+        "solves": 19,
+        "releasedAt": "2024-11-09T06:00:00.000Z",
+        "categories": [
+            "pwn",
+            "difficulty-3"
+        ],
+        "metadata": {
+            "author": "Cire Meat Pop",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/chatggt2_91611c2cf7569937ecc1e61b55bd244d.zip",
+                    "name": "chatggt2_91611c2cf7569937ecc1e61b55bd244d.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/95e748371612b668038abaf9e87098b8.webp",
+            "deploymentType": "stateless",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/630b7d16c331585f27d909408d95432841f78e1f7266dfdb662e2e51ab5d1c95.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 2769,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T08:16:27.189Z"
+        },
+        {
+            "id": 2819,
+            "team": {
+                "name": "FlagMotori"
+            },
+            "solvedAt": "2024-11-09T08:44:18.705Z"
+        },
+        {
+            "id": 2869,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T09:16:06.972Z"
+        },
+        {
+            "id": 2919,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T09:39:49.971Z"
+        },
+        {
+            "id": 3151,
+            "team": {
+                "name": "Just For The Questions"
+            },
+            "solvedAt": "2024-11-09T11:02:09.381Z"
+        },
+        {
+            "id": 3226,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T11:30:17.869Z"
+        },
+        {
+            "id": 3399,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T12:55:09.386Z"
+        },
+        {
+            "id": 3477,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T13:33:54.126Z"
+        },
+        {
+            "id": 3511,
+            "team": {
+                "name": "T0037 - Google Or Mushroom"
+            },
+            "solvedAt": "2024-11-09T13:53:10.358Z"
+        },
+        {
+            "id": 3705,
+            "team": {
+                "name": "jinmo123"
+            },
+            "solvedAt": "2024-11-09T15:28:42.710Z"
+        },
+        {
+            "id": 3737,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T15:49:05.232Z"
+        },
+        {
+            "id": 3814,
+            "team": {
+                "name": "bhackari"
+            },
+            "solvedAt": "2024-11-09T16:37:53.985Z"
+        },
+        {
+            "id": 4049,
+            "team": {
+                "name": "Phish Paprikash"
+            },
+            "solvedAt": "2024-11-09T20:40:31.755Z"
+        },
+        {
+            "id": 4148,
+            "team": {
+                "name": "CrémeTartinéFabuleuse"
+            },
+            "solvedAt": "2024-11-09T23:42:47.534Z"
+        },
+        {
+            "id": 4177,
+            "team": {
+                "name": "spookies"
+            },
+            "solvedAt": "2024-11-10T00:56:30.130Z"
+        },
+        {
+            "id": 4347,
+            "team": {
+                "name": "valgrind"
+            },
+            "solvedAt": "2024-11-10T04:37:28.928Z"
+        },
+        {
+            "id": 4553,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T07:19:39.867Z"
+        },
+        {
+            "id": 4851,
+            "team": {
+                "name": "情不知所起一往而深"
+            },
+            "solvedAt": "2024-11-10T09:32:23.763Z"
+        },
+        {
+            "id": 4873,
+            "team": {
+                "name": "16j"
+            },
+            "solvedAt": "2024-11-10T09:45:14.898Z"
+        }
+    ]
+}

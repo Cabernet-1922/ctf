@@ -1,0 +1,287 @@
+{
+    "challenge": {
+        "id": 15,
+        "title": {
+            "zh": "旗幟檢查機",
+            "en": "Flag Checker"
+        },
+        "description": {
+            "zh": "餛飩麵就叫細蓉，白飯就叫靚仔，咁樣呢題個旗幟又叫咩呢?唔洗怕，我寫左個程式幫你檢查啱唔啱。",
+            "en": "Wonton noodles are called 'small minced', rice is called 'handsome', so what was the flag called? Don't worry, I've written a program to help you check if it's right."
+        },
+        "points": 200,
+        "solves": 36,
+        "releasedAt": "2024-11-09T06:00:00.000Z",
+        "categories": [
+            "reverse",
+            "difficulty-2"
+        ],
+        "metadata": {
+            "author": "viky",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/flag-checker_572d8ab991b56e0199b3308c422ee937.zip",
+                    "name": "flag-checker_572d8ab991b56e0199b3308c422ee937.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/17cc21e08c1e209237c535c1005c5cbe.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/2339ce1be7923654a340ef203d6b055ce4d0b9861e5b7bbfd2c818e931a47ddb.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": [
+        {
+            "id": 2631,
+            "team": {
+                "name": "NEURON"
+            },
+            "solvedAt": "2024-11-09T07:00:51.399Z"
+        },
+        {
+            "id": 2687,
+            "team": {
+                "name": "SU"
+            },
+            "solvedAt": "2024-11-09T07:30:21.712Z"
+        },
+        {
+            "id": 2751,
+            "team": {
+                "name": "Aqua Cat"
+            },
+            "solvedAt": "2024-11-09T08:09:03.152Z"
+        },
+        {
+            "id": 2818,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T08:44:13.577Z"
+        },
+        {
+            "id": 3280,
+            "team": {
+                "name": "RipeRice🌾"
+            },
+            "solvedAt": "2024-11-09T11:54:40.731Z"
+        },
+        {
+            "id": 3349,
+            "team": {
+                "name": "acdwas"
+            },
+            "solvedAt": "2024-11-09T12:22:37.995Z"
+        },
+        {
+            "id": 3488,
+            "team": {
+                "name": "Just For The Questions"
+            },
+            "solvedAt": "2024-11-09T13:38:49.144Z"
+        },
+        {
+            "id": 3515,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-09T13:53:57.095Z"
+        },
+        {
+            "id": 3522,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T13:57:22.969Z"
+        },
+        {
+            "id": 3614,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T14:35:27.520Z"
+        },
+        {
+            "id": 3620,
+            "team": {
+                "name": "Chinagdn【JY】"
+            },
+            "solvedAt": "2024-11-09T14:39:32.199Z"
+        },
+        {
+            "id": 3731,
+            "team": {
+                "name": "CyberCh1ck"
+            },
+            "solvedAt": "2024-11-09T15:46:53.715Z"
+        },
+        {
+            "id": 3756,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T16:00:49.411Z"
+        },
+        {
+            "id": 3794,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T16:21:14.722Z"
+        },
+        {
+            "id": 3806,
+            "team": {
+                "name": "Lorem Ipsec"
+            },
+            "solvedAt": "2024-11-09T16:28:32.613Z"
+        },
+        {
+            "id": 3832,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-09T16:46:52.577Z"
+        },
+        {
+            "id": 3958,
+            "team": {
+                "name": "BKISC"
+            },
+            "solvedAt": "2024-11-09T18:27:33.277Z"
+        },
+        {
+            "id": 3959,
+            "team": {
+                "name": "I'm Carried by Putra's Family"
+            },
+            "solvedAt": "2024-11-09T18:28:54.478Z"
+        },
+        {
+            "id": 4014,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T19:25:11.693Z"
+        },
+        {
+            "id": 4024,
+            "team": {
+                "name": "T0051 - PwnStars"
+            },
+            "solvedAt": "2024-11-09T19:44:13.018Z"
+        },
+        {
+            "id": 4041,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T20:23:27.165Z"
+        },
+        {
+            "id": 4050,
+            "team": {
+                "name": "Davidpb"
+            },
+            "solvedAt": "2024-11-09T20:41:35.963Z"
+        },
+        {
+            "id": 4100,
+            "team": {
+                "name": "xyz"
+            },
+            "solvedAt": "2024-11-09T22:04:04.024Z"
+        },
+        {
+            "id": 4121,
+            "team": {
+                "name": "La frèrerie"
+            },
+            "solvedAt": "2024-11-09T22:39:23.667Z"
+        },
+        {
+            "id": 4132,
+            "team": {
+                "name": "T0037 - Google Or Mushroom"
+            },
+            "solvedAt": "2024-11-09T23:06:40.794Z"
+        },
+        {
+            "id": 4133,
+            "team": {
+                "name": "MEOW MEOW MEOW MEOW MEOW"
+            },
+            "solvedAt": "2024-11-09T23:07:14.566Z"
+        },
+        {
+            "id": 4153,
+            "team": {
+                "name": "T0070 - throw stone to water"
+            },
+            "solvedAt": "2024-11-09T23:48:15.430Z"
+        },
+        {
+            "id": 4201,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-10T01:54:30.141Z"
+        },
+        {
+            "id": 4442,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T05:53:23.999Z"
+        },
+        {
+            "id": 4517,
+            "team": {
+                "name": "f4n_n3r0"
+            },
+            "solvedAt": "2024-11-10T06:53:20.321Z"
+        },
+        {
+            "id": 4622,
+            "team": {
+                "name": "S0002 - King George V School"
+            },
+            "solvedAt": "2024-11-10T08:01:05.729Z"
+        },
+        {
+            "id": 4652,
+            "team": {
+                "name": "Ph0ny"
+            },
+            "solvedAt": "2024-11-10T08:25:52.845Z"
+        },
+        {
+            "id": 4656,
+            "team": {
+                "name": "Mr.Robot"
+            },
+            "solvedAt": "2024-11-10T08:26:50.333Z"
+        },
+        {
+            "id": 4744,
+            "team": {
+                "name": "Echo"
+            },
+            "solvedAt": "2024-11-10T09:04:20.580Z"
+        },
+        {
+            "id": 4808,
+            "team": {
+                "name": "T0063 - kawaii firebird chan imprisons me every day"
+            },
+            "solvedAt": "2024-11-10T09:19:46.215Z"
+        },
+        {
+            "id": 4826,
+            "team": {
+                "name": "T0027 - Students Taking Flags United"
+            },
+            "solvedAt": "2024-11-10T09:28:26.512Z"
+        }
+    ]
+}

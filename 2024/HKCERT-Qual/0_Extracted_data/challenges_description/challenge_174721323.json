@@ -1,0 +1,196 @@
+{
+    "challenge": {
+        "id": 174721323,
+        "title": {
+            "zh": "Shellcode 運行器 3 復仇",
+            "en": "Shellcode Runner 3 Revenge"
+        },
+        "description": {
+            "zh": "你們最愛的Shellcode 運行器系列又回來了！\n這一次，我們不再用任何沙箱來限制您。這應該會成為一個簡單的挑戰......對吧？\n而復仇也回來了…",
+            "en": "Your favorite series of Shellcode runners is back!\nThis time, we're not limiting you with any sandboxes. This should be an easy challenge...right?\nAnd the revenge also return..."
+        },
+        "points": 150,
+        "solves": 23,
+        "releasedAt": "2024-11-09T10:00:00.000Z",
+        "categories": [
+            "pwn",
+            "difficulty-3"
+        ],
+        "metadata": {
+            "author": "botton",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/shellcode-runner3-rev_da20fdb73c388af369f0343c26cda1c6.zip",
+                    "name": "shellcode-runner3-rev_da20fdb73c388af369f0343c26cda1c6.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/389cf7d664cf646d0aec42f38e6a165c.webp",
+            "deploymentType": "stateless",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/01c51261118171130987068e4dd86a28d6dd219ff65eb0ac6504fbbeae5c7354.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 2983,
+            "team": {
+                "name": "Just For The Questions"
+            },
+            "solvedAt": "2024-11-09T10:05:52.762Z"
+        },
+        {
+            "id": 3081,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T10:29:05.584Z"
+        },
+        {
+            "id": 3096,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T10:33:35.038Z"
+        },
+        {
+            "id": 3115,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T10:45:47.349Z"
+        },
+        {
+            "id": 3190,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T11:13:52.833Z"
+        },
+        {
+            "id": 3198,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T11:19:27.260Z"
+        },
+        {
+            "id": 3255,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-09T11:41:32.437Z"
+        },
+        {
+            "id": 3306,
+            "team": {
+                "name": "RipeRice🌾"
+            },
+            "solvedAt": "2024-11-09T12:06:41.618Z"
+        },
+        {
+            "id": 3324,
+            "team": {
+                "name": "T0037 - Google Or Mushroom"
+            },
+            "solvedAt": "2024-11-09T12:11:38.546Z"
+        },
+        {
+            "id": 3368,
+            "team": {
+                "name": "bhackari"
+            },
+            "solvedAt": "2024-11-09T12:36:36.190Z"
+        },
+        {
+            "id": 3397,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T12:53:57.755Z"
+        },
+        {
+            "id": 3405,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T12:59:49.585Z"
+        },
+        {
+            "id": 3631,
+            "team": {
+                "name": "jinmo123"
+            },
+            "solvedAt": "2024-11-09T14:46:46.556Z"
+        },
+        {
+            "id": 3700,
+            "team": {
+                "name": "FlagMotori"
+            },
+            "solvedAt": "2024-11-09T15:24:38.195Z"
+        },
+        {
+            "id": 3732,
+            "team": {
+                "name": "spookies"
+            },
+            "solvedAt": "2024-11-09T15:47:42.368Z"
+        },
+        {
+            "id": 3953,
+            "team": {
+                "name": "Phish Paprikash"
+            },
+            "solvedAt": "2024-11-09T18:22:01.769Z"
+        },
+        {
+            "id": 4006,
+            "team": {
+                "name": "G04T3DP30PL3"
+            },
+            "solvedAt": "2024-11-09T19:15:35.401Z"
+        },
+        {
+            "id": 4200,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-10T01:52:23.143Z"
+        },
+        {
+            "id": 4241,
+            "team": {
+                "name": "whitebunny314"
+            },
+            "solvedAt": "2024-11-10T02:45:53.742Z"
+        },
+        {
+            "id": 4295,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-10T03:32:54.661Z"
+        },
+        {
+            "id": 4407,
+            "team": {
+                "name": "Chinagdn【JY】"
+            },
+            "solvedAt": "2024-11-10T05:32:08.220Z"
+        },
+        {
+            "id": 4414,
+            "team": {
+                "name": "Asuri"
+            },
+            "solvedAt": "2024-11-10T05:38:50.687Z"
+        },
+        {
+            "id": 4550,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T07:19:12.125Z"
+        }
+    ]
+}

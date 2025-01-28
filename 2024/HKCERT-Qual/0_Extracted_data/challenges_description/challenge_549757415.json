@@ -1,0 +1,126 @@
+{
+    "challenge": {
+        "id": 549757415,
+        "title": {
+            "zh": "已知用火 (2)",
+            "en": "Custom Web Server (2)"
+        },
+        "description": {
+            "zh": "有人說：「自家製 server 有個好處是被 hack 難度大增」。你同意嗎？試論述之。\n\n你問我呢題同上一題有咩分別？無㗎，我用咗 nginx 做 proxy 咋嘛。\n\n備註：喺 `src/public` 入面嘅檔案仍然都係唔重要嘅。\n\n##### 挑戰系列: 已知用火\n\n其他在此系列內的挑戰: [1️⃣](/challenges/406561047) • [2️⃣](/challenges/549757415)",
+            "en": "Someone said: 'One advantage of having a homemade server is that it becomes much harder to hack.' Do you agree? Give reasons.\n\nWhat is the difference between this and the first part? I will also use nginx to proxy your requests this time!\n\nNote: The files in `src/public` are still unrelated for the challenge.\n\n##### Series: Custom Web Server\n\nOther challenges in this series: [1️⃣](/challenges/406561047) • [2️⃣](/challenges/549757415)"
+        },
+        "points": 300,
+        "solves": 13,
+        "releasedAt": "2024-11-08T10:00:00.000Z",
+        "categories": [
+            "web",
+            "difficulty-3"
+        ],
+        "metadata": {
+            "author": "Mystiz",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/custom-server-2_ceb1b67883e9927a349ecc1cafa138a5.zip",
+                    "name": "custom-server-2_ceb1b67883e9927a349ecc1cafa138a5.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/bf83e00cef7d368a6cc4742436a82bbd.webp",
+            "deploymentType": "stateful",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/434fea57b46458ba0cc327a6bfd2277417a73e9b1990bdb032f032c873e1d704.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 1090,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-08T13:23:00.225Z"
+        },
+        {
+            "id": 1207,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-08T14:03:37.066Z"
+        },
+        {
+            "id": 1454,
+            "team": {
+                "name": "NEURON"
+            },
+            "solvedAt": "2024-11-08T15:32:07.303Z"
+        },
+        {
+            "id": 1540,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-08T16:07:22.030Z"
+        },
+        {
+            "id": 1863,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-08T19:32:24.818Z"
+        },
+        {
+            "id": 1881,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-08T19:52:04.891Z"
+        },
+        {
+            "id": 1922,
+            "team": {
+                "name": "La frèrerie"
+            },
+            "solvedAt": "2024-11-08T20:46:34.105Z"
+        },
+        {
+            "id": 2008,
+            "team": {
+                "name": "zimzi"
+            },
+            "solvedAt": "2024-11-08T22:56:48.028Z"
+        },
+        {
+            "id": 3568,
+            "team": {
+                "name": "FCCPC"
+            },
+            "solvedAt": "2024-11-09T14:19:03.872Z"
+        },
+        {
+            "id": 3812,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T16:36:36.054Z"
+        },
+        {
+            "id": 3973,
+            "team": {
+                "name": "FlagMotori"
+            },
+            "solvedAt": "2024-11-09T18:41:32.359Z"
+        },
+        {
+            "id": 4163,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-10T00:16:41.328Z"
+        },
+        {
+            "id": 4754,
+            "team": {
+                "name": "O0104 - NuttyShell Purple"
+            },
+            "solvedAt": "2024-11-10T09:05:06.599Z"
+        }
+    ]
+}

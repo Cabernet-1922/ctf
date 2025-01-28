@@ -1,0 +1,196 @@
+{
+    "challenge": {
+        "id": 454056428,
+        "title": {
+            "zh": "飛鴿傳書 (2)",
+            "en": "Pigeon Post (2)"
+        },
+        "description": {
+            "zh": "於辛酉年（西曆一千八百六十一年），吾敵阿麗斯與拜倫察覺歐澤塔正窺探其書信。二人遂決意再尋汝為傳信者，然此時已預先定妥密鑰。\n\n此番汝能得其密語否？\n\n##### 挑戰系列: 飛鴿傳書\n\n其他在此系列內的挑戰: [1️⃣](/challenges/220391850) • [2️⃣](/challenges/454056428)",
+            "en": "In 1861, our antagonists Alice and Byron noticed that Ozetta is actively sniffing their messages. They decided to look for you for transmitting their messages, but this time they have already come up with a key beforehand.\n\nCan you retrieve their secret this time?\n\n##### Series: Pigeon Post\n\nOther challenges in this series: [1️⃣](/challenges/220391850) • [2️⃣](/challenges/454056428)"
+        },
+        "points": 250,
+        "solves": 23,
+        "releasedAt": "2024-11-09T02:00:00.000Z",
+        "categories": [
+            "crypto",
+            "difficulty-3"
+        ],
+        "metadata": {
+            "author": "Mystiz",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/pigeon-2_89c2d274e99f6ce5f776b691869a83ad.zip",
+                    "name": "pigeon-2_89c2d274e99f6ce5f776b691869a83ad.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/c4891f78aed7e35b0d1b4fbe3ca7ddd7.webp",
+            "deploymentType": "stateless",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/434fea57b46458ba0cc327a6bfd2277417a73e9b1990bdb032f032c873e1d704.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 2174,
+            "team": {
+                "name": "Aqua Cat"
+            },
+            "solvedAt": "2024-11-09T02:42:35.307Z"
+        },
+        {
+            "id": 2262,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-09T03:25:24.469Z"
+        },
+        {
+            "id": 2491,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-09T05:34:35.618Z"
+        },
+        {
+            "id": 2578,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T06:19:21.386Z"
+        },
+        {
+            "id": 2848,
+            "team": {
+                "name": "BKISC"
+            },
+            "solvedAt": "2024-11-09T09:06:14.572Z"
+        },
+        {
+            "id": 3035,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T10:18:25.731Z"
+        },
+        {
+            "id": 3047,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T10:20:37.795Z"
+        },
+        {
+            "id": 3481,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T13:36:03.193Z"
+        },
+        {
+            "id": 3550,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T14:10:21.382Z"
+        },
+        {
+            "id": 3695,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-09T15:22:07.344Z"
+        },
+        {
+            "id": 3721,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T15:39:41.945Z"
+        },
+        {
+            "id": 3804,
+            "team": {
+                "name": "T0070 - throw stone to water"
+            },
+            "solvedAt": "2024-11-09T16:28:01.760Z"
+        },
+        {
+            "id": 3910,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T17:42:29.613Z"
+        },
+        {
+            "id": 3967,
+            "team": {
+                "name": "Setters"
+            },
+            "solvedAt": "2024-11-09T18:36:48.566Z"
+        },
+        {
+            "id": 3990,
+            "team": {
+                "name": "MEOW MEOW MEOW MEOW MEOW"
+            },
+            "solvedAt": "2024-11-09T18:56:47.463Z"
+        },
+        {
+            "id": 4235,
+            "team": {
+                "name": "MoaiMan"
+            },
+            "solvedAt": "2024-11-10T02:43:03.649Z"
+        },
+        {
+            "id": 4454,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-10T06:01:12.097Z"
+        },
+        {
+            "id": 4694,
+            "team": {
+                "name": "Ph0ny"
+            },
+            "solvedAt": "2024-11-10T08:42:09.178Z"
+        },
+        {
+            "id": 4695,
+            "team": {
+                "name": "Mr.Robot"
+            },
+            "solvedAt": "2024-11-10T08:42:15.657Z"
+        },
+        {
+            "id": 4702,
+            "team": {
+                "name": "HakcerMan"
+            },
+            "solvedAt": "2024-11-10T08:44:36.585Z"
+        },
+        {
+            "id": 4707,
+            "team": {
+                "name": "Echo"
+            },
+            "solvedAt": "2024-11-10T08:45:35.616Z"
+        },
+        {
+            "id": 4827,
+            "team": {
+                "name": "T0027 - Students Taking Flags United"
+            },
+            "solvedAt": "2024-11-10T09:28:34.716Z"
+        },
+        {
+            "id": 4876,
+            "team": {
+                "name": "wgpsec"
+            },
+            "solvedAt": "2024-11-10T09:46:44.124Z"
+        }
+    ]
+}

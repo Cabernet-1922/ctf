@@ -1,0 +1,259 @@
+{
+    "challenge": {
+        "id": 318612757,
+        "title": {
+            "zh": "PDF 生成器（2）",
+            "en": "Webpage to PDF (2)"
+        },
+        "description": {
+            "zh": "好啦好啦，我知道直接用 Poe 寫出嚟並唔太掂。 咁喺網上面裝程式庫 (Library) 得啦掛？\n\n##### 挑戰系列: PDF 生成器\n\n其他在此系列內的挑戰 (並沒有依存關係，可以由任何一個挑戰開始): [1️⃣](/challenges/833501209) • [2️⃣](/challenges/318612757)",
+            "en": "Okok I know Poe I used was bad and I just install library randomly from the Internet. I should be fine right?\n\n##### Series: Webpage to PDF\n\nOther challenges in this series (not dependent on each other, start with the one you like): [1️⃣](/challenges/833501209) • [2️⃣](/challenges/318612757)"
+        },
+        "points": 150,
+        "solves": 32,
+        "releasedAt": "2024-11-09T02:00:00.000Z",
+        "categories": [
+            "web",
+            "difficulty-2"
+        ],
+        "metadata": {
+            "author": "apple",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/webpage-to-pdf-2_ccae31b1e6c16204ec258c8c4f3d1be2.zip",
+                    "name": "webpage-to-pdf-2_ccae31b1e6c16204ec258c8c4f3d1be2.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/d14cd15073d105e6d91a45d66c02534e.webp",
+            "deploymentType": "stateful",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/3a7bd3e2360a3d29eea436fcfb7e44c735d117c42d1c1835420b6b9942dd4f1b.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 2206,
+            "team": {
+                "name": "I'm Carried by Putra's Family"
+            },
+            "solvedAt": "2024-11-09T02:54:32.611Z"
+        },
+        {
+            "id": 2259,
+            "team": {
+                "name": "O0014 - FirebUwU"
+            },
+            "solvedAt": "2024-11-09T03:22:21.706Z"
+        },
+        {
+            "id": 2372,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-09T04:33:35.835Z"
+        },
+        {
+            "id": 2489,
+            "team": {
+                "name": "T0067 - HKU"
+            },
+            "solvedAt": "2024-11-09T05:33:49.317Z"
+        },
+        {
+            "id": 2538,
+            "team": {
+                "name": "RipeRice🌾"
+            },
+            "solvedAt": "2024-11-09T05:58:22.621Z"
+        },
+        {
+            "id": 2669,
+            "team": {
+                "name": "packpack"
+            },
+            "solvedAt": "2024-11-09T07:23:42.609Z"
+        },
+        {
+            "id": 2703,
+            "team": {
+                "name": "NEURON"
+            },
+            "solvedAt": "2024-11-09T07:39:36.034Z"
+        },
+        {
+            "id": 3045,
+            "team": {
+                "name": "Chinagdn【JY】"
+            },
+            "solvedAt": "2024-11-09T10:20:17.565Z"
+        },
+        {
+            "id": 3156,
+            "team": {
+                "name": "spookies"
+            },
+            "solvedAt": "2024-11-09T11:03:27.555Z"
+        },
+        {
+            "id": 3248,
+            "team": {
+                "name": "La frèrerie"
+            },
+            "solvedAt": "2024-11-09T11:37:07.310Z"
+        },
+        {
+            "id": 3434,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T13:14:36.999Z"
+        },
+        {
+            "id": 3653,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T14:57:07.919Z"
+        },
+        {
+            "id": 3701,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T15:25:45.478Z"
+        },
+        {
+            "id": 3748,
+            "team": {
+                "name": "S™"
+            },
+            "solvedAt": "2024-11-09T15:58:31.036Z"
+        },
+        {
+            "id": 3749,
+            "team": {
+                "name": "T0059 - NuttyShell Green"
+            },
+            "solvedAt": "2024-11-09T15:58:39.639Z"
+        },
+        {
+            "id": 3770,
+            "team": {
+                "name": "sakura"
+            },
+            "solvedAt": "2024-11-09T16:08:45.170Z"
+        },
+        {
+            "id": 3849,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-09T16:57:34.441Z"
+        },
+        {
+            "id": 3863,
+            "team": {
+                "name": "HackOverflow"
+            },
+            "solvedAt": "2024-11-09T17:14:51.129Z"
+        },
+        {
+            "id": 3880,
+            "team": {
+                "name": "S0002 - King George V School"
+            },
+            "solvedAt": "2024-11-09T17:23:43.206Z"
+        },
+        {
+            "id": 3928,
+            "team": {
+                "name": "c00c00"
+            },
+            "solvedAt": "2024-11-09T17:52:00.697Z"
+        },
+        {
+            "id": 4013,
+            "team": {
+                "name": "[[H@ck3r.dro7]"
+            },
+            "solvedAt": "2024-11-09T19:24:50.639Z"
+        },
+        {
+            "id": 4069,
+            "team": {
+                "name": "bhackari"
+            },
+            "solvedAt": "2024-11-09T21:12:42.530Z"
+        },
+        {
+            "id": 4075,
+            "team": {
+                "name": "O0117 - EzAntiPwn"
+            },
+            "solvedAt": "2024-11-09T21:23:22.682Z"
+        },
+        {
+            "id": 4108,
+            "team": {
+                "name": "Sentenced to 5 years of pyjail"
+            },
+            "solvedAt": "2024-11-09T22:12:35.453Z"
+        },
+        {
+            "id": 4278,
+            "team": {
+                "name": "Z&roDivision£rr0r"
+            },
+            "solvedAt": "2024-11-10T03:17:49.211Z"
+        },
+        {
+            "id": 4340,
+            "team": {
+                "name": "T0085 - FireForgotten"
+            },
+            "solvedAt": "2024-11-10T04:32:05.875Z"
+        },
+        {
+            "id": 4418,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T05:40:02.153Z"
+        },
+        {
+            "id": 4615,
+            "team": {
+                "name": "T0051 - PwnStars"
+            },
+            "solvedAt": "2024-11-10T07:55:15.588Z"
+        },
+        {
+            "id": 4628,
+            "team": {
+                "name": "O0113 - Oui Oui Baguette"
+            },
+            "solvedAt": "2024-11-10T08:08:13.142Z"
+        },
+        {
+            "id": 4675,
+            "team": {
+                "name": "T0057 - NuttyShell Red"
+            },
+            "solvedAt": "2024-11-10T08:36:42.129Z"
+        },
+        {
+            "id": 4779,
+            "team": {
+                "name": "T0056 - NuttyShell"
+            },
+            "solvedAt": "2024-11-10T09:11:26.407Z"
+        },
+        {
+            "id": 4836,
+            "team": {
+                "name": "T0027 - Students Taking Flags United"
+            },
+            "solvedAt": "2024-11-10T09:29:01.525Z"
+        }
+    ]
+}

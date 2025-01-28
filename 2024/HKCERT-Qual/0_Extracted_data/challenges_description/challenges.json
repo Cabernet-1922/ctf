@@ -1,0 +1,406 @@
+{
+  "web": [
+    {
+      "id": 8,
+      "name": "New Free Lunch",
+      "score": 100,
+      "solves": 587,
+      "red_chilli": 1
+    },
+    {
+      "id": 927344357,
+      "name": "Mystiz's Mini CTF (2)",
+      "score": 100,
+      "solves": 72,
+      "red_chilli": 1
+    },
+    {
+      "id": 318612757,
+      "name": "Webpage to PDF (2)",
+      "score": 150,
+      "solves": 32,
+      "red_chilli": 2
+    },
+    {
+      "id": 406561047,
+      "name": "Custom Web Server (1)",
+      "score": 150,
+      "solves": 95,
+      "red_chilli": 2
+    },
+    {
+      "id": 833501209,
+      "name": "Webpage to PDF (1)",
+      "score": 150,
+      "solves": 295,
+      "red_chilli": 2
+    },
+    {
+      "id": 1039332015,
+      "name": "Mystiz's Mini CTF (1)",
+      "score": 200,
+      "solves": 48,
+      "red_chilli": 2
+    },
+    {
+      "id": 549757415,
+      "name": "Custom Web Server (2)",
+      "score": 300,
+      "solves": 13,
+      "red_chilli": 3
+    },
+    {
+      "id": 62,
+      "name": "JSPyaml",
+      "score": 400,
+      "solves": 18,
+      "red_chilli": 4
+    },
+    {
+      "id": 17,
+      "name": "⚡",
+      "score": 450,
+      "solves": 6,
+      "red_chilli": 5
+    },
+    {
+      "id": 25,
+      "name": "Chimera",
+      "score": 500,
+      "solves": 5,
+      "red_chilli": 5
+    }
+  ],
+  "crypto": [
+    {
+      "id": 21,
+      "name": "Almost DSA",
+      "score": 100,
+      "solves": 88,
+      "red_chilli": 1
+    },
+    {
+      "id": 220391850,
+      "name": "Pigeon Post (1)",
+      "score": 100,
+      "solves": 126,
+      "red_chilli": 1
+    },
+    {
+      "id": 222391861,
+      "name": "RSA LCG (0)",
+      "score": 100,
+      "solves": 146,
+      "red_chilli": 1
+    },
+    {
+      "id": 457848091,
+      "name": "RSA LCG (3)",
+      "score": 200,
+      "solves": 18,
+      "red_chilli": 2
+    },
+    {
+      "id": 404992759,
+      "name": "mAEStro (1): Sample",
+      "score": 250,
+      "solves": 24,
+      "red_chilli": 3
+    },
+    {
+      "id": 454056428,
+      "name": "Pigeon Post (2)",
+      "score": 250,
+      "solves": 23,
+      "red_chilli": 3
+    },
+    {
+      "id": 191436469,
+      "name": "RSA LCG (1)",
+      "score": 300,
+      "solves": 28,
+      "red_chilli": 3
+    },
+    {
+      "id": 474211665,
+      "name": "mAEStro (2): Shuffle",
+      "score": 350,
+      "solves": 10,
+      "red_chilli": 4
+    },
+    {
+      "id": 667212561,
+      "name": "RSA LCG (2)",
+      "score": 400,
+      "solves": 15,
+      "red_chilli": 4
+    },
+    {
+      "id": 34,
+      "name": "Mask-mask-RSA",
+      "score": 500,
+      "solves": 3,
+      "red_chilli": 5
+    }
+  ],
+  "reverse": [
+    {
+      "id": 9,
+      "name": "Void",
+      "score": 100,
+      "solves": 147,
+      "red_chilli": 1
+    },
+    {
+      "id": 39,
+      "name": "Yet another crackme",
+      "score": 100,
+      "solves": 104,
+      "red_chilli": 1
+    },
+    {
+      "id": 63,
+      "name": "Baby Cracker",
+      "score": 100,
+      "solves": 203,
+      "red_chilli": 1
+    },
+    {
+      "id": 12,
+      "name": "Cyp.ress",
+      "score": 200,
+      "solves": 81,
+      "red_chilli": 2
+    },
+    {
+      "id": 15,
+      "name": "Flag Checker",
+      "score": 200,
+      "solves": 36,
+      "red_chilli": 2
+    },
+    {
+      "id": 40,
+      "name": "ISA 101",
+      "score": 200,
+      "solves": 108,
+      "red_chilli": 2
+    },
+    {
+      "id": 28,
+      "name": "Morph",
+      "score": 300,
+      "solves": 53,
+      "red_chilli": 3
+    },
+    {
+      "id": 26,
+      "name": "Black Magic",
+      "score": 400,
+      "solves": 4,
+      "red_chilli": 4
+    },
+    {
+      "id": 22,
+      "name": "Bashed!",
+      "score": 500,
+      "solves": 15,
+      "red_chilli": 5
+    },
+    {
+      "id": 43,
+      "name": "MBTI Radar",
+      "score": 500,
+      "solves": 13,
+      "red_chilli": 5
+    }
+  ],
+  "pwn": [
+    {
+      "id": 55,
+      "name": "Flag hasher",
+      "score": 100,
+      "solves": 136,
+      "red_chilli": 1
+    },
+    {
+      "id": 64,
+      "name": "ChatGGT (1)",
+      "score": 100,
+      "solves": 191,
+      "red_chilli": 1
+    },
+    {
+      "id": 174721323,
+      "name": "Shellcode Runner 3 Revenge",
+      "score": 150,
+      "solves": 23,
+      "red_chilli": 3
+    },
+    {
+      "id": 442959465,
+      "name": "ISH (1)",
+      "score": 200,
+      "solves": 46,
+      "red_chilli": 2
+    },
+    {
+      "id": 54,
+      "name": "Postfix expression calculator",
+      "score": 220,
+      "solves": 36,
+      "red_chilli": 3
+    },
+    {
+      "id": 56,
+      "name": "ChatGGT (2)",
+      "score": 230,
+      "solves": 19,
+      "red_chilli": 3
+    },
+    {
+      "id": 51,
+      "name": "Flipper Hero",
+      "score": 250,
+      "solves": 10,
+      "red_chilli": 3
+    },
+    {
+      "id": 49,
+      "name": "Shellcode Runner 3",
+      "score": 300,
+      "solves": 35,
+      "red_chilli": 3
+    },
+    {
+      "id": 956942828,
+      "name": "ISH (2)",
+      "score": 350,
+      "solves": 13,
+      "red_chilli": 4
+    },
+    {
+      "id": 50,
+      "name": "Black C2",
+      "score": 400,
+      "solves": 10,
+      "red_chilli": 4
+    },
+    {
+      "id": 558295398,
+      "name": "ISH (3)",
+      "score": 500,
+      "solves": 10,
+      "red_chilli": 5
+    }
+  ],
+  "misc": [
+    {
+      "id": 3,
+      "name": "Get Flag Yourself",
+      "score": 50,
+      "solves": 269,
+      "red_chilli": 1
+    },
+    {
+      "id": 10,
+      "name": "B6ACP",
+      "score": 100,
+      "solves": 97,
+      "red_chilli": 1
+    },
+    {
+      "id": 42,
+      "name": "Hearing Check",
+      "score": 100,
+      "solves": 43,
+      "red_chilli": 1
+    },
+    {
+      "id": 47,
+      "name": "My Lovely Cats",
+      "score": 200,
+      "solves": 62,
+      "red_chilli": 2
+    },
+    {
+      "id": 48,
+      "name": "Scratch ERCode",
+      "score": 200,
+      "solves": 50,
+      "red_chilli": 2
+    },
+    {
+      "id": 359702030,
+      "name": "Crack the Pack (Ⅰ): Head and Shoulders",
+      "score": 200,
+      "solves": 20,
+      "red_chilli": 2
+    },
+    {
+      "id": 737170479,
+      "name": "Tuning Keyboard 5",
+      "score": 255,
+      "solves": 5,
+      "red_chilli": 3
+    },
+    {
+      "id": 631596424,
+      "name": "Crack the Pack (Ⅱ): Knees and Toes",
+      "score": 375,
+      "solves": 9,
+      "red_chilli": 4
+    },
+    {
+      "id": 57,
+      "name": "Python Calculator 2",
+      "score": 400,
+      "solves": 10,
+      "red_chilli": 4
+    },
+    {
+      "id": 377742175,
+      "name": "Tuning Keyboard 5.5",
+      "score": 444,
+      "solves": 3,
+      "red_chilli": 5
+    }
+  ],
+  "forensic": [
+    {
+      "id": 32,
+      "name": "One Way Room",
+      "score": 150,
+      "solves": 87,
+      "red_chilli": 2
+    },
+    {
+      "id": 37,
+      "name": "Jane Streak Amateurs",
+      "score": 150,
+      "solves": 31,
+      "red_chilli": 2
+    },
+    {
+      "id": 149915428,
+      "name": "Where's the APT Attack (1)",
+      "score": 150,
+      "solves": 167,
+      "red_chilli": 2
+    },
+    {
+      "id": 18,
+      "name": "Cook book",
+      "score": 250,
+      "solves": 50,
+      "red_chilli": 3
+    },
+    {
+      "id": 28686476,
+      "name": "Where's the APT Attack (2)",
+      "score": 350,
+      "solves": 0,
+      "red_chilli": 4
+    }
+  ]
+}

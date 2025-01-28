@@ -1,0 +1,280 @@
+{
+    "challenge": {
+        "id": 49,
+        "title": {
+            "zh": "Shellcode 運行器 3",
+            "en": "Shellcode Runner 3"
+        },
+        "description": {
+            "zh": "你們最愛的Shellcode 運行器系列又回來了！\n這一次，我們不再用任何沙箱來限制您。這應該會成為一個簡單的挑戰......對吧？",
+            "en": "Your favorite series of Shellcode runners is back!\nThis time, we're not limiting you with any sandboxes. This should be an easy challenge...right?"
+        },
+        "points": 300,
+        "solves": 35,
+        "releasedAt": "2024-11-09T02:00:00.000Z",
+        "categories": [
+            "pwn",
+            "difficulty-3"
+        ],
+        "metadata": {
+            "author": "botton",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/shellcode-runner3_c29e0384ec8798f73887dc00cec61cef.zip",
+                    "name": "shellcode-runner3_c29e0384ec8798f73887dc00cec61cef.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/389cf7d664cf646d0aec42f38e6a165c.webp",
+            "deploymentType": "stateless",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/01c51261118171130987068e4dd86a28d6dd219ff65eb0ac6504fbbeae5c7354.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 2310,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T03:52:29.817Z"
+        },
+        {
+            "id": 2357,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T04:24:59.555Z"
+        },
+        {
+            "id": 2419,
+            "team": {
+                "name": "RipeRice🌾"
+            },
+            "solvedAt": "2024-11-09T04:59:12.037Z"
+        },
+        {
+            "id": 2496,
+            "team": {
+                "name": "Just For The Questions"
+            },
+            "solvedAt": "2024-11-09T05:35:22.557Z"
+        },
+        {
+            "id": 2565,
+            "team": {
+                "name": "Mr.Robot"
+            },
+            "solvedAt": "2024-11-09T06:10:23.082Z"
+        },
+        {
+            "id": 2569,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-09T06:14:42.197Z"
+        },
+        {
+            "id": 2596,
+            "team": {
+                "name": "_DOBBY_IS_FREE_"
+            },
+            "solvedAt": "2024-11-09T06:37:45.380Z"
+        },
+        {
+            "id": 2714,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T07:50:48.177Z"
+        },
+        {
+            "id": 2844,
+            "team": {
+                "name": "FlagMotori"
+            },
+            "solvedAt": "2024-11-09T09:02:53.134Z"
+        },
+        {
+            "id": 3006,
+            "team": {
+                "name": "T0037 - Google Or Mushroom"
+            },
+            "solvedAt": "2024-11-09T10:12:05.577Z"
+        },
+        {
+            "id": 3059,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T10:22:04.291Z"
+        },
+        {
+            "id": 3131,
+            "team": {
+                "name": "bhackari"
+            },
+            "solvedAt": "2024-11-09T10:53:18.437Z"
+        },
+        {
+            "id": 3178,
+            "team": {
+                "name": "Ph0ny"
+            },
+            "solvedAt": "2024-11-09T11:10:35.797Z"
+        },
+        {
+            "id": 3182,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T11:11:58.946Z"
+        },
+        {
+            "id": 3235,
+            "team": {
+                "name": "valgrind"
+            },
+            "solvedAt": "2024-11-09T11:32:25.214Z"
+        },
+        {
+            "id": 3236,
+            "team": {
+                "name": "WillNotSmith"
+            },
+            "solvedAt": "2024-11-09T11:32:25.627Z"
+        },
+        {
+            "id": 3396,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T12:53:10.988Z"
+        },
+        {
+            "id": 3408,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T13:00:26.824Z"
+        },
+        {
+            "id": 3627,
+            "team": {
+                "name": "jinmo123"
+            },
+            "solvedAt": "2024-11-09T14:46:02.246Z"
+        },
+        {
+            "id": 3715,
+            "team": {
+                "name": "Phish Paprikash"
+            },
+            "solvedAt": "2024-11-09T15:36:07.158Z"
+        },
+        {
+            "id": 3733,
+            "team": {
+                "name": "spookies"
+            },
+            "solvedAt": "2024-11-09T15:47:53.903Z"
+        },
+        {
+            "id": 3930,
+            "team": {
+                "name": "情不知所起一往而深"
+            },
+            "solvedAt": "2024-11-09T17:53:44.975Z"
+        },
+        {
+            "id": 4004,
+            "team": {
+                "name": "G04T3DP30PL3"
+            },
+            "solvedAt": "2024-11-09T19:14:46.413Z"
+        },
+        {
+            "id": 4090,
+            "team": {
+                "name": "starrysky"
+            },
+            "solvedAt": "2024-11-09T21:48:56.851Z"
+        },
+        {
+            "id": 4184,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-10T01:15:25.957Z"
+        },
+        {
+            "id": 4207,
+            "team": {
+                "name": "Emp3ri4ns"
+            },
+            "solvedAt": "2024-11-10T02:03:42.911Z"
+        },
+        {
+            "id": 4257,
+            "team": {
+                "name": "ShellphishAcademy"
+            },
+            "solvedAt": "2024-11-10T02:59:24.057Z"
+        },
+        {
+            "id": 4286,
+            "team": {
+                "name": "I'm Carried by Putra's Family"
+            },
+            "solvedAt": "2024-11-10T03:28:06.360Z"
+        },
+        {
+            "id": 4296,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-10T03:33:17.263Z"
+        },
+        {
+            "id": 4342,
+            "team": {
+                "name": "TOP PROGRAMMER 2005 DATABASE MAESTRO"
+            },
+            "solvedAt": "2024-11-10T04:33:32.913Z"
+        },
+        {
+            "id": 4403,
+            "team": {
+                "name": "Chinagdn【JY】"
+            },
+            "solvedAt": "2024-11-10T05:27:47.938Z"
+        },
+        {
+            "id": 4410,
+            "team": {
+                "name": "T0051 - PwnStars"
+            },
+            "solvedAt": "2024-11-10T05:35:13.861Z"
+        },
+        {
+            "id": 4555,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T07:20:00.922Z"
+        },
+        {
+            "id": 4623,
+            "team": {
+                "name": "Echo"
+            },
+            "solvedAt": "2024-11-10T08:02:06.379Z"
+        },
+        {
+            "id": 4668,
+            "team": {
+                "name": "Asuri"
+            },
+            "solvedAt": "2024-11-10T08:34:43.943Z"
+        }
+    ]
+}

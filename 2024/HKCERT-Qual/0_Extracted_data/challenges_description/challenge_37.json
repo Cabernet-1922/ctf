@@ -1,0 +1,247 @@
+{
+    "challenge": {
+        "id": 37,
+        "title": {
+            "zh": "簡術業餘",
+            "en": "Jane Streak Amateurs"
+        },
+        "description": {
+            "zh": "**警告⚠️：此題目基於真實的詐騙案件。請勿向與此挑戰相關的錢包和合約存入任何金錢**\n\nJack 在 YouTube 上看到一段贊助影片，並發現了一個「看似有吸引力的投資機會」。你能找到這個詐騙案中的騙子和受害者嗎？\n\nhttps://www.youtube.com/watch?v=dK6U9P9pt6A \\\n(**⚠️這是詐騙廣告。** 直接連接到騙子的 Youtube 頻道，請小心。)\n\n- 第一部分：YouTube 影片中騙子的錢包地址\n- 第二部分：騙子實際上用來接收受害者資金的錢包地址\n- 第三部分：第一個受害者的錢包地址\n- 旗幟格式：`hkcert24{第一部分_第二部分_第三部分}`\n- 錢包地址格式：`0x[0-9a-f]{40}`",
+            "en": "**WARNING ⚠️: This challenge is based on a real attack scenario. DO NOT DEPOSIT ANY MONEY TO WALLETS AND CONTRACTS RELATED TO THIS CHALLENGE OR ANY OTHER CHALLENGES**\n\nJack saw a sponsored video on YouTube and found an \"apparently attractive investment opportunity\". Can you find the scammers and the victims in this case?\n\nhttps://www.youtube.com/watch?v=dK6U9P9pt6A \\\n(**⚠️ This is SCAM.** Links directly to scammer's channel. Be careful!)\n\n- Part1: Scammer's wallet address in the YouTube video\n- Part2: Scammer's actual wallet address to receive fund from victims\n- Part3: First victim's wallet address\n- Flag format: `hkcert24{Part1_Part2_Part3}`\n- Address format: `0x[0-9a-f]{40}`"
+        },
+        "points": 150,
+        "solves": 31,
+        "releasedAt": "2024-11-09T06:00:00.000Z",
+        "categories": [
+            "forensic",
+            "difficulty-2"
+        ],
+        "metadata": {
+            "author": "Ozetta",
+            "attachments": [],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/0caaceadc65f006c66864b5ac48f0b51.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/b93adfa4a833da660d37e48b9143a10c2625aafe9532f824fa79827ef6cc76fb.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": [
+        {
+            "id": 2639,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-09T07:03:54.362Z"
+        },
+        {
+            "id": 2682,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T07:27:43.265Z"
+        },
+        {
+            "id": 2702,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-09T07:39:32.367Z"
+        },
+        {
+            "id": 2716,
+            "team": {
+                "name": "T0056 - NuttyShell"
+            },
+            "solvedAt": "2024-11-09T07:51:29.551Z"
+        },
+        {
+            "id": 2738,
+            "team": {
+                "name": "Archiv3"
+            },
+            "solvedAt": "2024-11-09T08:03:05.576Z"
+        },
+        {
+            "id": 2906,
+            "team": {
+                "name": "T0051 - PwnStars"
+            },
+            "solvedAt": "2024-11-09T09:32:54.025Z"
+        },
+        {
+            "id": 2946,
+            "team": {
+                "name": "T0057 - NuttyShell Red"
+            },
+            "solvedAt": "2024-11-09T09:57:53.052Z"
+        },
+        {
+            "id": 2947,
+            "team": {
+                "name": "O0023 - 404: APT Not Found"
+            },
+            "solvedAt": "2024-11-09T09:58:16.522Z"
+        },
+        {
+            "id": 2980,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T10:05:01.526Z"
+        },
+        {
+            "id": 3195,
+            "team": {
+                "name": "O0104 - NuttyShell Purple"
+            },
+            "solvedAt": "2024-11-09T11:17:27.003Z"
+        },
+        {
+            "id": 3223,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-09T11:29:06.916Z"
+        },
+        {
+            "id": 3257,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T11:41:54.031Z"
+        },
+        {
+            "id": 3360,
+            "team": {
+                "name": "O0103 - Aussie Wildlife"
+            },
+            "solvedAt": "2024-11-09T12:30:54.763Z"
+        },
+        {
+            "id": 3473,
+            "team": {
+                "name": "O0014 - FirebUwU"
+            },
+            "solvedAt": "2024-11-09T13:33:07.246Z"
+        },
+        {
+            "id": 3644,
+            "team": {
+                "name": "FlagMotori"
+            },
+            "solvedAt": "2024-11-09T14:53:31.506Z"
+        },
+        {
+            "id": 3655,
+            "team": {
+                "name": "T0027 - Students Taking Flags United"
+            },
+            "solvedAt": "2024-11-09T14:58:27.222Z"
+        },
+        {
+            "id": 3714,
+            "team": {
+                "name": "T0037 - Google Or Mushroom"
+            },
+            "solvedAt": "2024-11-09T15:36:06.566Z"
+        },
+        {
+            "id": 3768,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T16:07:43.761Z"
+        },
+        {
+            "id": 3818,
+            "team": {
+                "name": "TOP PROGRAMMER 2005 DATABASE MAESTRO"
+            },
+            "solvedAt": "2024-11-09T16:39:17.072Z"
+        },
+        {
+            "id": 3960,
+            "team": {
+                "name": "S0027 - Diocesan Boys' School"
+            },
+            "solvedAt": "2024-11-09T18:29:25.037Z"
+        },
+        {
+            "id": 4011,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T19:19:20.998Z"
+        },
+        {
+            "id": 4067,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-09T21:11:12.134Z"
+        },
+        {
+            "id": 4272,
+            "team": {
+                "name": "Z&roDivision£rr0r"
+            },
+            "solvedAt": "2024-11-10T03:11:27.854Z"
+        },
+        {
+            "id": 4275,
+            "team": {
+                "name": "La frèrerie"
+            },
+            "solvedAt": "2024-11-10T03:12:48.758Z"
+        },
+        {
+            "id": 4288,
+            "team": {
+                "name": "O0073 - Nightwing"
+            },
+            "solvedAt": "2024-11-10T03:29:59.147Z"
+        },
+        {
+            "id": 4298,
+            "team": {
+                "name": "Echo"
+            },
+            "solvedAt": "2024-11-10T03:35:26.545Z"
+        },
+        {
+            "id": 4306,
+            "team": {
+                "name": "HakcerMan"
+            },
+            "solvedAt": "2024-11-10T03:49:26.298Z"
+        },
+        {
+            "id": 4574,
+            "team": {
+                "name": "Ph0ny"
+            },
+            "solvedAt": "2024-11-10T07:28:45.072Z"
+        },
+        {
+            "id": 4663,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-10T08:31:13.284Z"
+        },
+        {
+            "id": 4853,
+            "team": {
+                "name": "T0059 - NuttyShell Green"
+            },
+            "solvedAt": "2024-11-10T09:32:41.435Z"
+        },
+        {
+            "id": 4879,
+            "team": {
+                "name": "O0117 - EzAntiPwn"
+            },
+            "solvedAt": "2024-11-10T09:47:30.956Z"
+        }
+    ]
+}

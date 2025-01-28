@@ -1,0 +1,203 @@
+{
+    "challenge": {
+        "id": 404992759,
+        "title": {
+            "zh": "大師的加密標準 (1)：樣本",
+            "en": "mAEStro (1): Sample"
+        },
+        "description": {
+            "zh": "2024 年仲玩 AES？唔係㗎，呢題只係弱化版嘅 AES。我都係是但喺入面抽幾個運算出嚟用咋嘛。\n\n##### 挑戰系列: 大師的加密標準\n\n其他在此系列內的挑戰 (並沒有依存關係，可以由任何一個挑戰開始): [1️⃣](/challenges/404992759) • [2️⃣](/challenges/474211665)",
+            "en": "Yet another AES challenge in 2024? Well, it is not AES -- The internal operations are randomly selected.\n\n##### Series: mAEStro\n\nOther challenges in this series (not dependent on each other, start with the one you like): [1️⃣](/challenges/404992759) • [2️⃣](/challenges/474211665)"
+        },
+        "points": 250,
+        "solves": 24,
+        "releasedAt": "2024-11-09T06:00:00.000Z",
+        "categories": [
+            "crypto",
+            "difficulty-3"
+        ],
+        "metadata": {
+            "author": "hoifanrd, Mystiz",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/maestro-1_595679a660ee70b8346961cc6270ec95.zip",
+                    "name": "maestro-1_595679a660ee70b8346961cc6270ec95.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/12bc7d2b066fb04aa11742d40edf5a4c.webp",
+            "deploymentType": "stateless",
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/f65aa7167c7d2b63844917953760510319873d3b60f80fbb731a305e7520795c.webp"
+        },
+        "hasInstancer": true
+    },
+    "solves": [
+        {
+            "id": 2674,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T07:25:41.975Z"
+        },
+        {
+            "id": 2813,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T08:42:35.190Z"
+        },
+        {
+            "id": 2870,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T09:16:54.108Z"
+        },
+        {
+            "id": 3262,
+            "team": {
+                "name": "T0052 - Firecat"
+            },
+            "solvedAt": "2024-11-09T11:46:17.273Z"
+        },
+        {
+            "id": 3335,
+            "team": {
+                "name": "Phish Paprikash"
+            },
+            "solvedAt": "2024-11-09T12:14:56.309Z"
+        },
+        {
+            "id": 3463,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-09T13:27:30.747Z"
+        },
+        {
+            "id": 3503,
+            "team": {
+                "name": "BKISC"
+            },
+            "solvedAt": "2024-11-09T13:48:33.437Z"
+        },
+        {
+            "id": 3543,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T14:07:10.776Z"
+        },
+        {
+            "id": 3572,
+            "team": {
+                "name": "T0059 - NuttyShell Green"
+            },
+            "solvedAt": "2024-11-09T14:19:21.941Z"
+        },
+        {
+            "id": 3851,
+            "team": {
+                "name": "T0037 - Google Or Mushroom"
+            },
+            "solvedAt": "2024-11-09T16:58:31.490Z"
+        },
+        {
+            "id": 3949,
+            "team": {
+                "name": "Drovosec"
+            },
+            "solvedAt": "2024-11-09T18:15:28.851Z"
+        },
+        {
+            "id": 3957,
+            "team": {
+                "name": "T0070 - throw stone to water"
+            },
+            "solvedAt": "2024-11-09T18:27:13.328Z"
+        },
+        {
+            "id": 4025,
+            "team": {
+                "name": "MEOW MEOW MEOW MEOW MEOW"
+            },
+            "solvedAt": "2024-11-09T19:45:18.762Z"
+        },
+        {
+            "id": 4029,
+            "team": {
+                "name": "T0057 - NuttyShell Red"
+            },
+            "solvedAt": "2024-11-09T19:50:57.977Z"
+        },
+        {
+            "id": 4051,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-09T20:43:52.095Z"
+        },
+        {
+            "id": 4367,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-10T05:02:18.642Z"
+        },
+        {
+            "id": 4389,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-10T05:17:13.836Z"
+        },
+        {
+            "id": 4430,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T05:43:36.463Z"
+        },
+        {
+            "id": 4457,
+            "team": {
+                "name": "MCs"
+            },
+            "solvedAt": "2024-11-10T06:07:33.097Z"
+        },
+        {
+            "id": 4584,
+            "team": {
+                "name": "T0051 - PwnStars"
+            },
+            "solvedAt": "2024-11-10T07:37:15.832Z"
+        },
+        {
+            "id": 4758,
+            "team": {
+                "name": "O0104 - NuttyShell Purple"
+            },
+            "solvedAt": "2024-11-10T09:05:40.348Z"
+        },
+        {
+            "id": 4775,
+            "team": {
+                "name": "T0056 - NuttyShell"
+            },
+            "solvedAt": "2024-11-10T09:10:53.751Z"
+        },
+        {
+            "id": 4811,
+            "team": {
+                "name": "T0084 - ' or '1' = '1"
+            },
+            "solvedAt": "2024-11-10T09:20:39.521Z"
+        },
+        {
+            "id": 4871,
+            "team": {
+                "name": "[[H@ck3r.dro7]"
+            },
+            "solvedAt": "2024-11-10T09:44:52.849Z"
+        }
+    ]
+}

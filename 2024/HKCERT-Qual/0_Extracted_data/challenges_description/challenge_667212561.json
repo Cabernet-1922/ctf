@@ -1,0 +1,140 @@
+{
+    "challenge": {
+        "id": 667212561,
+        "title": {
+            "zh": "RSA LCG (2)",
+            "en": "RSA LCG (2)"
+        },
+        "description": {
+            "zh": "愛因斯坦​曾經警告過：「唔好用爛嘅隨機數生成器嚟生成 RSA 所用嘅質數。」作為線性同餘生成器 (LCG) 嘅愛好者，我決定唔理佢。我諗我應該無事掛？\n\n##### 挑戰系列: RSA LCG\n\n其他在此系列內的挑戰 (並沒有依存關係，可以由任何一個挑戰開始): [0️⃣](/challenges/222391861) • [1️⃣](/challenges/191436469) • [2️⃣](/challenges/667212561) • [3️⃣](/challenges/457848091)",
+            "en": "Einstein once said, \"Don't generate RSA primes with insecure PRNGs\". As a LCG-holic, I am not going to listen to him. What will go wrong?\n\n##### Series: RSA LCG\n\nOther challenges in this series (not dependent on each other, start with the one you like): [0️⃣](/challenges/222391861) • [1️⃣](/challenges/191436469) • [2️⃣](/challenges/667212561) • [3️⃣](/challenges/457848091)"
+        },
+        "points": 400,
+        "solves": 15,
+        "releasedAt": "2024-11-08T10:00:00.000Z",
+        "categories": [
+            "crypto",
+            "difficulty-4"
+        ],
+        "metadata": {
+            "author": "Mystiz",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/rsalcg-2_e3e055ff4893dcc6392f71b1e6adfbeb.zip",
+                    "name": "rsalcg-2_e3e055ff4893dcc6392f71b1e6adfbeb.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/c7a86316b79135d4df5edb20a45bfe52.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/434fea57b46458ba0cc327a6bfd2277417a73e9b1990bdb032f032c873e1d704.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": [
+        {
+            "id": 1902,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-08T20:24:07.849Z"
+        },
+        {
+            "id": 2050,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T00:24:16.237Z"
+        },
+        {
+            "id": 2073,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-09T00:58:29.866Z"
+        },
+        {
+            "id": 2211,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T02:57:54.491Z"
+        },
+        {
+            "id": 2633,
+            "team": {
+                "name": "T0070 - throw stone to water"
+            },
+            "solvedAt": "2024-11-09T07:02:00.386Z"
+        },
+        {
+            "id": 2911,
+            "team": {
+                "name": "BKISC"
+            },
+            "solvedAt": "2024-11-09T09:35:42.341Z"
+        },
+        {
+            "id": 3310,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T12:08:00.244Z"
+        },
+        {
+            "id": 3968,
+            "team": {
+                "name": "terkctf"
+            },
+            "solvedAt": "2024-11-09T18:36:55.340Z"
+        },
+        {
+            "id": 4511,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-10T06:49:39.872Z"
+        },
+        {
+            "id": 4557,
+            "team": {
+                "name": "Aqua Cat"
+            },
+            "solvedAt": "2024-11-10T07:21:13.067Z"
+        },
+        {
+            "id": 4599,
+            "team": {
+                "name": "Echo"
+            },
+            "solvedAt": "2024-11-10T07:44:59.355Z"
+        },
+        {
+            "id": 4616,
+            "team": {
+                "name": "Ph0ny"
+            },
+            "solvedAt": "2024-11-10T07:55:20.677Z"
+        },
+        {
+            "id": 4635,
+            "team": {
+                "name": "Mr.Robot"
+            },
+            "solvedAt": "2024-11-10T08:13:15.854Z"
+        },
+        {
+            "id": 4673,
+            "team": {
+                "name": "HakcerMan"
+            },
+            "solvedAt": "2024-11-10T08:36:36.801Z"
+        },
+        {
+            "id": 4683,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-10T08:38:57.045Z"
+        }
+    ]
+}

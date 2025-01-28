@@ -1,0 +1,8559 @@
+{
+  "teams": [
+    {
+      "division": 4,
+      "id": 462,
+      "name": "Jane Street Amateurs",
+      "rank": 1,
+      "score": 11395
+    },
+    {
+      "division": 4,
+      "id": 100015,
+      "name": "Tower of Hanoi",
+      "rank": 2,
+      "score": 10895
+    },
+    {
+      "division": 4,
+      "id": 376,
+      "name": "The Few Chosen",
+      "rank": 3,
+      "score": 10600
+    },
+    {
+      "division": 4,
+      "id": 100068,
+      "name": "thehackerscrew",
+      "rank": 4,
+      "score": 10495
+    },
+    {
+      "division": 4,
+      "id": 100143,
+      "name": "BunkyoWesterns",
+      "rank": 5,
+      "score": 10494
+    },
+    {
+      "division": 4,
+      "id": 100162,
+      "name": "about:blankets",
+      "rank": 6,
+      "score": 10045
+    },
+    {
+      "division": 4,
+      "id": 499,
+      "name": "r4kapig",
+      "rank": 7,
+      "score": 9645
+    },
+    {
+      "division": 2,
+      "id": 200,
+      "name": "T0052 - Firecat",
+      "rank": 8,
+      "score": 9219
+    },
+    {
+      "division": 3,
+      "id": 276,
+      "name": "O0101 - Black Bacon",
+      "rank": 9,
+      "score": 7990
+    },
+    {
+      "division": 4,
+      "id": 100212,
+      "name": "FlagMotori",
+      "rank": 10,
+      "score": 7120
+    },
+    {
+      "division": 4,
+      "id": 402,
+      "name": "Drovosec",
+      "rank": 11,
+      "score": 6990
+    },
+    {
+      "division": 3,
+      "id": 366,
+      "name": "O0007 - AUTOEXEC.BAT",
+      "rank": 12,
+      "score": 6645
+    },
+    {
+      "division": 4,
+      "id": 100235,
+      "name": "jinmo123",
+      "rank": 13,
+      "score": 6500
+    },
+    {
+      "division": 4,
+      "id": 481,
+      "name": "Ph0ny",
+      "rank": 14,
+      "score": 6340
+    },
+    {
+      "division": 4,
+      "id": 482,
+      "name": "Echo",
+      "rank": 15,
+      "score": 6340
+    },
+    {
+      "division": 2,
+      "id": 215,
+      "name": "T0037 - Google Or Mushroom",
+      "rank": 16,
+      "score": 6170
+    },
+    {
+      "division": 2,
+      "id": 222,
+      "name": "T0027 - Students Taking Flags United",
+      "rank": 17,
+      "score": 6169
+    },
+    {
+      "division": 2,
+      "id": 201,
+      "name": "T0051 - PwnStars",
+      "rank": 18,
+      "score": 5865
+    },
+    {
+      "division": 4,
+      "id": 100163,
+      "name": "Phish Paprikash",
+      "rank": 19,
+      "score": 5420
+    },
+    {
+      "division": 2,
+      "id": 196,
+      "name": "T0056 - NuttyShell",
+      "rank": 20,
+      "score": 5170
+    },
+    {
+      "division": 4,
+      "id": 377,
+      "name": "bhackari",
+      "rank": 21,
+      "score": 5120
+    },
+    {
+      "division": 4,
+      "id": 100051,
+      "name": "RipeRice🌾",
+      "rank": 22,
+      "score": 4940
+    },
+    {
+      "division": 4,
+      "id": 100118,
+      "name": "TOP PROGRAMMER 2005 DATABASE MAESTRO",
+      "rank": 23,
+      "score": 4870
+    },
+    {
+      "division": 4,
+      "id": 100074,
+      "name": "valgrind",
+      "rank": 24,
+      "score": 4720
+    },
+    {
+      "division": 3,
+      "id": 273,
+      "name": "O0104 - NuttyShell Purple",
+      "rank": 25,
+      "score": 4670
+    },
+    {
+      "division": 4,
+      "id": 100433,
+      "name": "Aqua Cat",
+      "rank": 26,
+      "score": 4570
+    },
+    {
+      "division": 4,
+      "id": 480,
+      "name": "Mr.Robot",
+      "rank": 27,
+      "score": 4540
+    },
+    {
+      "division": 4,
+      "id": 519,
+      "name": "NEURON",
+      "rank": 28,
+      "score": 4520
+    },
+    {
+      "division": 2,
+      "id": 195,
+      "name": "T0057 - NuttyShell Red",
+      "rank": 29,
+      "score": 4470
+    },
+    {
+      "division": 2,
+      "id": 182,
+      "name": "T0070 - throw stone to water",
+      "rank": 30,
+      "score": 4420
+    },
+    {
+      "division": 4,
+      "id": 100344,
+      "name": "La frèrerie",
+      "rank": 31,
+      "score": 4210
+    },
+    {
+      "division": 2,
+      "id": 189,
+      "name": "T0063 - kawaii firebird chan imprisons me every day",
+      "rank": 32,
+      "score": 4120
+    },
+    {
+      "division": 4,
+      "id": 393,
+      "name": "MEOW MEOW MEOW MEOW MEOW",
+      "rank": 33,
+      "score": 4070
+    },
+    {
+      "division": 3,
+      "id": 359,
+      "name": "O0014 - FirebUwU",
+      "rank": 34,
+      "score": 4040
+    },
+    {
+      "division": 4,
+      "id": 436,
+      "name": "I'm Carried by Putra's Family",
+      "rank": 35,
+      "score": 3990
+    },
+    {
+      "division": 4,
+      "id": 100176,
+      "name": "BKISC",
+      "rank": 36,
+      "score": 3980
+    },
+    {
+      "division": 4,
+      "id": 100105,
+      "name": "spookies",
+      "rank": 37,
+      "score": 3670
+    },
+    {
+      "division": 2,
+      "id": 168,
+      "name": "T0084 - ' or '1' = '1",
+      "rank": 38,
+      "score": 3420
+    },
+    {
+      "division": 1,
+      "id": 145,
+      "name": "S0027 - Diocesan Boys' School",
+      "rank": 39,
+      "score": 3370
+    },
+    {
+      "division": 1,
+      "id": 24,
+      "name": "S0158 - Shatin Pui Ying College",
+      "rank": 40,
+      "score": 3270
+    },
+    {
+      "division": 3,
+      "id": 304,
+      "name": "O0073 - Nightwing",
+      "rank": 41,
+      "score": 3220
+    },
+    {
+      "division": 4,
+      "id": 100168,
+      "name": "suica",
+      "rank": 42,
+      "score": 3190
+    },
+    {
+      "division": 4,
+      "id": 100035,
+      "name": "SU",
+      "rank": 43,
+      "score": 3040
+    },
+    {
+      "division": 2,
+      "id": 193,
+      "name": "T0059 - NuttyShell Green",
+      "rank": 44,
+      "score": 2970
+    },
+    {
+      "division": 4,
+      "id": 100077,
+      "name": "xyz",
+      "rank": 45,
+      "score": 2930
+    },
+    {
+      "division": 1,
+      "id": 165,
+      "name": "S0002 - King George V School",
+      "rank": 46,
+      "score": 2920
+    },
+    {
+      "division": 4,
+      "id": 100014,
+      "name": "[[H@ck3r.dro7]",
+      "rank": 47,
+      "score": 2870
+    },
+    {
+      "division": 4,
+      "id": 501,
+      "name": "Chinagdn【JY】",
+      "rank": 48,
+      "score": 2820
+    },
+    {
+      "division": 4,
+      "id": 100199,
+      "name": "terkctf",
+      "rank": 49,
+      "score": 2820
+    },
+    {
+      "division": 4,
+      "id": 100484,
+      "name": "Just For The Questions",
+      "rank": 50,
+      "score": 2770
+    },
+    {
+      "division": 4,
+      "id": 100092,
+      "name": "Asuri",
+      "rank": 51,
+      "score": 2760
+    },
+    {
+      "division": 3,
+      "id": 260,
+      "name": "O0117 - EzAntiPwn",
+      "rank": 52,
+      "score": 2670
+    },
+    {
+      "division": 3,
+      "id": 317,
+      "name": "O0060 - ShibaSecure",
+      "rank": 53,
+      "score": 2520
+    },
+    {
+      "division": 4,
+      "id": 100090,
+      "name": "Emp3ri4ns",
+      "rank": 54,
+      "score": 2470
+    },
+    {
+      "division": 3,
+      "id": 301,
+      "name": "O0076 - 404 T34m N0t F0und",
+      "rank": 55,
+      "score": 2420
+    },
+    {
+      "division": 4,
+      "id": 479,
+      "name": "HakcerMan",
+      "rank": 56,
+      "score": 2370
+    },
+    {
+      "division": 4,
+      "id": 385,
+      "name": "D.O.T",
+      "rank": 57,
+      "score": 2320
+    },
+    {
+      "division": 4,
+      "id": 100046,
+      "name": "G04T3DP30PL3",
+      "rank": 58,
+      "score": 2310
+    },
+    {
+      "division": 4,
+      "id": 432,
+      "name": "_DOBBY_IS_FREE_",
+      "rank": 59,
+      "score": 2280
+    },
+    {
+      "division": 2,
+      "id": 177,
+      "name": "T0075 - Jeff's Team",
+      "rank": 60,
+      "score": 2270
+    },
+    {
+      "division": 4,
+      "id": 100292,
+      "name": "wgpsec",
+      "rank": 61,
+      "score": 2270
+    },
+    {
+      "division": 4,
+      "id": 100355,
+      "name": "Lorem Ipsec",
+      "rank": 62,
+      "score": 2170
+    },
+    {
+      "division": 3,
+      "id": 274,
+      "name": "O0103 - Aussie Wildlife",
+      "rank": 63,
+      "score": 2170
+    },
+    {
+      "division": 1,
+      "id": 154,
+      "name": "S0018 - St. Louis School",
+      "rank": 64,
+      "score": 2170
+    },
+    {
+      "division": 2,
+      "id": 205,
+      "name": "T0047 - Vulunerability",
+      "rank": 65,
+      "score": 2070
+    },
+    {
+      "division": 4,
+      "id": 100017,
+      "name": "ModernShinobi",
+      "rank": 66,
+      "score": 2060
+    },
+    {
+      "division": 1,
+      "id": 113,
+      "name": "S0064 - Ying Wa College",
+      "rank": 67,
+      "score": 2025
+    },
+    {
+      "division": 4,
+      "id": 463,
+      "name": "B4stiC1ub",
+      "rank": 68,
+      "score": 2020
+    },
+    {
+      "division": 2,
+      "id": 240,
+      "name": "T0002 - Athena",
+      "rank": 69,
+      "score": 2020
+    },
+    {
+      "division": 4,
+      "id": 100367,
+      "name": "MoaiMan",
+      "rank": 70,
+      "score": 1970
+    },
+    {
+      "division": 4,
+      "id": 100161,
+      "name": "CyberCh1ck",
+      "rank": 71,
+      "score": 1960
+    },
+    {
+      "division": 3,
+      "id": 313,
+      "name": "O0064 - BIIC",
+      "rank": 72,
+      "score": 1920
+    },
+    {
+      "division": 4,
+      "id": 100198,
+      "name": "tojtfstueqcfquxfxd",
+      "rank": 73,
+      "score": 1900
+    },
+    {
+      "division": 4,
+      "id": 100057,
+      "name": "f4n_n3r0",
+      "rank": 74,
+      "score": 1870
+    },
+    {
+      "division": 4,
+      "id": 380,
+      "name": "Z&roDivision£rr0r",
+      "rank": 75,
+      "score": 1820
+    },
+    {
+      "division": 4,
+      "id": 430,
+      "name": "Setters",
+      "rank": 76,
+      "score": 1810
+    },
+    {
+      "division": 4,
+      "id": 407,
+      "name": "whitebunny314",
+      "rank": 77,
+      "score": 1790
+    },
+    {
+      "division": 4,
+      "id": 100529,
+      "name": "Davidpb",
+      "rank": 78,
+      "score": 1770
+    },
+    {
+      "division": 4,
+      "id": 100424,
+      "name": "team_prpl",
+      "rank": 79,
+      "score": 1770
+    },
+    {
+      "division": 4,
+      "id": 397,
+      "name": "skibiDiDiOS-01",
+      "rank": 80,
+      "score": 1720
+    },
+    {
+      "division": 2,
+      "id": 185,
+      "name": "T0067 - HKU",
+      "rank": 81,
+      "score": 1670
+    },
+    {
+      "division": 3,
+      "id": 283,
+      "name": "O0094 - faiJJs",
+      "rank": 82,
+      "score": 1670
+    },
+    {
+      "division": 1,
+      "id": 12,
+      "name": "S0170 - CARMEL SECONDARY SCHOOL",
+      "rank": 83,
+      "score": 1670
+    },
+    {
+      "division": 1,
+      "id": 163,
+      "name": "S0004 - Carmel Divine Grace Foundation Secondary School",
+      "rank": 84,
+      "score": 1670
+    },
+    {
+      "division": 4,
+      "id": 100060,
+      "name": "HackOverflow",
+      "rank": 85,
+      "score": 1620
+    },
+    {
+      "division": 1,
+      "id": 112,
+      "name": "S0065 - Tseung Kwan O Government Secondary School",
+      "rank": 86,
+      "score": 1620
+    },
+    {
+      "division": 2,
+      "id": 174,
+      "name": "T0078 - FLAG{jackpot_777}",
+      "rank": 87,
+      "score": 1620
+    },
+    {
+      "division": 4,
+      "id": 100124,
+      "name": "Whi13Tru3",
+      "rank": 88,
+      "score": 1580
+    },
+    {
+      "division": 4,
+      "id": 100095,
+      "name": "情不知所起一往而深",
+      "rank": 89,
+      "score": 1550
+    },
+    {
+      "division": 3,
+      "id": 297,
+      "name": "O0080 - softcoreChiikawa",
+      "rank": 90,
+      "score": 1520
+    },
+    {
+      "division": 2,
+      "id": 191,
+      "name": "T0061 - THEI",
+      "rank": 91,
+      "score": 1520
+    },
+    {
+      "division": 2,
+      "id": 186,
+      "name": "T0066 - 8@ldNICKypoPOyIp",
+      "rank": 92,
+      "score": 1470
+    },
+    {
+      "division": 4,
+      "id": 392,
+      "name": "acdwas",
+      "rank": 93,
+      "score": 1420
+    },
+    {
+      "division": 4,
+      "id": 100039,
+      "name": "JambonFromage",
+      "rank": 94,
+      "score": 1420
+    },
+    {
+      "division": 4,
+      "id": 399,
+      "name": "VGU_1337",
+      "rank": 95,
+      "score": 1420
+    },
+    {
+      "division": 2,
+      "id": 194,
+      "name": "T0058 - NuttyShell Blue",
+      "rank": 96,
+      "score": 1420
+    },
+    {
+      "division": 3,
+      "id": 290,
+      "name": "O0087 - Hawk 2 Uh",
+      "rank": 97,
+      "score": 1420
+    },
+    {
+      "division": 4,
+      "id": 100448,
+      "name": "abbabaab",
+      "rank": 98,
+      "score": 1410
+    },
+    {
+      "division": 2,
+      "id": 169,
+      "name": "T0083 - H4B1T_B1RD",
+      "rank": 99,
+      "score": 1370
+    },
+    {
+      "division": 4,
+      "id": 484,
+      "name": "Small Potatoes",
+      "rank": 100,
+      "score": 1370
+    },
+    {
+      "division": 4,
+      "id": 100024,
+      "name": "Okizeme",
+      "rank": 101,
+      "score": 1370
+    },
+    {
+      "division": 1,
+      "id": 164,
+      "name": "S0003 - Baptist Lui Ming Choi Secondary School",
+      "rank": 102,
+      "score": 1370
+    },
+    {
+      "division": 4,
+      "id": 100228,
+      "name": "Jarkom? ",
+      "rank": 103,
+      "score": 1370
+    },
+    {
+      "division": 4,
+      "id": 388,
+      "name": "VictoriaSecret",
+      "rank": 104,
+      "score": 1360
+    },
+    {
+      "division": 4,
+      "id": 513,
+      "name": "capybara",
+      "rank": 105,
+      "score": 1320
+    },
+    {
+      "division": 3,
+      "id": 305,
+      "name": "O0072 - TheBeginners",
+      "rank": 106,
+      "score": 1270
+    },
+    {
+      "division": 2,
+      "id": 173,
+      "name": "T0079 - HKUST,HKIIT,HKUST",
+      "rank": 107,
+      "score": 1270
+    },
+    {
+      "division": 4,
+      "id": 100193,
+      "name": "Archiv3",
+      "rank": 108,
+      "score": 1270
+    },
+    {
+      "division": 4,
+      "id": 400,
+      "name": "R@b!T_T",
+      "rank": 109,
+      "score": 1220
+    },
+    {
+      "division": 4,
+      "id": 506,
+      "name": "GaruX",
+      "rank": 110,
+      "score": 1220
+    },
+    {
+      "division": 2,
+      "id": 233,
+      "name": "T0013 - Chill Player",
+      "rank": 111,
+      "score": 1170
+    },
+    {
+      "division": 3,
+      "id": 341,
+      "name": "O0034 - Exploit Experts",
+      "rank": 112,
+      "score": 1170
+    },
+    {
+      "division": 4,
+      "id": 386,
+      "name": "P3gasus",
+      "rank": 113,
+      "score": 1170
+    },
+    {
+      "division": 4,
+      "id": 100139,
+      "name": "MCs",
+      "rank": 114,
+      "score": 1170
+    },
+    {
+      "division": 3,
+      "id": 345,
+      "name": "O0029 - DS007-DeepSea",
+      "rank": 115,
+      "score": 1170
+    },
+    {
+      "division": 4,
+      "id": 100341,
+      "name": "LSE",
+      "rank": 116,
+      "score": 1170
+    },
+    {
+      "division": 1,
+      "id": 79,
+      "name": "S0101 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 117,
+      "score": 1170
+    },
+    {
+      "division": 4,
+      "id": 100366,
+      "name": "rustyboys",
+      "rank": 118,
+      "score": 1160
+    },
+    {
+      "division": 4,
+      "id": 100210,
+      "name": "tchen",
+      "rank": 119,
+      "score": 1160
+    },
+    {
+      "division": 3,
+      "id": 362,
+      "name": "O0011 - #ffff00",
+      "rank": 120,
+      "score": 1120
+    },
+    {
+      "division": 3,
+      "id": 293,
+      "name": "O0084 - ErrorSheet",
+      "rank": 121,
+      "score": 1110
+    },
+    {
+      "division": 4,
+      "id": 497,
+      "name": "Super Wings",
+      "rank": 122,
+      "score": 1080
+    },
+    {
+      "division": 1,
+      "id": 13,
+      "name": "S0169 - Queen Elizabeth School Old Students' Association Secondary School",
+      "rank": 123,
+      "score": 1070
+    },
+    {
+      "division": 2,
+      "id": 204,
+      "name": "T0048 - SPAPE",
+      "rank": 124,
+      "score": 1070
+    },
+    {
+      "division": 1,
+      "id": 7,
+      "name": "S0175 - Carmel Pak U Secondary School",
+      "rank": 125,
+      "score": 1070
+    },
+    {
+      "division": 4,
+      "id": 500,
+      "name": "PT_lab",
+      "rank": 126,
+      "score": 1060
+    },
+    {
+      "division": 3,
+      "id": 292,
+      "name": "O0085 - OAT LABS",
+      "rank": 127,
+      "score": 1020
+    },
+    {
+      "division": 2,
+      "id": 212,
+      "name": "T0040 - YMD_SOLO",
+      "rank": 128,
+      "score": 1020
+    },
+    {
+      "division": 4,
+      "id": 505,
+      "name": "garubong",
+      "rank": 129,
+      "score": 1020
+    },
+    {
+      "division": 3,
+      "id": 371,
+      "name": "O0002 - O0001 - T3SLUN",
+      "rank": 130,
+      "score": 1020
+    },
+    {
+      "division": 4,
+      "id": 473,
+      "name": "AETHER",
+      "rank": 131,
+      "score": 1020
+    },
+    {
+      "division": 4,
+      "id": 396,
+      "name": "skibiDiDiOS-02",
+      "rank": 132,
+      "score": 1020
+    },
+    {
+      "division": 4,
+      "id": 100245,
+      "name": "FCCPC",
+      "rank": 133,
+      "score": 1020
+    },
+    {
+      "division": 1,
+      "id": 93,
+      "name": "S0085 - Wah Yan College, Kowloon",
+      "rank": 134,
+      "score": 1020
+    },
+    {
+      "division": 4,
+      "id": 100145,
+      "name": "图书馆五楼风很大",
+      "rank": 135,
+      "score": 1010
+    },
+    {
+      "division": 4,
+      "id": 100265,
+      "name": "bunniesGang",
+      "rank": 136,
+      "score": 970
+    },
+    {
+      "division": 1,
+      "id": 39,
+      "name": "S0143 - Yan Oi Tong Tin Kong Ping Secondary School",
+      "rank": 137,
+      "score": 970
+    },
+    {
+      "division": 2,
+      "id": 237,
+      "name": "T0009 - UpOneDownTwo",
+      "rank": 138,
+      "score": 960
+    },
+    {
+      "division": 4,
+      "id": 418,
+      "name": "VSL",
+      "rank": 139,
+      "score": 960
+    },
+    {
+      "division": 2,
+      "id": 214,
+      "name": "T0038 - CUHK",
+      "rank": 140,
+      "score": 920
+    },
+    {
+      "division": 4,
+      "id": 100004,
+      "name": "Safecat",
+      "rank": 141,
+      "score": 920
+    },
+    {
+      "division": 3,
+      "id": 364,
+      "name": "O0009 - HackyClub Team A",
+      "rank": 142,
+      "score": 920
+    },
+    {
+      "division": 4,
+      "id": 428,
+      "name": "No module name",
+      "rank": 143,
+      "score": 920
+    },
+    {
+      "division": 4,
+      "id": 100041,
+      "name": "SNI",
+      "rank": 144,
+      "score": 910
+    },
+    {
+      "division": 4,
+      "id": 504,
+      "name": "MOCTF",
+      "rank": 145,
+      "score": 910
+    },
+    {
+      "division": 4,
+      "id": 100586,
+      "name": "Sentenced to 5 years of pyjail",
+      "rank": 146,
+      "score": 900
+    },
+    {
+      "division": 4,
+      "id": 100571,
+      "name": "CrémeTartinéFabuleuse",
+      "rank": 147,
+      "score": 890
+    },
+    {
+      "division": 4,
+      "id": 100008,
+      "name": "ShellphishAcademy",
+      "rank": 148,
+      "score": 880
+    },
+    {
+      "division": 2,
+      "id": 192,
+      "name": "T0060 - NuttyShell White",
+      "rank": 149,
+      "score": 870
+    },
+    {
+      "division": 2,
+      "id": 178,
+      "name": "T0074 - OwO",
+      "rank": 150,
+      "score": 870
+    },
+    {
+      "division": 3,
+      "id": 350,
+      "name": "O0023 - 404: APT Not Found",
+      "rank": 151,
+      "score": 870
+    },
+    {
+      "division": 3,
+      "id": 250,
+      "name": "O0127 - PoYap",
+      "rank": 152,
+      "score": 870
+    },
+    {
+      "division": 1,
+      "id": 152,
+      "name": "S0020 - Tuen Mun Catholic Secondary School",
+      "rank": 153,
+      "score": 870
+    },
+    {
+      "division": 4,
+      "id": 375,
+      "name": "hack_tuah",
+      "rank": 154,
+      "score": 870
+    },
+    {
+      "division": 2,
+      "id": 167,
+      "name": "T0085 - FireForgotten",
+      "rank": 155,
+      "score": 870
+    },
+    {
+      "division": 1,
+      "id": 119,
+      "name": "S0058 - The Chinese Foundation Secondary School",
+      "rank": 156,
+      "score": 870
+    },
+    {
+      "division": 1,
+      "id": 162,
+      "name": "S0005 - S.K.H. Keihau Secondary School",
+      "rank": 157,
+      "score": 870
+    },
+    {
+      "division": 4,
+      "id": 100013,
+      "name": "Pookie Bears",
+      "rank": 158,
+      "score": 870
+    },
+    {
+      "division": 4,
+      "id": 100566,
+      "name": "c00c00",
+      "rank": 159,
+      "score": 850
+    },
+    {
+      "division": 3,
+      "id": 279,
+      "name": "O0098 - Salaryman",
+      "rank": 160,
+      "score": 820
+    },
+    {
+      "division": 4,
+      "id": 384,
+      "name": "WhiteOps - AUI",
+      "rank": 161,
+      "score": 820
+    },
+    {
+      "division": 4,
+      "id": 100473,
+      "name": "mizore_fuyu",
+      "rank": 162,
+      "score": 810
+    },
+    {
+      "division": 2,
+      "id": 190,
+      "name": "T0062 - THEI",
+      "rank": 163,
+      "score": 810
+    },
+    {
+      "division": 4,
+      "id": 100222,
+      "name": "TeamC8",
+      "rank": 164,
+      "score": 800
+    },
+    {
+      "division": 2,
+      "id": 202,
+      "name": "T0050 - CityU.getParticipationMark();",
+      "rank": 165,
+      "score": 770
+    },
+    {
+      "division": 4,
+      "id": 100086,
+      "name": "vyz-256",
+      "rank": 166,
+      "score": 770
+    },
+    {
+      "division": 1,
+      "id": 98,
+      "name": "S0080 - The Chinese Foundation Secondary School",
+      "rank": 167,
+      "score": 770
+    },
+    {
+      "division": 1,
+      "id": 51,
+      "name": "S0130 - N.T. Heung Yee Kuk Yuen Long District Secondary School",
+      "rank": 168,
+      "score": 770
+    },
+    {
+      "division": 1,
+      "id": 153,
+      "name": "S0019 - Tung Wah Group of Hospitals Lo Kon Ting Memorial College",
+      "rank": 169,
+      "score": 770
+    },
+    {
+      "division": 3,
+      "id": 264,
+      "name": "O0113 - Oui Oui Baguette",
+      "rank": 170,
+      "score": 770
+    },
+    {
+      "division": 3,
+      "id": 247,
+      "name": "O0130 - I am weak",
+      "rank": 171,
+      "score": 760
+    },
+    {
+      "division": 4,
+      "id": 100133,
+      "name": "Kikuri'sbeerpacket",
+      "rank": 172,
+      "score": 760
+    },
+    {
+      "division": 1,
+      "id": 136,
+      "name": "S0041 - SKH Lam Kau Mow Secondary School",
+      "rank": 173,
+      "score": 720
+    },
+    {
+      "division": 4,
+      "id": 100100,
+      "name": "demo",
+      "rank": 174,
+      "score": 720
+    },
+    {
+      "division": 4,
+      "id": 487,
+      "name": "SPADES",
+      "rank": 175,
+      "score": 720
+    },
+    {
+      "division": 3,
+      "id": 275,
+      "name": "O0102 - V4GU3",
+      "rank": 176,
+      "score": 720
+    },
+    {
+      "division": 4,
+      "id": 100319,
+      "name": "pobateam",
+      "rank": 177,
+      "score": 710
+    },
+    {
+      "division": 4,
+      "id": 100438,
+      "name": "l0paty",
+      "rank": 178,
+      "score": 710
+    },
+    {
+      "division": 4,
+      "id": 100342,
+      "name": "AlphaG0",
+      "rank": 179,
+      "score": 700
+    },
+    {
+      "division": 4,
+      "id": 459,
+      "name": "TrueDev",
+      "rank": 180,
+      "score": 670
+    },
+    {
+      "division": 1,
+      "id": 52,
+      "name": "S0129 - N.T. Heung Yee Kuk Yuen Long District Secondary School",
+      "rank": 181,
+      "score": 670
+    },
+    {
+      "division": 2,
+      "id": 206,
+      "name": "T0046 - THEI,CityU,HSU",
+      "rank": 182,
+      "score": 670
+    },
+    {
+      "division": 2,
+      "id": 226,
+      "name": "T0022 - CUHK",
+      "rank": 183,
+      "score": 670
+    },
+    {
+      "division": 2,
+      "id": 209,
+      "name": "T0043 - Mu 007",
+      "rank": 184,
+      "score": 670
+    },
+    {
+      "division": 4,
+      "id": 100362,
+      "name": "dfsfsdfsd",
+      "rank": 185,
+      "score": 660
+    },
+    {
+      "division": 4,
+      "id": 100536,
+      "name": "S™",
+      "rank": 186,
+      "score": 660
+    },
+    {
+      "division": 4,
+      "id": 100267,
+      "name": "what321",
+      "rank": 187,
+      "score": 660
+    },
+    {
+      "division": 4,
+      "id": 100487,
+      "name": "sakura",
+      "rank": 188,
+      "score": 650
+    },
+    {
+      "division": 4,
+      "id": 100099,
+      "name": "GWN",
+      "rank": 189,
+      "score": 620
+    },
+    {
+      "division": 3,
+      "id": 243,
+      "name": "O0134 - Fairy Atelier",
+      "rank": 190,
+      "score": 620
+    },
+    {
+      "division": 1,
+      "id": 38,
+      "name": "S0144 - SKH CHAN YOUNG SECONDARY SCHOOL",
+      "rank": 191,
+      "score": 620
+    },
+    {
+      "division": 4,
+      "id": 100079,
+      "name": "ShellphishAcademy4",
+      "rank": 192,
+      "score": 610
+    },
+    {
+      "division": 4,
+      "id": 100494,
+      "name": "TeaTime",
+      "rank": 193,
+      "score": 610
+    },
+    {
+      "division": 4,
+      "id": 100029,
+      "name": "Qw'Hack",
+      "rank": 194,
+      "score": 610
+    },
+    {
+      "division": 4,
+      "id": 100592,
+      "name": "amyglan-fsoc",
+      "rank": 195,
+      "score": 610
+    },
+    {
+      "division": 4,
+      "id": 100296,
+      "name": "Cyber Salmons",
+      "rank": 196,
+      "score": 610
+    },
+    {
+      "division": 2,
+      "id": 166,
+      "name": "T0087 - deadline fighter",
+      "rank": 197,
+      "score": 610
+    },
+    {
+      "division": 1,
+      "id": 132,
+      "name": "S0045 - Wah Yan College, Hong Kong",
+      "rank": 198,
+      "score": 570
+    },
+    {
+      "division": 4,
+      "id": 100152,
+      "name": "Aw4k3n",
+      "rank": 199,
+      "score": 560
+    },
+    {
+      "division": 4,
+      "id": 100254,
+      "name": "zimzi",
+      "rank": 200,
+      "score": 560
+    },
+    {
+      "division": 4,
+      "id": 100385,
+      "name": "ransoware",
+      "rank": 201,
+      "score": 560
+    },
+    {
+      "division": 4,
+      "id": 100180,
+      "name": "packpack",
+      "rank": 202,
+      "score": 560
+    },
+    {
+      "division": 4,
+      "id": 100290,
+      "name": "thefwncrew",
+      "rank": 203,
+      "score": 560
+    },
+    {
+      "division": 4,
+      "id": 420,
+      "name": "Toasters",
+      "rank": 204,
+      "score": 560
+    },
+    {
+      "division": 4,
+      "id": 100173,
+      "name": "what",
+      "rank": 205,
+      "score": 550
+    },
+    {
+      "division": 4,
+      "id": 100085,
+      "name": "16j",
+      "rank": 206,
+      "score": 550
+    },
+    {
+      "division": 4,
+      "id": 100087,
+      "name": "OP_EN",
+      "rank": 207,
+      "score": 520
+    },
+    {
+      "division": 2,
+      "id": 176,
+      "name": "T0076 - HKUST",
+      "rank": 208,
+      "score": 520
+    },
+    {
+      "division": 4,
+      "id": 431,
+      "name": "0try",
+      "rank": 209,
+      "score": 520
+    },
+    {
+      "division": 1,
+      "id": 29,
+      "name": "S0153 - Kowloon True Light School",
+      "rank": 210,
+      "score": 520
+    },
+    {
+      "division": 1,
+      "id": 128,
+      "name": "S0049 - Kowloon True Light School",
+      "rank": 211,
+      "score": 520
+    },
+    {
+      "division": 1,
+      "id": 32,
+      "name": "S0150 - Kowloon True Light School",
+      "rank": 212,
+      "score": 520
+    },
+    {
+      "division": 4,
+      "id": 100115,
+      "name": "BITSkrieg",
+      "rank": 213,
+      "score": 510
+    },
+    {
+      "division": 4,
+      "id": 100225,
+      "name": "TetriSH",
+      "rank": 214,
+      "score": 510
+    },
+    {
+      "division": 4,
+      "id": 413,
+      "name": "Hackarby IF",
+      "rank": 215,
+      "score": 510
+    },
+    {
+      "division": 4,
+      "id": 100269,
+      "name": "5eek3rs",
+      "rank": 216,
+      "score": 510
+    },
+    {
+      "division": 3,
+      "id": 261,
+      "name": "O0116 - 5gbo",
+      "rank": 217,
+      "score": 510
+    },
+    {
+      "division": 4,
+      "id": 100054,
+      "name": "Gon_Tanaka",
+      "rank": 218,
+      "score": 510
+    },
+    {
+      "division": 3,
+      "id": 298,
+      "name": "O0079 - Cybersentinels 01",
+      "rank": 219,
+      "score": 510
+    },
+    {
+      "division": 4,
+      "id": 100482,
+      "name": "inhack",
+      "rank": 220,
+      "score": 500
+    },
+    {
+      "division": 1,
+      "id": 115,
+      "name": "S0062 - Hong Kong Institute of Contemporary Culture Lee Shau Kee School of Creativity",
+      "rank": 221,
+      "score": 470
+    },
+    {
+      "division": 3,
+      "id": 327,
+      "name": "O0050 - HLLA",
+      "rank": 222,
+      "score": 470
+    },
+    {
+      "division": 1,
+      "id": 149,
+      "name": "S0023 - Po Leung Kuk Lo Kit Sing (1983) College",
+      "rank": 223,
+      "score": 470
+    },
+    {
+      "division": 1,
+      "id": 103,
+      "name": "S0074 - Lok Sin Tong Leung Kau Kui College",
+      "rank": 224,
+      "score": 470
+    },
+    {
+      "division": 1,
+      "id": 50,
+      "name": "S0131 - Ying Wa College",
+      "rank": 225,
+      "score": 470
+    },
+    {
+      "division": 3,
+      "id": 252,
+      "name": "O0125 - O0000 B0tt0m 0f th3 b4rr31",
+      "rank": 226,
+      "score": 470
+    },
+    {
+      "division": 4,
+      "id": 100486,
+      "name": "umz",
+      "rank": 227,
+      "score": 470
+    },
+    {
+      "division": 3,
+      "id": 329,
+      "name": "O0046 - duck duck tour",
+      "rank": 228,
+      "score": 470
+    },
+    {
+      "division": 4,
+      "id": 100078,
+      "name": "ShellphishAcademy2",
+      "rank": 229,
+      "score": 460
+    },
+    {
+      "division": 4,
+      "id": 498,
+      "name": "Imfly_Team",
+      "rank": 230,
+      "score": 460
+    },
+    {
+      "division": 4,
+      "id": 405,
+      "name": "Turing Nesss",
+      "rank": 231,
+      "score": 460
+    },
+    {
+      "division": 3,
+      "id": 300,
+      "name": "O0077 - CyberSentine1",
+      "rank": 232,
+      "score": 460
+    },
+    {
+      "division": 4,
+      "id": 100558,
+      "name": "__w3b__",
+      "rank": 233,
+      "score": 460
+    },
+    {
+      "division": 2,
+      "id": 235,
+      "name": "T0011 - WeLoveHKIIT",
+      "rank": 234,
+      "score": 420
+    },
+    {
+      "division": 1,
+      "id": 88,
+      "name": "S0092 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 235,
+      "score": 420
+    },
+    {
+      "division": 3,
+      "id": 322,
+      "name": "O0055 - CM-403",
+      "rank": 236,
+      "score": 420
+    },
+    {
+      "division": 4,
+      "id": 100126,
+      "name": "EachLove3",
+      "rank": 237,
+      "score": 420
+    },
+    {
+      "division": 4,
+      "id": 100027,
+      "name": "Sleeping Forest",
+      "rank": 238,
+      "score": 420
+    },
+    {
+      "division": 4,
+      "id": 100006,
+      "name": "vubar",
+      "rank": 239,
+      "score": 420
+    },
+    {
+      "division": 4,
+      "id": 507,
+      "name": "Apex",
+      "rank": 240,
+      "score": 420
+    },
+    {
+      "division": 2,
+      "id": 187,
+      "name": "T0065 - CUHK,HKCC",
+      "rank": 241,
+      "score": 420
+    },
+    {
+      "division": 4,
+      "id": 439,
+      "name": "DP cat",
+      "rank": 242,
+      "score": 420
+    },
+    {
+      "division": 3,
+      "id": 280,
+      "name": "O0097 - 2>/dev/null",
+      "rank": 243,
+      "score": 420
+    },
+    {
+      "division": 1,
+      "id": 55,
+      "name": "S0126 - SHATIN TSUNG TSIN SECONDARY SCHOOL",
+      "rank": 244,
+      "score": 420
+    },
+    {
+      "division": 4,
+      "id": 425,
+      "name": "SHIOSAKE-OMAKE",
+      "rank": 245,
+      "score": 420
+    },
+    {
+      "division": 4,
+      "id": 100194,
+      "name": "ctf",
+      "rank": 246,
+      "score": 410
+    },
+    {
+      "division": 4,
+      "id": 100387,
+      "name": "Stellar Vector",
+      "rank": 247,
+      "score": 410
+    },
+    {
+      "division": 3,
+      "id": 328,
+      "name": "O0047 - Drater",
+      "rank": 248,
+      "score": 410
+    },
+    {
+      "division": 4,
+      "id": 100020,
+      "name": "brainless% speedrunners",
+      "rank": 249,
+      "score": 410
+    },
+    {
+      "division": 4,
+      "id": 100545,
+      "name": "WeAre",
+      "rank": 250,
+      "score": 410
+    },
+    {
+      "division": 4,
+      "id": 100019,
+      "name": "Jordi902",
+      "rank": 251,
+      "score": 410
+    },
+    {
+      "division": 4,
+      "id": 100331,
+      "name": "Ifinabele",
+      "rank": 252,
+      "score": 410
+    },
+    {
+      "division": 4,
+      "id": 100551,
+      "name": "k0kos",
+      "rank": 253,
+      "score": 410
+    },
+    {
+      "division": 4,
+      "id": 100323,
+      "name": "DrebTiye7",
+      "rank": 254,
+      "score": 400
+    },
+    {
+      "division": 4,
+      "id": 440,
+      "name": "Team_Fam",
+      "rank": 255,
+      "score": 400
+    },
+    {
+      "division": 4,
+      "id": 100607,
+      "name": "pwnlentoni",
+      "rank": 256,
+      "score": 400
+    },
+    {
+      "division": 4,
+      "id": 100206,
+      "name": "'god'[::-1]",
+      "rank": 257,
+      "score": 400
+    },
+    {
+      "division": 4,
+      "id": 100101,
+      "name": "976",
+      "rank": 258,
+      "score": 400
+    },
+    {
+      "division": 4,
+      "id": 476,
+      "name": "MacaoWaterTeam",
+      "rank": 259,
+      "score": 370
+    },
+    {
+      "division": 1,
+      "id": 22,
+      "name": "S0160 - SHATIN PUI YING COLLEGE",
+      "rank": 260,
+      "score": 370
+    },
+    {
+      "division": 1,
+      "id": 141,
+      "name": "S0036 - Po Leung Kuk Lee Shing Pik College",
+      "rank": 261,
+      "score": 370
+    },
+    {
+      "division": 1,
+      "id": 84,
+      "name": "S0096 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 262,
+      "score": 370
+    },
+    {
+      "division": 4,
+      "id": 100186,
+      "name": "RaphaeL",
+      "rank": 263,
+      "score": 370
+    },
+    {
+      "division": 3,
+      "id": 343,
+      "name": "O0031 - fmak",
+      "rank": 264,
+      "score": 370
+    },
+    {
+      "division": 4,
+      "id": 381,
+      "name": "SUGUS47",
+      "rank": 265,
+      "score": 370
+    },
+    {
+      "division": 3,
+      "id": 330,
+      "name": "O0045 - verypro.wtf",
+      "rank": 266,
+      "score": 370
+    },
+    {
+      "division": 1,
+      "id": 73,
+      "name": "S0107 - King George V School",
+      "rank": 267,
+      "score": 370
+    },
+    {
+      "division": 2,
+      "id": 184,
+      "name": "T0068 - HKCT",
+      "rank": 268,
+      "score": 370
+    },
+    {
+      "division": 4,
+      "id": 100065,
+      "name": "[CTU FIT] Lopatky",
+      "rank": 269,
+      "score": 360
+    },
+    {
+      "division": 3,
+      "id": 253,
+      "name": "O0124 - bruh open (boomer ver.)",
+      "rank": 270,
+      "score": 360
+    },
+    {
+      "division": 4,
+      "id": 100148,
+      "name": "F14GThi3f",
+      "rank": 271,
+      "score": 360
+    },
+    {
+      "division": 2,
+      "id": 181,
+      "name": "T0071 - I_LUV_CHERRY",
+      "rank": 272,
+      "score": 360
+    },
+    {
+      "division": 1,
+      "id": 45,
+      "name": "S0137 - Youth College (Kwai Fong)",
+      "rank": 273,
+      "score": 360
+    },
+    {
+      "division": 4,
+      "id": 461,
+      "name": "babyd0nthurtm3",
+      "rank": 274,
+      "score": 360
+    },
+    {
+      "division": 3,
+      "id": 299,
+      "name": "O0078 - Cybersentinels 02",
+      "rank": 275,
+      "score": 360
+    },
+    {
+      "division": 4,
+      "id": 412,
+      "name": "Buggbrigaden",
+      "rank": 276,
+      "score": 360
+    },
+    {
+      "division": 4,
+      "id": 100320,
+      "name": "21ph",
+      "rank": 277,
+      "score": 350
+    },
+    {
+      "division": 4,
+      "id": 100084,
+      "name": "n0nst0pp4ble",
+      "rank": 278,
+      "score": 350
+    },
+    {
+      "division": 4,
+      "id": 100321,
+      "name": "bepo",
+      "rank": 279,
+      "score": 320
+    },
+    {
+      "division": 1,
+      "id": 5,
+      "name": "S0177 - SKH Lui Ming Choi Secondary School",
+      "rank": 280,
+      "score": 320
+    },
+    {
+      "division": 3,
+      "id": 314,
+      "name": "O0063 - Tim Team",
+      "rank": 281,
+      "score": 320
+    },
+    {
+      "division": 1,
+      "id": 102,
+      "name": "S0075 - Concordia Lutheran School",
+      "rank": 282,
+      "score": 320
+    },
+    {
+      "division": 1,
+      "id": 70,
+      "name": "S0110 - Shun Tak Fraternal Association Seaward Woo College",
+      "rank": 283,
+      "score": 320
+    },
+    {
+      "division": 1,
+      "id": 157,
+      "name": "S0015 - Ying Wa Girls' School",
+      "rank": 284,
+      "score": 320
+    },
+    {
+      "division": 4,
+      "id": 477,
+      "name": "PWNDEMONIUM.",
+      "rank": 285,
+      "score": 320
+    },
+    {
+      "division": 2,
+      "id": 197,
+      "name": "T0055 - T1402-Bengor",
+      "rank": 286,
+      "score": 320
+    },
+    {
+      "division": 1,
+      "id": 156,
+      "name": "S0016 - Ying Wa Girls' School",
+      "rank": 287,
+      "score": 320
+    },
+    {
+      "division": 1,
+      "id": 160,
+      "name": "S0007 - Mu Kuang English School",
+      "rank": 288,
+      "score": 320
+    },
+    {
+      "division": 4,
+      "id": 100580,
+      "name": "Thread in the Needle",
+      "rank": 289,
+      "score": 320
+    },
+    {
+      "division": 1,
+      "id": 100,
+      "name": "S0077 - Concordia Lutheran School",
+      "rank": 290,
+      "score": 320
+    },
+    {
+      "division": 4,
+      "id": 446,
+      "name": "Forg1ven",
+      "rank": 291,
+      "score": 320
+    },
+    {
+      "division": 1,
+      "id": 151,
+      "name": "S0021 - Tuen Mun Catholic Secondary School",
+      "rank": 292,
+      "score": 320
+    },
+    {
+      "division": 4,
+      "id": 467,
+      "name": "Interns",
+      "rank": 293,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 100223,
+      "name": "Yalois",
+      "rank": 294,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 100031,
+      "name": "[FIT CVUT] BackBenchers",
+      "rank": 295,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 100088,
+      "name": "ShellphishAcademy3",
+      "rank": 296,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 100430,
+      "name": "ChelinkaTeam",
+      "rank": 297,
+      "score": 310
+    },
+    {
+      "division": 2,
+      "id": 221,
+      "name": "T0031 - KIWIfruit",
+      "rank": 298,
+      "score": 310
+    },
+    {
+      "division": 3,
+      "id": 336,
+      "name": "O0039 - InfiniteLoop",
+      "rank": 299,
+      "score": 310
+    },
+    {
+      "division": 3,
+      "id": 248,
+      "name": "O0129 - Red Elephant",
+      "rank": 300,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 451,
+      "name": "Hack Tuah",
+      "rank": 301,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 100112,
+      "name": "sii",
+      "rank": 302,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 100371,
+      "name": "pfapostol",
+      "rank": 303,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 100302,
+      "name": "n0bita",
+      "rank": 304,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 100403,
+      "name": "starrysky",
+      "rank": 305,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 100589,
+      "name": "Hash Dogs",
+      "rank": 306,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 466,
+      "name": "Newbs",
+      "rank": 307,
+      "score": 310
+    },
+    {
+      "division": 4,
+      "id": 100230,
+      "name": "Hasaki",
+      "rank": 308,
+      "score": 300
+    },
+    {
+      "division": 4,
+      "id": 100219,
+      "name": "w7w7",
+      "rank": 309,
+      "score": 300
+    },
+    {
+      "division": 4,
+      "id": 100264,
+      "name": "noop",
+      "rank": 310,
+      "score": 300
+    },
+    {
+      "division": 4,
+      "id": 100042,
+      "name": "WillNotSmith",
+      "rank": 311,
+      "score": 300
+    },
+    {
+      "division": 4,
+      "id": 100591,
+      "name": "wack",
+      "rank": 312,
+      "score": 300
+    },
+    {
+      "division": 4,
+      "id": 100479,
+      "name": "pirate ",
+      "rank": 313,
+      "score": 300
+    },
+    {
+      "division": 1,
+      "id": 44,
+      "name": "S0138 - Youth College (Kwai Fong)",
+      "rank": 314,
+      "score": 270
+    },
+    {
+      "division": 2,
+      "id": 203,
+      "name": "T0049 - Test_flag",
+      "rank": 315,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 21,
+      "name": "S0161 - The Chinese Foundation Secondary School",
+      "rank": 316,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 75,
+      "name": "S0105 - CCC Kei Yuen College",
+      "rank": 317,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 155,
+      "name": "S0017 - Ying Wa Girls' School",
+      "rank": 318,
+      "score": 270
+    },
+    {
+      "division": 4,
+      "id": 100445,
+      "name": "Nasi Lemak",
+      "rank": 319,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 46,
+      "name": "S0136 - TWGHs Lui Yun Choy Memorial College",
+      "rank": 320,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 76,
+      "name": "S0104 - CCC Kei Yuen College",
+      "rank": 321,
+      "score": 270
+    },
+    {
+      "division": 3,
+      "id": 363,
+      "name": "O0010 - HackyClub TeamB",
+      "rank": 322,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 69,
+      "name": "S0112 - TWGHs Wong Fut Nam College",
+      "rank": 323,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 74,
+      "name": "S0106 - CCC Kei Yuen College",
+      "rank": 324,
+      "score": 270
+    },
+    {
+      "division": 4,
+      "id": 100285,
+      "name": "br4inr0t",
+      "rank": 325,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 125,
+      "name": "S0052 - Mu Kuang English School",
+      "rank": 326,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 23,
+      "name": "S0159 - Shatin Pui Ying College",
+      "rank": 327,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 116,
+      "name": "S0061 - Hong Kong Institute of Contemporary Culture Lee Shau Kee School of Creativity",
+      "rank": 328,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 133,
+      "name": "S0044 - CNEC Lau Wing Sang Secondary School",
+      "rank": 329,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 18,
+      "name": "S0164 - St. Stephen's Church College",
+      "rank": 330,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 137,
+      "name": "S0040 - Kwun Tong Maryknoll College",
+      "rank": 331,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 89,
+      "name": "S0091 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 332,
+      "score": 270
+    },
+    {
+      "division": 3,
+      "id": 351,
+      "name": "O0022 - Rio Lin",
+      "rank": 333,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 110,
+      "name": "S0067 - Pui Shing Catholic Secondary School",
+      "rank": 334,
+      "score": 270
+    },
+    {
+      "division": 3,
+      "id": 354,
+      "name": "O0019 - Open Team 666",
+      "rank": 335,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 9,
+      "name": "S0173 - TWGHs LEE CHING DEA MEMORIAL COLLEGE",
+      "rank": 336,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 105,
+      "name": "S0072 - S.K.H. Tsang Shiu Tim Secondary School",
+      "rank": 337,
+      "score": 270
+    },
+    {
+      "division": 3,
+      "id": 333,
+      "name": "O0042 - HKH Group",
+      "rank": 338,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 53,
+      "name": "S0128 - Po Leung Kuk Vicwood K.T.Chong Sixth Form College",
+      "rank": 339,
+      "score": 270
+    },
+    {
+      "division": 3,
+      "id": 289,
+      "name": "O0088 - TRYTRY",
+      "rank": 340,
+      "score": 270
+    },
+    {
+      "division": 4,
+      "id": 100010,
+      "name": "Catsss",
+      "rank": 341,
+      "score": 270
+    },
+    {
+      "division": 4,
+      "id": 100583,
+      "name": "Nexus",
+      "rank": 342,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 96,
+      "name": "S0082 - St. Mark’s School",
+      "rank": 343,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 71,
+      "name": "S0109 - hkuga college",
+      "rank": 344,
+      "score": 270
+    },
+    {
+      "division": 3,
+      "id": 241,
+      "name": "O0136 - 007",
+      "rank": 345,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 2,
+      "name": "S0180 - SKH Lui Ming Choi Secondary School",
+      "rank": 346,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 114,
+      "name": "S0063 - Ying Wa College",
+      "rank": 347,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 81,
+      "name": "S0099 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 348,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 101,
+      "name": "S0076 - Immaculate Heart of Mary College",
+      "rank": 349,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 92,
+      "name": "S0086 - Wah Yan College, Kowloon",
+      "rank": 350,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 122,
+      "name": "S0055 - Stewards Pooi Kei College",
+      "rank": 351,
+      "score": 270
+    },
+    {
+      "division": 4,
+      "id": 434,
+      "name": "( •_•)>⌐■-■",
+      "rank": 352,
+      "score": 270
+    },
+    {
+      "division": 3,
+      "id": 319,
+      "name": "O0058 - mulch-unbitten",
+      "rank": 353,
+      "score": 270
+    },
+    {
+      "division": 2,
+      "id": 224,
+      "name": "T0024 - UnsungF1ag",
+      "rank": 354,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 97,
+      "name": "S0081 - The Chinese Foundation Secondary School",
+      "rank": 355,
+      "score": 270
+    },
+    {
+      "division": 4,
+      "id": 100522,
+      "name": "C4n't_f@i1_k0mputer+4rchit3c7urE",
+      "rank": 356,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 99,
+      "name": "S0079 - St. Paul's Secondary School",
+      "rank": 357,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 94,
+      "name": "S0084 - Kwok Tak Seng Catholic Secondary School",
+      "rank": 358,
+      "score": 270
+    },
+    {
+      "division": 2,
+      "id": 180,
+      "name": "T0072 - HKMU",
+      "rank": 359,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 20,
+      "name": "S0162 - TWGHs Li Ka Shing College",
+      "rank": 360,
+      "score": 270
+    },
+    {
+      "division": 2,
+      "id": 208,
+      "name": "T0044 - No Idea",
+      "rank": 361,
+      "score": 270
+    },
+    {
+      "division": 1,
+      "id": 87,
+      "name": "S0093 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 362,
+      "score": 270
+    },
+    {
+      "division": 4,
+      "id": 100171,
+      "name": "justwanttolearn",
+      "rank": 363,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100248,
+      "name": "DLC",
+      "rank": 364,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100243,
+      "name": "Ultramy",
+      "rank": 365,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100326,
+      "name": "ShpufTeam",
+      "rank": 366,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100224,
+      "name": "hengker gacor",
+      "rank": 367,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100096,
+      "name": "Scoreboard Grind Playaah",
+      "rank": 368,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100381,
+      "name": "Testers",
+      "rank": 369,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100064,
+      "name": "Fuses",
+      "rank": 370,
+      "score": 260
+    },
+    {
+      "division": 2,
+      "id": 238,
+      "name": "T0005 - F.R.D",
+      "rank": 371,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100144,
+      "name": "0x0x0x",
+      "rank": 372,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100091,
+      "name": "m1nt4l1ty",
+      "rank": 373,
+      "score": 260
+    },
+    {
+      "division": 2,
+      "id": 220,
+      "name": "T0032 - Techfor1",
+      "rank": 374,
+      "score": 260
+    },
+    {
+      "division": 1,
+      "id": 158,
+      "name": "S0014 - Queen Elizabeth School",
+      "rank": 375,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100477,
+      "name": "pandapandas",
+      "rank": 376,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100003,
+      "name": "CH4R513WF4N",
+      "rank": 377,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100151,
+      "name": "Dark Horse",
+      "rank": 378,
+      "score": 260
+    },
+    {
+      "division": 3,
+      "id": 340,
+      "name": "O0035 - Victoria",
+      "rank": 379,
+      "score": 260
+    },
+    {
+      "division": 3,
+      "id": 287,
+      "name": "O0090 - O0090 - shyGuy",
+      "rank": 380,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100458,
+      "name": "CRMA CYBER CLUB",
+      "rank": 381,
+      "score": 260
+    },
+    {
+      "division": 1,
+      "id": 95,
+      "name": "S0083 - Kwok Tak Seng Catholic Secondary School",
+      "rank": 382,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 424,
+      "name": "Char Siu",
+      "rank": 383,
+      "score": 260
+    },
+    {
+      "division": 3,
+      "id": 254,
+      "name": "O0123 - SRisFun2",
+      "rank": 384,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100466,
+      "name": "RemoteException",
+      "rank": 385,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100530,
+      "name": "DegenB",
+      "rank": 386,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100357,
+      "name": "sifta",
+      "rank": 387,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100097,
+      "name": "baeke",
+      "rank": 388,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 401,
+      "name": "konstanziskool",
+      "rank": 389,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100022,
+      "name": "Waveform",
+      "rank": 390,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100142,
+      "name": "HeoTae",
+      "rank": 391,
+      "score": 260
+    },
+    {
+      "division": 1,
+      "id": 135,
+      "name": "S0042 - Po Leung Kuk Wu Chung College",
+      "rank": 392,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 100559,
+      "name": "Blood Hunters",
+      "rank": 393,
+      "score": 260
+    },
+    {
+      "division": 2,
+      "id": 210,
+      "name": "T0042 - HKUST",
+      "rank": 394,
+      "score": 260
+    },
+    {
+      "division": 4,
+      "id": 453,
+      "name": "Orz",
+      "rank": 395,
+      "score": 250
+    },
+    {
+      "division": 4,
+      "id": 452,
+      "name": "xtafcxz",
+      "rank": 396,
+      "score": 250
+    },
+    {
+      "division": 4,
+      "id": 100354,
+      "name": "decl",
+      "rank": 397,
+      "score": 250
+    },
+    {
+      "division": 1,
+      "id": 61,
+      "name": "S0120 - TWGHs Sun Hoi Directors' College",
+      "rank": 398,
+      "score": 250
+    },
+    {
+      "division": 4,
+      "id": 100520,
+      "name": "iaohkut",
+      "rank": 399,
+      "score": 250
+    },
+    {
+      "division": 4,
+      "id": 100021,
+      "name": "a12",
+      "rank": 400,
+      "score": 250
+    },
+    {
+      "division": 2,
+      "id": 211,
+      "name": "T0041 - NJ",
+      "rank": 401,
+      "score": 250
+    },
+    {
+      "division": 4,
+      "id": 100226,
+      "name": "AceTeam",
+      "rank": 402,
+      "score": 220
+    },
+    {
+      "division": 4,
+      "id": 464,
+      "name": "elif",
+      "rank": 403,
+      "score": 220
+    },
+    {
+      "division": 1,
+      "id": 31,
+      "name": "S0151 - Kowloon True Light School",
+      "rank": 404,
+      "score": 220
+    },
+    {
+      "division": 1,
+      "id": 90,
+      "name": "S0090 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 405,
+      "score": 220
+    },
+    {
+      "division": 4,
+      "id": 100496,
+      "name": "Kowloon True Light School",
+      "rank": 406,
+      "score": 220
+    },
+    {
+      "division": 4,
+      "id": 100080,
+      "name": "ri5e",
+      "rank": 407,
+      "score": 220
+    },
+    {
+      "division": 3,
+      "id": 277,
+      "name": "O0100 - GO",
+      "rank": 408,
+      "score": 220
+    },
+    {
+      "division": 1,
+      "id": 118,
+      "name": "S0059 - The Chinese Foundation Secondary School",
+      "rank": 409,
+      "score": 220
+    },
+    {
+      "division": 4,
+      "id": 100207,
+      "name": "ktranowl",
+      "rank": 410,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100138,
+      "name": "UKFC",
+      "rank": 411,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100335,
+      "name": "👑 CROWN 👑",
+      "rank": 412,
+      "score": 210
+    },
+    {
+      "division": 3,
+      "id": 244,
+      "name": "O0133 - Rage your dream",
+      "rank": 413,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100283,
+      "name": "R3nabled",
+      "rank": 414,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 450,
+      "name": "c0nrad",
+      "rank": 415,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100498,
+      "name": "/tmp/red",
+      "rank": 416,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100052,
+      "name": "nothing",
+      "rank": 417,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 411,
+      "name": "Hackarberget",
+      "rank": 418,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100125,
+      "name": "Friday_guz",
+      "rank": 419,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100158,
+      "name": "CryptoKobolds",
+      "rank": 420,
+      "score": 210
+    },
+    {
+      "division": 3,
+      "id": 255,
+      "name": "O0122 - HK_Dude",
+      "rank": 421,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100343,
+      "name": "Fh5hEvilT34ch3r",
+      "rank": 422,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100625,
+      "name": "ch3nx1",
+      "rank": 423,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100304,
+      "name": "Team Krabath",
+      "rank": 424,
+      "score": 210
+    },
+    {
+      "division": 3,
+      "id": 368,
+      "name": "O0005 - Achieve IT Ideas",
+      "rank": 425,
+      "score": 210
+    },
+    {
+      "division": 4,
+      "id": 100175,
+      "name": "CozyBox",
+      "rank": 426,
+      "score": 200
+    },
+    {
+      "division": 4,
+      "id": 100540,
+      "name": "PrivateUser",
+      "rank": 427,
+      "score": 170
+    },
+    {
+      "division": 1,
+      "id": 139,
+      "name": "S0038 - Sing Yin Secondary School",
+      "rank": 428,
+      "score": 170
+    },
+    {
+      "division": 3,
+      "id": 353,
+      "name": "O0020 - Ball Pen Tester 2.0",
+      "rank": 429,
+      "score": 170
+    },
+    {
+      "division": 3,
+      "id": 325,
+      "name": "O0052 - TeamMiracle",
+      "rank": 430,
+      "score": 170
+    },
+    {
+      "division": 1,
+      "id": 106,
+      "name": "S0071 - The Hong Kong Management Association K S Lo College",
+      "rank": 431,
+      "score": 170
+    },
+    {
+      "division": 4,
+      "id": 100203,
+      "name": "pepinero",
+      "rank": 432,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100146,
+      "name": "Potato",
+      "rank": 433,
+      "score": 160
+    },
+    {
+      "division": 3,
+      "id": 338,
+      "name": "O0037 - Hex CY",
+      "rank": 434,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100189,
+      "name": "P1nk Byt3",
+      "rank": 435,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100164,
+      "name": "0xE0F",
+      "rank": 436,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 491,
+      "name": "Root Force",
+      "rank": 437,
+      "score": 160
+    },
+    {
+      "division": 3,
+      "id": 367,
+      "name": "O0006 - RedPing",
+      "rank": 438,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100258,
+      "name": "zwwbjj",
+      "rank": 439,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 390,
+      "name": "123456789password",
+      "rank": 440,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100250,
+      "name": "W0rms",
+      "rank": 441,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100294,
+      "name": "LYUSEC",
+      "rank": 442,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100259,
+      "name": "Cyb3rPr1s0n",
+      "rank": 443,
+      "score": 160
+    },
+    {
+      "division": 2,
+      "id": 236,
+      "name": "T0010 - Nessie Explode 4",
+      "rank": 444,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 471,
+      "name": "pcms101",
+      "rank": 445,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100253,
+      "name": "ultradiyow",
+      "rank": 446,
+      "score": 160
+    },
+    {
+      "division": 3,
+      "id": 316,
+      "name": "O0061 - glutt0n",
+      "rank": 447,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100352,
+      "name": "RandomTeam",
+      "rank": 448,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100407,
+      "name": "#hackispleasure",
+      "rank": 449,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100419,
+      "name": "Fuzzzz101",
+      "rank": 450,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100378,
+      "name": "Myserk",
+      "rank": 451,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100427,
+      "name": "CyberYMCA",
+      "rank": 452,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100446,
+      "name": "B00T2R00T",
+      "rank": 453,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100449,
+      "name": "Test1234",
+      "rank": 454,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100519,
+      "name": "goodzg",
+      "rank": 455,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100346,
+      "name": "In the past",
+      "rank": 456,
+      "score": 160
+    },
+    {
+      "division": 2,
+      "id": 183,
+      "name": "T0069 - HKU",
+      "rank": 457,
+      "score": 160
+    },
+    {
+      "division": 4,
+      "id": 100050,
+      "name": "su-root",
+      "rank": 458,
+      "score": 150
+    },
+    {
+      "division": 4,
+      "id": 100588,
+      "name": "nikko",
+      "rank": 459,
+      "score": 150
+    },
+    {
+      "division": 4,
+      "id": 100636,
+      "name": "sss",
+      "rank": 460,
+      "score": 150
+    },
+    {
+      "division": 1,
+      "id": 42,
+      "name": "S0140 - HHCKLA Buddhist Leung Chik Wai College",
+      "rank": 461,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 100535,
+      "name": "CyberDojoTM",
+      "rank": 462,
+      "score": 120
+    },
+    {
+      "division": 2,
+      "id": 188,
+      "name": "T0064 - 2MenTeam",
+      "rank": 463,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 107,
+      "name": "S0070 - St. Louis School",
+      "rank": 464,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 143,
+      "name": "S0034 - Maryknoll Fathers' School",
+      "rank": 465,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 100509,
+      "name": "bc84202",
+      "rank": 466,
+      "score": 120
+    },
+    {
+      "division": 3,
+      "id": 272,
+      "name": "O0105 - marco",
+      "rank": 467,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 441,
+      "name": "Codernate",
+      "rank": 468,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 373,
+      "name": "SaintChelyabinsk",
+      "rank": 469,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 100157,
+      "name": "HEXORCISTS",
+      "rank": 470,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 147,
+      "name": "S0025 - Po Leung Kuk Wu Chung College",
+      "rank": 471,
+      "score": 120
+    },
+    {
+      "division": 3,
+      "id": 286,
+      "name": "O0091 - Hope3952",
+      "rank": 472,
+      "score": 120
+    },
+    {
+      "division": 2,
+      "id": 239,
+      "name": "T0003 - PolyU,CityU,CUHK,HKUST",
+      "rank": 473,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 91,
+      "name": "S0089 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 474,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 6,
+      "name": "S0176 - SKH Lui Ming Choi Secondary School",
+      "rank": 475,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 104,
+      "name": "S0073 - Pui Kiu College",
+      "rank": 476,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 130,
+      "name": "S0047 - Kowloon True Light School",
+      "rank": 477,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 100093,
+      "name": "h5ck",
+      "rank": 478,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 100565,
+      "name": "H4xor_Hunters",
+      "rank": 479,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 78,
+      "name": "S0102 - The Chinese Foundation Secondary School",
+      "rank": 480,
+      "score": 120
+    },
+    {
+      "division": 3,
+      "id": 323,
+      "name": "O0054 - NationalSecurity",
+      "rank": 481,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 100218,
+      "name": "S0111 - CCC Kei To Secondary School",
+      "rank": 482,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 100123,
+      "name": "zh0ng3r",
+      "rank": 483,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 85,
+      "name": "S0095 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 484,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 100622,
+      "name": "Cyber Arc Reactor",
+      "rank": 485,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 19,
+      "name": "S0163 - Hong Kong Baptist University Affiliated School Wong Kam Fai Secondary and Primary School",
+      "rank": 486,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 100632,
+      "name": "CYBER SECURITY ENTHUSIAST",
+      "rank": 487,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 508,
+      "name": "Kam",
+      "rank": 488,
+      "score": 120
+    },
+    {
+      "division": 4,
+      "id": 516,
+      "name": "SHAOCHI LU",
+      "rank": 489,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 11,
+      "name": "S0171 - St. Joseph's College",
+      "rank": 490,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 117,
+      "name": "S0060 - S.K.H. Tsang Shiu Tim Secondary School",
+      "rank": 491,
+      "score": 120
+    },
+    {
+      "division": 2,
+      "id": 223,
+      "name": "T0026 - HKU",
+      "rank": 492,
+      "score": 120
+    },
+    {
+      "division": 2,
+      "id": 179,
+      "name": "T0073 - Raining Penguins",
+      "rank": 493,
+      "score": 120
+    },
+    {
+      "division": 2,
+      "id": 207,
+      "name": "T0045 - HKMU",
+      "rank": 494,
+      "score": 120
+    },
+    {
+      "division": 1,
+      "id": 150,
+      "name": "S0022 - Tuen Mun Catholic Secondary School",
+      "rank": 495,
+      "score": 120
+    },
+    {
+      "division": 3,
+      "id": 270,
+      "name": "O0107 - m0cr0v",
+      "rank": 496,
+      "score": 110
+    },
+    {
+      "division": 1,
+      "id": 16,
+      "name": "S0166 - GCC&ITKD Lau Pak Lok Secondary School",
+      "rank": 497,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100169,
+      "name": "khiarshoor",
+      "rank": 498,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100165,
+      "name": "Wh1teR00m",
+      "rank": 499,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100067,
+      "name": "M0||3Y#31s7",
+      "rank": 500,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 455,
+      "name": "Triode",
+      "rank": 501,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100170,
+      "name": "suzu",
+      "rank": 502,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 496,
+      "name": "44",
+      "rank": 503,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 315,
+      "name": "O0062 - O0019 - 0x19",
+      "rank": 504,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100128,
+      "name": "Half_Flurred",
+      "rank": 505,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100018,
+      "name": "Engineer",
+      "rank": 506,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 423,
+      "name": "CTFp v1.23",
+      "rank": 507,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100136,
+      "name": "DEMONS",
+      "rank": 508,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100023,
+      "name": "XaxaSec",
+      "rank": 509,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100185,
+      "name": "minaf",
+      "rank": 510,
+      "score": 110
+    },
+    {
+      "division": 1,
+      "id": 138,
+      "name": "S0039 - St. Francis Xavier's School, Tsuen Wan",
+      "rank": 511,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100183,
+      "name": "RedTeamTitan",
+      "rank": 512,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100216,
+      "name": "Reprieve",
+      "rank": 513,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100007,
+      "name": "EgyBest",
+      "rank": 514,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100032,
+      "name": "[CTU FIT] admin123",
+      "rank": 515,
+      "score": 110
+    },
+    {
+      "division": 1,
+      "id": 131,
+      "name": "S0046 - St. Francis Xavier's School, Tsuen Wan",
+      "rank": 516,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100062,
+      "name": "White$Lotus",
+      "rank": 517,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100244,
+      "name": "forfun",
+      "rank": 518,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100236,
+      "name": "Hack@Sec",
+      "rank": 519,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100034,
+      "name": "[CTU FIT] Dragons",
+      "rank": 520,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100177,
+      "name": "H4ck_th3_Wh47",
+      "rank": 521,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100048,
+      "name": "p4ck3t",
+      "rank": 522,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 403,
+      "name": "Zero",
+      "rank": 523,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100063,
+      "name": "CyberScorpion",
+      "rank": 524,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 443,
+      "name": "Xfinite_",
+      "rank": 525,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100120,
+      "name": "Fibonacci",
+      "rank": 526,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100211,
+      "name": "HkustSing",
+      "rank": 527,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100129,
+      "name": "Team Kirby",
+      "rank": 528,
+      "score": 110
+    },
+    {
+      "division": 2,
+      "id": 199,
+      "name": "T0053 - T0003 - HKCC",
+      "rank": 529,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 435,
+      "name": "E45TC0D3",
+      "rank": 530,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 444,
+      "name": "Indra",
+      "rank": 531,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 263,
+      "name": "O0114 - Maverick",
+      "rank": 532,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100147,
+      "name": "REvil",
+      "rank": 533,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 468,
+      "name": "pcms1010",
+      "rank": 534,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 358,
+      "name": "O0015 - D7PO",
+      "rank": 535,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100197,
+      "name": "t1st",
+      "rank": 536,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100276,
+      "name": "dreamfire",
+      "rank": 537,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100293,
+      "name": "T0091 - monkeyBro",
+      "rank": 538,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100288,
+      "name": "#####",
+      "rank": 539,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 355,
+      "name": "O0018 - Ting Ho Yin",
+      "rank": 540,
+      "score": 110
+    },
+    {
+      "division": 2,
+      "id": 229,
+      "name": "T0019 - PIPE",
+      "rank": 541,
+      "score": 110
+    },
+    {
+      "division": 1,
+      "id": 121,
+      "name": "S0056 - Sing Yin Secondary School",
+      "rank": 542,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100300,
+      "name": "quanchi",
+      "rank": 543,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 291,
+      "name": "O0086 - NepShield",
+      "rank": 544,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100329,
+      "name": "Martial_Law_Enforcer",
+      "rank": 545,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100140,
+      "name": "Intel Chips",
+      "rank": 546,
+      "score": 110
+    },
+    {
+      "division": 1,
+      "id": 146,
+      "name": "S0026 - Po Leung Kuk Wu Chung College",
+      "rank": 547,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 296,
+      "name": "O0081 - 玩極都冇flag",
+      "rank": 548,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 383,
+      "name": "MrRobot1337",
+      "rank": 549,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 406,
+      "name": "CX330",
+      "rank": 550,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100348,
+      "name": "RΞD 5HΞLL",
+      "rank": 551,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 271,
+      "name": "O0106 - Randdd",
+      "rank": 552,
+      "score": 110
+    },
+    {
+      "division": 1,
+      "id": 134,
+      "name": "S0043 - Tuen Mun Catholic Secondary School",
+      "rank": 553,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100327,
+      "name": "loststar",
+      "rank": 554,
+      "score": 110
+    },
+    {
+      "division": 1,
+      "id": 4,
+      "name": "S0178 - SKH Lui Ming Choi Secondary School",
+      "rank": 555,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 503,
+      "name": "FukSumn",
+      "rank": 556,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 311,
+      "name": "O0066 - The Newbie",
+      "rank": 557,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100340,
+      "name": "kerandoman",
+      "rank": 558,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 326,
+      "name": "O0051 - Nobody777",
+      "rank": 559,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100369,
+      "name": "d3m0nk1tt1es",
+      "rank": 560,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100333,
+      "name": "S8R",
+      "rank": 561,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100373,
+      "name": "C1ph3rp0l",
+      "rank": 562,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100330,
+      "name": "Taz Team",
+      "rank": 563,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 310,
+      "name": "O0067 - 3v1l_Caf3_W1F1_Fr33",
+      "rank": 564,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 485,
+      "name": "Th3_N00B",
+      "rank": 565,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100055,
+      "name": "goblin",
+      "rank": 566,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100281,
+      "name": "EHT",
+      "rank": 567,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100200,
+      "name": "hacktick",
+      "rank": 568,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 465,
+      "name": "#!/bin/yes",
+      "rank": 569,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100396,
+      "name": "littlegorico",
+      "rank": 570,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 408,
+      "name": "Funkiedorf",
+      "rank": 571,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100181,
+      "name": "T.U.S.K",
+      "rank": 572,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100122,
+      "name": "lockbit",
+      "rank": 573,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 382,
+      "name": "Fl4G1T",
+      "rank": 574,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100416,
+      "name": "b1p0ly4r0chk@",
+      "rank": 575,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100117,
+      "name": "Siberkost",
+      "rank": 576,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100439,
+      "name": "Ireland Without the RE",
+      "rank": 577,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 245,
+      "name": "O0132 - tethernet",
+      "rank": 578,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100104,
+      "name": "Pwner7",
+      "rank": 579,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100456,
+      "name": "paooaq",
+      "rank": 580,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100462,
+      "name": "The-World",
+      "rank": 581,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100410,
+      "name": "dpl_pwn",
+      "rank": 582,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100049,
+      "name": "H3X",
+      "rank": 583,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100391,
+      "name": "alan",
+      "rank": 584,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100470,
+      "name": "Pookie Wookies",
+      "rank": 585,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100481,
+      "name": "delicious",
+      "rank": 586,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100489,
+      "name": "kkkk",
+      "rank": 587,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100493,
+      "name": "4GUn7uk",
+      "rank": 588,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100116,
+      "name": "ExploitEngineers",
+      "rank": 589,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100504,
+      "name": "forik",
+      "rank": 590,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100507,
+      "name": "excelr8",
+      "rank": 591,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100512,
+      "name": "DimiDimi",
+      "rank": 592,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100038,
+      "name": "endless",
+      "rank": 593,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100395,
+      "name": "Yshtavat",
+      "rank": 594,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100547,
+      "name": "hacked",
+      "rank": 595,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100568,
+      "name": "babyz",
+      "rank": 596,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100578,
+      "name": "Sigma",
+      "rank": 597,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100572,
+      "name": "taka",
+      "rank": 598,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100495,
+      "name": "PSO",
+      "rank": 599,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100552,
+      "name": "1ntrud3rs",
+      "rank": 600,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100597,
+      "name": "Squid Proxy Lovers",
+      "rank": 601,
+      "score": 110
+    },
+    {
+      "division": 1,
+      "id": 120,
+      "name": "S0057 - The Chinese Foundation Secondary School",
+      "rank": 602,
+      "score": 110
+    },
+    {
+      "division": 3,
+      "id": 337,
+      "name": "O0038 - RealNiceLove",
+      "rank": 603,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100527,
+      "name": "mikejam",
+      "rank": 604,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100339,
+      "name": "pales1gh",
+      "rank": 605,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100642,
+      "name": "frennn",
+      "rank": 606,
+      "score": 110
+    },
+    {
+      "division": 4,
+      "id": 100195,
+      "name": "daffainfo",
+      "rank": 607,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100167,
+      "name": "haniesolo",
+      "rank": 608,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100221,
+      "name": "daccong",
+      "rank": 609,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100229,
+      "name": "__Del_H_aB",
+      "rank": 610,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100119,
+      "name": "Ginkgo",
+      "rank": 611,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100102,
+      "name": "BsZbQs",
+      "rank": 612,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100154,
+      "name": "CPSS",
+      "rank": 613,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100061,
+      "name": "TPC",
+      "rank": 614,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 395,
+      "name": "RipeRice",
+      "rank": 615,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100268,
+      "name": "gigi",
+      "rank": 616,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100289,
+      "name": "moimoimoi",
+      "rank": 617,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100280,
+      "name": "IWDWIM",
+      "rank": 618,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100272,
+      "name": "EnderSphere",
+      "rank": 619,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100257,
+      "name": "uuuwind",
+      "rank": 620,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100322,
+      "name": "NOP",
+      "rank": 621,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100324,
+      "name": "CCLEMON",
+      "rank": 622,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100332,
+      "name": "m0",
+      "rank": 623,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100240,
+      "name": "h4ck4he4d",
+      "rank": 624,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100349,
+      "name": "炮灰們",
+      "rank": 625,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100037,
+      "name": "One",
+      "rank": 626,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100361,
+      "name": "somethings",
+      "rank": 627,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100359,
+      "name": "5t0rm p00p3r5",
+      "rank": 628,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100368,
+      "name": "4nti_n3r0",
+      "rank": 629,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100379,
+      "name": "Doli",
+      "rank": 630,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100382,
+      "name": "R3verii",
+      "rank": 631,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100393,
+      "name": "SOS",
+      "rank": 632,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100345,
+      "name": "ktls",
+      "rank": 633,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 426,
+      "name": "3x1a",
+      "rank": 634,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100384,
+      "name": "fcv",
+      "rank": 635,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100399,
+      "name": "castilho web",
+      "rank": 636,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100404,
+      "name": "omg123456789",
+      "rank": 637,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100406,
+      "name": "qweasd",
+      "rank": 638,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100432,
+      "name": "night",
+      "rank": 639,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100440,
+      "name": "skid420",
+      "rank": 640,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100237,
+      "name": "hahahihi",
+      "rank": 641,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100455,
+      "name": "M0",
+      "rank": 642,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100460,
+      "name": "onlyRev",
+      "rank": 643,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100485,
+      "name": "soupdrinkers",
+      "rank": 644,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100514,
+      "name": "Unk",
+      "rank": 645,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100525,
+      "name": "suspect",
+      "rank": 646,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100524,
+      "name": "5muggl3r's Team",
+      "rank": 647,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100532,
+      "name": "soloman",
+      "rank": 648,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100425,
+      "name": "macha",
+      "rank": 649,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100548,
+      "name": "testers",
+      "rank": 650,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100557,
+      "name": "pika_ctf",
+      "rank": 651,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100184,
+      "name": "bakayarooo",
+      "rank": 652,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100587,
+      "name": "zmajeva_jaja",
+      "rank": 653,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100594,
+      "name": "igorpyan",
+      "rank": 654,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100593,
+      "name": "R1s",
+      "rank": 655,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100603,
+      "name": "Hekermen",
+      "rank": 656,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100534,
+      "name": "R4Y4N3",
+      "rank": 657,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100615,
+      "name": "fdadfsadfsa",
+      "rank": 658,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100523,
+      "name": "AA@1.com",
+      "rank": 659,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100533,
+      "name": "N3wb1e_t0_Di5",
+      "rank": 660,
+      "score": 100
+    },
+    {
+      "division": 2,
+      "id": 217,
+      "name": "T0035 - IVE(Chai Wan)",
+      "rank": 661,
+      "score": 100
+    },
+    {
+      "division": 4,
+      "id": 100159,
+      "name": "ayo",
+      "rank": 662,
+      "score": 60
+    },
+    {
+      "division": 4,
+      "id": 100073,
+      "name": "El_Loubya",
+      "rank": 663,
+      "score": 60
+    },
+    {
+      "division": 4,
+      "id": 100415,
+      "name": "tongkhuyet",
+      "rank": 664,
+      "score": 60
+    },
+    {
+      "division": 4,
+      "id": 100256,
+      "name": "Normal",
+      "rank": 665,
+      "score": 50
+    },
+    {
+      "division": 1,
+      "id": 17,
+      "name": "S0165 - Man Kwan QualiEd College",
+      "rank": 666,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 100542,
+      "name": "PrivateUser01",
+      "rank": 667,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 100543,
+      "name": "Testing1",
+      "rank": 668,
+      "score": 20
+    },
+    {
+      "division": 3,
+      "id": 262,
+      "name": "O0115 - ᓚ₍ ^. .^₎",
+      "rank": 669,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 100036,
+      "name": "ctfrrteam",
+      "rank": 670,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 100574,
+      "name": "Find_Fla9",
+      "rank": 671,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 100076,
+      "name": "FL@G P!?ED@T0R",
+      "rank": 672,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 100576,
+      "name": "Glutton",
+      "rank": 673,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 100595,
+      "name": "michael",
+      "rank": 674,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 100374,
+      "name": "ByteBandits",
+      "rank": 675,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 100601,
+      "name": "TEUReverse",
+      "rank": 676,
+      "score": 20
+    },
+    {
+      "division": 1,
+      "id": 26,
+      "name": "S0156 - King George V School",
+      "rank": 677,
+      "score": 20
+    },
+    {
+      "division": 3,
+      "id": 308,
+      "name": "O0069 - fzhshzh",
+      "rank": 678,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 404,
+      "name": "Scalator",
+      "rank": 679,
+      "score": 20
+    },
+    {
+      "division": 1,
+      "id": 159,
+      "name": "S0013 - TUNG CHUNG CATHOLIC SCHOOL",
+      "rank": 680,
+      "score": 20
+    },
+    {
+      "division": 3,
+      "id": 332,
+      "name": "O0043 - pawnitup8",
+      "rank": 681,
+      "score": 20
+    },
+    {
+      "division": 2,
+      "id": 175,
+      "name": "T0077 - HKU",
+      "rank": 682,
+      "score": 20
+    },
+    {
+      "division": 1,
+      "id": 144,
+      "name": "S0029 - St. Paul's Secondary School",
+      "rank": 683,
+      "score": 20
+    },
+    {
+      "division": 1,
+      "id": 142,
+      "name": "S0035 - st. rose of lima's college",
+      "rank": 684,
+      "score": 20
+    },
+    {
+      "division": 1,
+      "id": 82,
+      "name": "S0098 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 685,
+      "score": 20
+    },
+    {
+      "division": 4,
+      "id": 502,
+      "name": "aoligei-zhi-sheng",
+      "rank": 686,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100134,
+      "name": "nanmu",
+      "rank": 687,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 454,
+      "name": "Cauliweak9",
+      "rank": 688,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100179,
+      "name": "devil",
+      "rank": 689,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 486,
+      "name": "TVA",
+      "rank": 690,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100098,
+      "name": "LOL810",
+      "rank": 691,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100156,
+      "name": "Munity",
+      "rank": 692,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100070,
+      "name": "marx_000",
+      "rank": 693,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100130,
+      "name": "PracticeTeam",
+      "rank": 694,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100187,
+      "name": "N00bs",
+      "rank": 695,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100141,
+      "name": "0nlyH4ck5",
+      "rank": 696,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100044,
+      "name": "Unholy",
+      "rank": 697,
+      "score": 10
+    },
+    {
+      "division": 3,
+      "id": 320,
+      "name": "O0057 - ITDog",
+      "rank": 698,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 72,
+      "name": "S0108 - King George V School",
+      "rank": 699,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 15,
+      "name": "S0167 - GCC&ITKD Lau Pak Lok Secondary School",
+      "rank": 700,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100178,
+      "name": "potato#1",
+      "rank": 701,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100202,
+      "name": "C1ph3rSt0rms",
+      "rank": 702,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100204,
+      "name": "11",
+      "rank": 703,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100155,
+      "name": "Devils",
+      "rank": 704,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 123,
+      "name": "S0054 - Cognitio College (Hong Kong)",
+      "rank": 705,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100028,
+      "name": "我来助你",
+      "rank": 706,
+      "score": 10
+    },
+    {
+      "division": 2,
+      "id": 219,
+      "name": "T0033 - United Christian College (Kowloon East)",
+      "rank": 707,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 140,
+      "name": "S0037 - Tuen Mun Catholic Secondary School",
+      "rank": 708,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100213,
+      "name": "c0ngdUng",
+      "rank": 709,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 372,
+      "name": "I0163",
+      "rank": 710,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100215,
+      "name": "vem",
+      "rank": 711,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100121,
+      "name": "Alexius",
+      "rank": 712,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100217,
+      "name": "pixel h4x",
+      "rank": 713,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 514,
+      "name": "NU11",
+      "rank": 714,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100030,
+      "name": "ex3x",
+      "rank": 715,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100132,
+      "name": "NormalSubgroup",
+      "rank": 716,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100053,
+      "name": "NS",
+      "rank": 717,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100231,
+      "name": "yolooooo",
+      "rank": 718,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100233,
+      "name": "cyb0rgdoll",
+      "rank": 719,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100242,
+      "name": "grzybek7",
+      "rank": 720,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100246,
+      "name": "trytry",
+      "rank": 721,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100247,
+      "name": "0nlyH4cks",
+      "rank": 722,
+      "score": 10
+    },
+    {
+      "division": 3,
+      "id": 266,
+      "name": "O0111 - haha123",
+      "rank": 723,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100260,
+      "name": "FL4M3",
+      "rank": 724,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 409,
+      "name": "solo_overfllow",
+      "rank": 725,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100263,
+      "name": "WHTRBT",
+      "rank": 726,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 14,
+      "name": "S0168 - HKFEW Wong Cho Bau Secondary School",
+      "rank": 727,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100271,
+      "name": "A1Squad",
+      "rank": 728,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 111,
+      "name": "S0066 - Pui Shing Catholic Secondary School",
+      "rank": 729,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100274,
+      "name": "TCTN",
+      "rank": 730,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 511,
+      "name": "sec2",
+      "rank": 731,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 109,
+      "name": "S0068 - Pui Shing Catholic Secondary School",
+      "rank": 732,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100278,
+      "name": "playpow",
+      "rank": 733,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 8,
+      "name": "S0174 - SKH Lui Ming Choi Secondary School",
+      "rank": 734,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100286,
+      "name": "AlFatiheen",
+      "rank": 735,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100135,
+      "name": "C500_TapChoiCTF",
+      "rank": 736,
+      "score": 10
+    },
+    {
+      "division": 2,
+      "id": 198,
+      "name": "T0054 - TEST",
+      "rank": 737,
+      "score": 10
+    },
+    {
+      "division": 3,
+      "id": 259,
+      "name": "O0118 - FelixSandbox",
+      "rank": 738,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100305,
+      "name": "SoulKnights",
+      "rank": 739,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 49,
+      "name": "S0132 - PHC Wing Kwong College",
+      "rank": 740,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100310,
+      "name": "asdasds",
+      "rank": 741,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100312,
+      "name": "wind4s",
+      "rank": 742,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100307,
+      "name": "Root808",
+      "rank": 743,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100317,
+      "name": "hackratic",
+      "rank": 744,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100316,
+      "name": "foued",
+      "rank": 745,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100318,
+      "name": "lm9adam dyal 11",
+      "rank": 746,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100266,
+      "name": "Elite.sa",
+      "rank": 747,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100336,
+      "name": "HK",
+      "rank": 748,
+      "score": 10
+    },
+    {
+      "division": 3,
+      "id": 312,
+      "name": "O0065 - Strive to learn",
+      "rank": 749,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100114,
+      "name": "JJ",
+      "rank": 750,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100005,
+      "name": "404 not found",
+      "rank": 751,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 414,
+      "name": "XX1-Owls",
+      "rank": 752,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100356,
+      "name": "LittleNoPro",
+      "rank": 753,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100360,
+      "name": "apalah",
+      "rank": 754,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100364,
+      "name": "Redteam",
+      "rank": 755,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 108,
+      "name": "S0069 - Tung Chung Catholic School",
+      "rank": 756,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100351,
+      "name": "ulala",
+      "rank": 757,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100383,
+      "name": "Team Spiryt",
+      "rank": 758,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100389,
+      "name": "Dor",
+      "rank": 759,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100390,
+      "name": "KXTI_owner21",
+      "rank": 760,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100109,
+      "name": "FlagHunter",
+      "rank": 761,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100397,
+      "name": "pneuma",
+      "rank": 762,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100398,
+      "name": "HWA9RA_ajmi",
+      "rank": 763,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 389,
+      "name": "Odin's Overwatch",
+      "rank": 764,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100400,
+      "name": "poki",
+      "rank": 765,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100401,
+      "name": "K1r4_l4nd",
+      "rank": 766,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100402,
+      "name": "hallow",
+      "rank": 767,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100405,
+      "name": "samy",
+      "rank": 768,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100408,
+      "name": "T1g3r5",
+      "rank": 769,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 391,
+      "name": "Lone",
+      "rank": 770,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100414,
+      "name": "pchel",
+      "rank": 771,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100418,
+      "name": "kart",
+      "rank": 772,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 442,
+      "name": "111-NOOBS",
+      "rank": 773,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100426,
+      "name": "4DR3N4L1N3",
+      "rank": 774,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100431,
+      "name": "NJ1T_H1ghland3r5",
+      "rank": 775,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100436,
+      "name": "PersianCats",
+      "rank": 776,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100441,
+      "name": "enums",
+      "rank": 777,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100442,
+      "name": "high3no",
+      "rank": 778,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100447,
+      "name": "acids",
+      "rank": 779,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100451,
+      "name": "tim",
+      "rank": 780,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100454,
+      "name": "zeus",
+      "rank": 781,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 509,
+      "name": "Blazing Fire",
+      "rank": 782,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100461,
+      "name": "kgrzk2024",
+      "rank": 783,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100463,
+      "name": "ZeroMarea",
+      "rank": 784,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100465,
+      "name": "r1muru",
+      "rank": 785,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100464,
+      "name": "ZACSN",
+      "rank": 786,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100467,
+      "name": "SisigMasarap",
+      "rank": 787,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100468,
+      "name": "M1tM",
+      "rank": 788,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100172,
+      "name": "AAA",
+      "rank": 789,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100475,
+      "name": "THE LEGION",
+      "rank": 790,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100478,
+      "name": "1mm0rta1",
+      "rank": 791,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 54,
+      "name": "S0127 - SEMPLE MEMORIAL SECONDARY SCHOOL",
+      "rank": 792,
+      "score": 10
+    },
+    {
+      "division": 2,
+      "id": 216,
+      "name": "T0036 - LHHC 01",
+      "rank": 793,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100488,
+      "name": "1c3Gh3tt0",
+      "rank": 794,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100491,
+      "name": "apman",
+      "rank": 795,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100492,
+      "name": "3r0th3r CC",
+      "rank": 796,
+      "score": 10
+    },
+    {
+      "division": 3,
+      "id": 370,
+      "name": "O0003 - Hex*test",
+      "rank": 797,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100452,
+      "name": "Qxh",
+      "rank": 798,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100505,
+      "name": "0x1337",
+      "rank": 799,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100338,
+      "name": "jsjddn",
+      "rank": 800,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 47,
+      "name": "S0134 - PHC Wing Kwong College",
+      "rank": 801,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100508,
+      "name": "Triadablr",
+      "rank": 802,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100511,
+      "name": "ZZZZ",
+      "rank": 803,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100513,
+      "name": "megumish",
+      "rank": 804,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100516,
+      "name": "df",
+      "rank": 805,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100517,
+      "name": "soala gogo",
+      "rank": 806,
+      "score": 10
+    },
+    {
+      "division": 3,
+      "id": 265,
+      "name": "O0112 - RandomPlayer01",
+      "rank": 807,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 161,
+      "name": "S0006 - United Christian College (Kowloon East)",
+      "rank": 808,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100526,
+      "name": "betan",
+      "rank": 809,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100417,
+      "name": "Pouls Friends",
+      "rank": 810,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100553,
+      "name": "sf_20",
+      "rank": 811,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100554,
+      "name": "Rusdi Barbershop",
+      "rank": 812,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100556,
+      "name": "aestera",
+      "rank": 813,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100585,
+      "name": "NULL TEAM",
+      "rank": 814,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100590,
+      "name": "alive",
+      "rank": 815,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100602,
+      "name": "|||||||||||||||||",
+      "rank": 816,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100606,
+      "name": "VTSN12",
+      "rank": 817,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100609,
+      "name": "hehe",
+      "rank": 818,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100610,
+      "name": "oriflamme capturers",
+      "rank": 819,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100620,
+      "name": "A 50% Luck",
+      "rank": 820,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100621,
+      "name": "2Fast2Furious",
+      "rank": 821,
+      "score": 10
+    },
+    {
+      "division": 3,
+      "id": 285,
+      "name": "O0092 - Captureflags",
+      "rank": 822,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100612,
+      "name": "Labyrinthine Codebreakers",
+      "rank": 823,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100637,
+      "name": "RSA",
+      "rank": 824,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100643,
+      "name": "p1x3lm0n",
+      "rank": 825,
+      "score": 10
+    },
+    {
+      "division": 3,
+      "id": 282,
+      "name": "O0095 - Sass",
+      "rank": 826,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100644,
+      "name": "C7r1-417-31337",
+      "rank": 827,
+      "score": 10
+    },
+    {
+      "division": 1,
+      "id": 83,
+      "name": "S0097 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 828,
+      "score": 10
+    },
+    {
+      "division": 4,
+      "id": 100702,
+      "name": "<NULL>",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 3,
+      "name": "S0179 - SKH Lui Ming Choi Secondary School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 10,
+      "name": "S0172 - Shatin Pui Ying College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 25,
+      "name": "S0157 - King George V School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 27,
+      "name": "S0155 - King George V School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 28,
+      "name": "S0154 - CCC Kei Heep Secondary School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 30,
+      "name": "S0152 - Kowloon True Light School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 33,
+      "name": "S0149 - Kowloon True Light School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 34,
+      "name": "S0148 - Kowloon True Light School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 35,
+      "name": "S0147 - Kowloon True Light School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 36,
+      "name": "S0146 - Kowloon True Light School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 37,
+      "name": "S0145 - Kowloon True Light School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 40,
+      "name": "S0142 - Tseung Kwan O Government Secondary School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 41,
+      "name": "S0141 - Tseung Kwan O Government Secondary School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 43,
+      "name": "S0139 - Youth College (Kwai Fong)",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 48,
+      "name": "S0133 - PHC Wing Kwong College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 56,
+      "name": "S0125 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 57,
+      "name": "S0124 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 58,
+      "name": "S0123 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 59,
+      "name": "S0122 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 60,
+      "name": "S0121 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 62,
+      "name": "S0119 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 63,
+      "name": "S0118 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 64,
+      "name": "S0117 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 65,
+      "name": "S0116 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 66,
+      "name": "S0115 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 67,
+      "name": "S0114 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 68,
+      "name": "S0113 - TWGHs Sun Hoi Directors' College",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 77,
+      "name": "S0103 - St. Paul's Secondary School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 80,
+      "name": "S0100 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 86,
+      "name": "S0094 - BISHOP HALL JUBILEE SCHOOL",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 124,
+      "name": "S0053 - Hong Kong teachers association Lee heng kwei secondary school",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 126,
+      "name": "S0051 - Kowloon True Light School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 127,
+      "name": "S0050 - Kowloon True Light School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 129,
+      "name": "S0048 - Kowloon True Light School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 1,
+      "id": 148,
+      "name": "S0024 - St. Paul's Secondary School",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 170,
+      "name": "T0082 - HKCC",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 171,
+      "name": "T0081 - HSU",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 172,
+      "name": "T0080 - LingU",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 213,
+      "name": "T0039 - eye_see_flag",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 218,
+      "name": "T0034 - CityU",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 225,
+      "name": "T0023 - One Person to CTF",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 227,
+      "name": "T0021 - CityU",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 228,
+      "name": "T0020 - CUHK",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 230,
+      "name": "T0016 - CityU",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 231,
+      "name": "T0015 - holy my good petty tank",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 232,
+      "name": "T0014 - CeKei",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 2,
+      "id": 234,
+      "name": "T0012 - CUHK",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 242,
+      "name": "O0135 - C1ph3rSt0rms",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 246,
+      "name": "O0131 - aaa",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 249,
+      "name": "O0128 - noteamnoname",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 251,
+      "name": "O0126 - DM",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 256,
+      "name": "O0121 - ciallo~",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 257,
+      "name": "O0120 - JustHereForWatch",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 258,
+      "name": "O0119 - KW Club",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 267,
+      "name": "O0110 - beginner_mon",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 268,
+      "name": "O0109 - JohnOffice",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 269,
+      "name": "O0108 - one-man-band",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 278,
+      "name": "O0099 - CPE hunter",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 281,
+      "name": "O0096 - Timeout",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 284,
+      "name": "O0093 - OneTech",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 288,
+      "name": "O0089 - dimla",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 294,
+      "name": "O0083 - Daryl",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 295,
+      "name": "O0082 - 有flag又唔交",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 302,
+      "name": "O0075 - HOPE",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 303,
+      "name": "O0074 - SIDBC-securedidbc",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 306,
+      "name": "O0071 - XRT",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 307,
+      "name": "O0070 - NBR Team",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 309,
+      "name": "O0068 - Paul Wang",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 318,
+      "name": "O0059 - PASSERBY",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 321,
+      "name": "O0056 - HKno1",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 324,
+      "name": "O0053 - Austin",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 331,
+      "name": "O0044 - 55Team",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 334,
+      "name": "O0041 - garubong",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 335,
+      "name": "O0040 - IJACK365",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 339,
+      "name": "O0036 - shrimpy",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 342,
+      "name": "O0032 - 記得玩",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 344,
+      "name": "O0030 - DoubleAss",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 346,
+      "name": "O0028 - Learn more",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 347,
+      "name": "O0027 - ALMA",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 348,
+      "name": "O0026 - Shing",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 349,
+      "name": "O0025 - No",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 352,
+      "name": "O0021 - GrabFun",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 356,
+      "name": "O0017 - whitebanana",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 357,
+      "name": "O0016 - Hinhin",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 360,
+      "name": "O0013 - 0x1",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 361,
+      "name": "O0012 - Fantastic Baby",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 365,
+      "name": "O0008 - null",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 3,
+      "id": 369,
+      "name": "O0004 - Car Team",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100182,
+      "name": "Gommzy",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100208,
+      "name": "hello123",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100205,
+      "name": "promp",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100192,
+      "name": "dummy@ozetta.net",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100190,
+      "name": "patch_n0tes",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100196,
+      "name": "zzzz",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100201,
+      "name": "none",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100209,
+      "name": "0087test",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100214,
+      "name": "NagaSec",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100220,
+      "name": "lol",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100234,
+      "name": "awdawdawd",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100227,
+      "name": "inequality",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100232,
+      "name": "hh",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100238,
+      "name": "hello",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100239,
+      "name": "nickbourbaki",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 415,
+      "name": "MohdAbri",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100160,
+      "name": "eejdee hairtai",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100174,
+      "name": "GrBr",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100040,
+      "name": "H4ckan3derl1",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100045,
+      "name": "rrrrain",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100059,
+      "name": "BiGSmoke",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100071,
+      "name": "France d'après",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100083,
+      "name": "Nc{Cat}",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100089,
+      "name": "정신이없다",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100107,
+      "name": "EGO",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100110,
+      "name": "PowerS",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100113,
+      "name": "Jednersaous",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100150,
+      "name": "Revil",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100153,
+      "name": "KXTI_23",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 410,
+      "name": "OAAAO",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100002,
+      "name": "ニャンハロー",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100011,
+      "name": "no rev/pwn no life",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100016,
+      "name": "fa1rylaw",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100025,
+      "name": "administrator",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100043,
+      "name": "Teamporary",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100056,
+      "name": "f4n_nr0",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100066,
+      "name": "UofTCTF",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100069,
+      "name": "MCP",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100072,
+      "name": "PwnProphecy",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100075,
+      "name": "Bugs B0unt3r",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100081,
+      "name": "CSG",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100108,
+      "name": "Gwenchana teng neng neng",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100111,
+      "name": "dcsvsegaqxoeaazarc",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100127,
+      "name": "VoidDojo",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 374,
+      "name": "ACT-23",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 378,
+      "name": "noraneco",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 379,
+      "name": "taurus",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100009,
+      "name": "TestTeam1337",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100012,
+      "name": "RP",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100026,
+      "name": "Kuban",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100033,
+      "name": "[CTU FIT]Link[/CTU FIT]",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 1,
+      "name": "admin",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100047,
+      "name": "1111",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100058,
+      "name": "d43m0n5",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100082,
+      "name": "test",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100094,
+      "name": "ROOT",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100103,
+      "name": "janganremehkanpemula",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100106,
+      "name": "shark",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100131,
+      "name": "a soe lay",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100137,
+      "name": "emGaisRain",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100149,
+      "name": "curveball",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 387,
+      "name": "P2P",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 394,
+      "name": "~(FTW)",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 398,
+      "name": "Berserk_511",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 416,
+      "name": "Triada",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 417,
+      "name": "0FF3NDER",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 419,
+      "name": "cyberfig",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 421,
+      "name": "hanemile",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 422,
+      "name": "Rever$eAck",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 427,
+      "name": "Nexus-Nektar",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 429,
+      "name": "Rotten Potatoes",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 433,
+      "name": "imnewidontknowanythingplshelp",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 437,
+      "name": "d041bu",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 438,
+      "name": "d041bu",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 445,
+      "name": "M10",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 447,
+      "name": "F Plan",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 448,
+      "name": "kotlet",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 449,
+      "name": "I0079",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 456,
+      "name": "Wunderleth",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 457,
+      "name": "Lou_is_Fox",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 458,
+      "name": "4mn3sia",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 460,
+      "name": "Solo darkimo",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 469,
+      "name": "EggRoll",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 470,
+      "name": "doubleis4byte",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 472,
+      "name": "pcms01",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 474,
+      "name": "RisfaCrypto",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 475,
+      "name": "Kernel Panic",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 478,
+      "name": "M0ud4",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 483,
+      "name": "x0x1",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 488,
+      "name": "Xu_Chen",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 489,
+      "name": "SuperWing",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 490,
+      "name": "aa",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 492,
+      "name": "tank_prince",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 493,
+      "name": "MOCSCTF",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 494,
+      "name": "尽量赢队",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 495,
+      "name": "zzdzz",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 510,
+      "name": "EVERSEC_Cloud_River",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 512,
+      "name": "sec1",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 515,
+      "name": "OneTecg",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 517,
+      "name": "wgiegie",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 518,
+      "name": "Nosmas",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 520,
+      "name": "ACT",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100166,
+      "name": "D3mons",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100191,
+      "name": "Baltazar",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100188,
+      "name": "lavandino",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100241,
+      "name": "cqu_isa",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100249,
+      "name": "lalala",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100251,
+      "name": "aboba12",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100252,
+      "name": "OMAYWA",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100255,
+      "name": "AreDaYush?",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100273,
+      "name": "adsfe",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100261,
+      "name": "mukusuki",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100262,
+      "name": "asd",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100282,
+      "name": "dwynnn",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100270,
+      "name": "Kiwi",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100284,
+      "name": "cass0ulet",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100275,
+      "name": "Tes",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100277,
+      "name": "T3sters",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100279,
+      "name": "TheForgottenBits",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100287,
+      "name": "N30Z30N",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100291,
+      "name": "thnah35",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100295,
+      "name": "high",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100297,
+      "name": "Execut3",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100298,
+      "name": "author",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100299,
+      "name": "呢個係組織嘅陰謀…",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100301,
+      "name": "MyMoon's Paradise",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100303,
+      "name": "robot",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100306,
+      "name": "mono",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100308,
+      "name": "21c7382685e52899ed7a30bd85754ba8",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100309,
+      "name": "StuXNe7",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100311,
+      "name": "Adamastor",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100313,
+      "name": "wrthasdasddasd",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100314,
+      "name": "TAS.DyhidroMonoxide",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100315,
+      "name": "Test",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100325,
+      "name": "Cr4ck1ng",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100328,
+      "name": "dc971162",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100334,
+      "name": "t3st3r",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100337,
+      "name": "Zzzz",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100347,
+      "name": "fdfd",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100350,
+      "name": "AAAA",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100353,
+      "name": "sdfsdaf",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100358,
+      "name": "BackMoon",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100363,
+      "name": "idk",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100365,
+      "name": "DJB",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100388,
+      "name": "steal",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100370,
+      "name": "xocks",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100372,
+      "name": "retard",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100392,
+      "name": "dfdfdf",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100375,
+      "name": "ssssssssssssssssssss",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100376,
+      "name": "h4ckst4t10n",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100377,
+      "name": "andser612345",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100380,
+      "name": "m0xSquad",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100386,
+      "name": "FFYYTT",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100394,
+      "name": "bdhxgrp",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100413,
+      "name": "tester's",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100409,
+      "name": "hummm",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100411,
+      "name": "cc",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100412,
+      "name": "xx",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100420,
+      "name": "new",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100421,
+      "name": "Armitage",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100422,
+      "name": "justtrying",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100423,
+      "name": "Ex0rcists",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100428,
+      "name": "asdf",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100429,
+      "name": "solo_x3r0x",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100450,
+      "name": "Admiral SYN-ACKbar",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100434,
+      "name": "DateNight",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100435,
+      "name": "Mtib",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100453,
+      "name": "frou5 li tnaguez",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100437,
+      "name": "sesac",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100457,
+      "name": "N/A",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100443,
+      "name": "Bah",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100444,
+      "name": "BugBuster",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100459,
+      "name": "maobu",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100469,
+      "name": "SoloLeveling",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100471,
+      "name": "chuong",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100474,
+      "name": "imLZH1",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100472,
+      "name": "11111",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100476,
+      "name": "CRUSADERS",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100480,
+      "name": "ns4style",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100483,
+      "name": "te-tara",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100490,
+      "name": "nobodyknows",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100497,
+      "name": "wmz111",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100499,
+      "name": "3L13N5",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100500,
+      "name": "S.T.A.R.S.",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100501,
+      "name": "jiia",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100502,
+      "name": "readonly",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100503,
+      "name": "s4bot3ur",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100521,
+      "name": "wuhuqvq",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100510,
+      "name": "Tinolangmanok",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100506,
+      "name": "Nexus-nektar291",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100528,
+      "name": "Stub123",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100515,
+      "name": "SAD",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100518,
+      "name": "not akasec",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100531,
+      "name": "得闲饮茶",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100537,
+      "name": "hihihihi",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100539,
+      "name": "ssssssss",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100538,
+      "name": "x-phract",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100541,
+      "name": "temp_122",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100570,
+      "name": "Dark Army",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100579,
+      "name": "jsutset",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100544,
+      "name": "silly",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100546,
+      "name": "hhx",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100549,
+      "name": "Sf20",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100550,
+      "name": "Zero Day Warriors",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100555,
+      "name": "p3rf3ctr00t_ke",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100560,
+      "name": "dc42",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100573,
+      "name": "seclzi",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100561,
+      "name": "c0raline",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100562,
+      "name": "sattar allah",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100563,
+      "name": "test12123",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100581,
+      "name": "Pwnus",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100564,
+      "name": "MlemKem",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100582,
+      "name": "Z3ro-day",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100567,
+      "name": "RailCont",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100569,
+      "name": "ffffff",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100575,
+      "name": "king",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100577,
+      "name": "wixan63687",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100584,
+      "name": "sky",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100599,
+      "name": "kazuki",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100596,
+      "name": "asssssssss",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100598,
+      "name": "243423432432",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100600,
+      "name": "Sotisha1",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100604,
+      "name": "SOLOwarriorr",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100605,
+      "name": "peter123",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100608,
+      "name": "Personal",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100634,
+      "name": "wx&0xffff",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100635,
+      "name": "asdad",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100611,
+      "name": "sasa",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100613,
+      "name": "0den",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100614,
+      "name": "mine",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100616,
+      "name": "Baguette Mystique",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100617,
+      "name": "chkn&ROFLs",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100618,
+      "name": "One Army Man",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100619,
+      "name": "0pwn",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100623,
+      "name": "W!se Man",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100624,
+      "name": "tevolo5145",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100626,
+      "name": "dadad",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100627,
+      "name": "Pumkin Busters",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100628,
+      "name": "ll",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100629,
+      "name": "1K0CT",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100645,
+      "name": "coreflood",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100630,
+      "name": "pekko",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100631,
+      "name": "ggyaregala",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100633,
+      "name": "STCNC",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100646,
+      "name": "acce",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100638,
+      "name": "Eveheeero",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100639,
+      "name": "塞車老師",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100640,
+      "name": "101",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100641,
+      "name": "123",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100647,
+      "name": "abcdefg",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100648,
+      "name": "Marlin",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100649,
+      "name": "abc",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100650,
+      "name": "tester",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100656,
+      "name": "Del0n1x",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100651,
+      "name": "Hello1",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100652,
+      "name": "LaoHacker",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100653,
+      "name": "blue0620",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100654,
+      "name": "Kkddjj",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100655,
+      "name": "lulubel",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100657,
+      "name": "miku",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100658,
+      "name": "LogIn",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100659,
+      "name": "et",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100660,
+      "name": "she",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100661,
+      "name": "12",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100662,
+      "name": "schema",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100663,
+      "name": "test007",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100664,
+      "name": "千斗五十铃之家",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100665,
+      "name": "大码仕-xx",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100666,
+      "name": "DsiSec",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100667,
+      "name": "kkk1kk1kk",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100668,
+      "name": "guipi2",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100669,
+      "name": "yutimy",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100670,
+      "name": "AAAVA",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100671,
+      "name": "Poo!",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100672,
+      "name": "MZ",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100673,
+      "name": "aaaaaa",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100674,
+      "name": "m1nt",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100675,
+      "name": "Tasks",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100676,
+      "name": "KKP",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100677,
+      "name": "Gin",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100678,
+      "name": "euoeu",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100679,
+      "name": "qwerqwer",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100680,
+      "name": "gg",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100681,
+      "name": "junandmei",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100682,
+      "name": "user202729",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100683,
+      "name": "ph0ebus",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100684,
+      "name": "Redtim",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100685,
+      "name": "3ushaq",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100686,
+      "name": "ziadstr",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100687,
+      "name": "benz",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100688,
+      "name": "st3r",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100689,
+      "name": "qqqqqqqqqqq",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100690,
+      "name": "111",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100691,
+      "name": "one",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100692,
+      "name": "Raptors",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100693,
+      "name": "devsus",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100694,
+      "name": "大哈狗团队",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100695,
+      "name": "12423423",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100696,
+      "name": "asdfdf",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100697,
+      "name": "fqx1998",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100698,
+      "name": "No Name",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100699,
+      "name": "就看看题",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100700,
+      "name": "Allcaps",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100701,
+      "name": "mepetFP",
+      "rank": 829,
+      "score": 0
+    },
+    {
+      "division": 4,
+      "id": 100001,
+      "name": "  ",
+      "rank": 829,
+      "score": 0
+    }
+  ],
+  "nPage": 123
+}

@@ -1,0 +1,176 @@
+{
+    "challenge": {
+        "id": 359702030,
+        "title": {
+            "zh": "圖窮匕現（一）：頭頭是道",
+            "en": "Crack the Pack (Ⅰ): Head and Shoulders"
+        },
+        "description": {
+            "zh": "天下之大，無旗不有。旗在一張張明明甚麼都沒有的圖片也能留下秘密的蛛絲馬跡，信不信由你。\n\n##### 挑戰系列: 圖窮匕現\n\n其他在此系列內的挑戰: [1️⃣](/challenges/359702030) • [2️⃣](/challenges/631596424)",
+            "en": "There is nothing more FLAG-tastic than having lots of empty images leaving traces of the secret. Believe it or not, it's up to you.\n\n##### Series: Crack the Pack\n\nOther challenges in this series: [1️⃣](/challenges/359702030) • [2️⃣](/challenges/631596424)"
+        },
+        "points": 200,
+        "solves": 20,
+        "releasedAt": "2024-11-08T13:00:00.000Z",
+        "categories": [
+            "misc",
+            "difficulty-2",
+            "sub-crypto"
+        ],
+        "metadata": {
+            "author": "TWY",
+            "attachments": [
+                {
+                    "url": "https://file.ctf.pwnable.hk/format-1_3fce3decc9f21d2f479221e5b9b78bb6.zip",
+                    "name": "format-1_3fce3decc9f21d2f479221e5b9b78bb6.zip"
+                }
+            ],
+            "thumbnailUrl": "https://file.ctf.pwnable.hk/c/153e70ef7cf1de6828592da97d9a6396.webp",
+            "deploymentType": null,
+            "authorAvatarUrl": "https://file.ctf.pwnable.hk/a/c67caec1d2d448b8d497c3af452a26d9619d8c964f54afbf2c51ceef6a523124.webp"
+        },
+        "hasInstancer": false
+    },
+    "solves": [
+        {
+            "id": 1549,
+            "team": {
+                "name": "T0047 - Vulunerability"
+            },
+            "solvedAt": "2024-11-08T16:14:49.729Z"
+        },
+        {
+            "id": 1647,
+            "team": {
+                "name": "O0007 - AUTOEXEC.BAT"
+            },
+            "solvedAt": "2024-11-08T16:57:56.131Z"
+        },
+        {
+            "id": 1796,
+            "team": {
+                "name": "Jane Street Amateurs"
+            },
+            "solvedAt": "2024-11-08T18:31:33.457Z"
+        },
+        {
+            "id": 1807,
+            "team": {
+                "name": "T0051 - PwnStars"
+            },
+            "solvedAt": "2024-11-08T18:40:10.757Z"
+        },
+        {
+            "id": 1872,
+            "team": {
+                "name": "thehackerscrew"
+            },
+            "solvedAt": "2024-11-08T19:43:03.252Z"
+        },
+        {
+            "id": 1978,
+            "team": {
+                "name": "The Few Chosen"
+            },
+            "solvedAt": "2024-11-08T22:16:25.537Z"
+        },
+        {
+            "id": 2238,
+            "team": {
+                "name": "about:blankets"
+            },
+            "solvedAt": "2024-11-09T03:12:33.622Z"
+        },
+        {
+            "id": 2516,
+            "team": {
+                "name": "r4kapig"
+            },
+            "solvedAt": "2024-11-09T05:45:26.107Z"
+        },
+        {
+            "id": 3229,
+            "team": {
+                "name": "BunkyoWesterns"
+            },
+            "solvedAt": "2024-11-09T11:30:58.150Z"
+        },
+        {
+            "id": 3256,
+            "team": {
+                "name": "bhackari"
+            },
+            "solvedAt": "2024-11-09T11:41:42.415Z"
+        },
+        {
+            "id": 3299,
+            "team": {
+                "name": "Phish Paprikash"
+            },
+            "solvedAt": "2024-11-09T12:02:44.565Z"
+        },
+        {
+            "id": 3723,
+            "team": {
+                "name": "Tower of Hanoi"
+            },
+            "solvedAt": "2024-11-09T15:40:52.227Z"
+        },
+        {
+            "id": 4304,
+            "team": {
+                "name": "Echo"
+            },
+            "solvedAt": "2024-11-10T03:46:30.927Z"
+        },
+        {
+            "id": 4408,
+            "team": {
+                "name": "Ph0ny"
+            },
+            "solvedAt": "2024-11-10T05:32:52.602Z"
+        },
+        {
+            "id": 4471,
+            "team": {
+                "name": "O0101 - Black Bacon"
+            },
+            "solvedAt": "2024-11-10T06:28:09.749Z"
+        },
+        {
+            "id": 4505,
+            "team": {
+                "name": "S0158 - Shatin Pui Ying College"
+            },
+            "solvedAt": "2024-11-10T06:46:31.183Z"
+        },
+        {
+            "id": 4712,
+            "team": {
+                "name": "T0037 - Google Or Mushroom"
+            },
+            "solvedAt": "2024-11-10T08:49:08.922Z"
+        },
+        {
+            "id": 4739,
+            "team": {
+                "name": "T0056 - NuttyShell"
+            },
+            "solvedAt": "2024-11-10T09:02:49.691Z"
+        },
+        {
+            "id": 4854,
+            "team": {
+                "name": "T0057 - NuttyShell Red"
+            },
+            "solvedAt": "2024-11-10T09:33:37.822Z"
+        },
+        {
+            "id": 4856,
+            "team": {
+                "name": "T0027 - Students Taking Flags United"
+            },
+            "solvedAt": "2024-11-10T09:35:24.585Z"
+        }
+    ]
+}

@@ -1,0 +1,4155 @@
+{
+    "count": 28,
+    "rows": [
+        {
+            "id": 8,
+            "username": "Team 7: What()",
+            "score": 16904,
+            "solved": [
+                {
+                    "id": 5,
+                    "createdAt": "2025-01-11T02:00:07.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 72,
+                    "createdAt": "2025-01-11T02:33:45.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 1,
+                        "title": "Magical Runes",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:12:24.000Z",
+                                    "updatedAt": "2025-01-10T15:12:24.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 1
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 162,
+                    "createdAt": "2025-01-11T05:12:40.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 3,
+                        "title": "UwUHacker",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 3,
+                                "name": "Binary",
+                                "icon": "box",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:27:43.000Z",
+                                    "updatedAt": "2025-01-10T15:27:43.000Z",
+                                    "tagId": 3,
+                                    "challengeId": 3
+                                }
+                            },
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-11T01:37:35.000Z",
+                                    "updatedAt": "2025-01-11T01:37:35.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 3
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 165,
+                    "createdAt": "2025-01-11T05:43:31.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 12,
+                        "title": "Flags Warehouse 2",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:25:22.000Z",
+                                    "updatedAt": "2025-01-10T20:25:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 12
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 216,
+                    "createdAt": "2025-01-11T08:10:44.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 8,
+                        "title": "Speedflagger",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:59:22.000Z",
+                                    "updatedAt": "2025-01-10T20:59:22.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 8
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 242,
+                    "createdAt": "2025-01-11T09:00:16.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 15,
+                        "title": "What a Mystake! (1)",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:22:09.000Z",
+                                    "updatedAt": "2025-01-10T17:22:09.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 15
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 613,
+                    "createdAt": "2025-01-11T10:34:09.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 33,
+                        "title": "I Wanna Get the Flag",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:34:44.000Z",
+                                    "updatedAt": "2025-01-10T15:34:44.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 33
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 828,
+                    "createdAt": "2025-01-11T11:31:44.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2120,
+                    "createdAt": "2025-01-12T02:08:38.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2729,
+                    "createdAt": "2025-01-12T13:37:31.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 23,
+                        "title": "Tuning Parkour",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-11T00:26:56.000Z",
+                                    "updatedAt": "2025-01-11T00:26:56.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 23
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2730,
+                    "createdAt": "2025-01-12T13:39:20.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 30,
+                        "title": "Perceptie Snelle Responscode 2.0",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:36:22.000Z",
+                                    "updatedAt": "2025-01-10T15:36:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 30
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2733,
+                    "createdAt": "2025-01-12T13:39:29.000Z",
+                    "challenge": {
+                        "score": 611,
+                        "id": 19,
+                        "title": "Broken Television",
+                        "numberOfSolves": 9,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:41:48.000Z",
+                                    "updatedAt": "2025-01-10T15:41:48.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 19
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2734,
+                    "createdAt": "2025-01-12T13:39:30.000Z",
+                    "challenge": {
+                        "score": 736,
+                        "id": 7,
+                        "title": "Firebird Chan's Travel Guide",
+                        "numberOfSolves": 7,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:30:13.000Z",
+                                    "updatedAt": "2025-01-10T20:30:13.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 7
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2737,
+                    "createdAt": "2025-01-12T13:39:43.000Z",
+                    "challenge": {
+                        "score": 970,
+                        "id": 31,
+                        "title": "Meoware Revenge",
+                        "numberOfSolves": 2,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 3,
+                                "name": "Binary",
+                                "icon": "box",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:24:34.000Z",
+                                    "updatedAt": "2025-01-10T15:24:34.000Z",
+                                    "tagId": 3,
+                                    "challengeId": 31
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2745,
+                    "createdAt": "2025-01-12T13:40:54.000Z",
+                    "challenge": {
+                        "score": 1000,
+                        "id": 2,
+                        "title": "UwUIncantation",
+                        "numberOfSolves": 1,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 3,
+                                "name": "Binary",
+                                "icon": "box",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:12:45.000Z",
+                                    "updatedAt": "2025-01-10T15:12:45.000Z",
+                                    "tagId": 3,
+                                    "challengeId": 2
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2750,
+                    "createdAt": "2025-01-12T13:42:04.000Z",
+                    "challenge": {
+                        "score": 970,
+                        "id": 5,
+                        "title": "No Game No Life",
+                        "numberOfSolves": 2,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:28:37.000Z",
+                                    "updatedAt": "2025-01-10T15:28:37.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 5
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2754,
+                    "createdAt": "2025-01-12T13:42:28.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 25,
+                        "title": "Firebird-chan's SigKnow",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:32:22.000Z",
+                                    "updatedAt": "2025-01-10T15:32:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 25
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2755,
+                    "createdAt": "2025-01-12T13:42:41.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 13,
+                        "title": "3 Heraes fight against Lubu",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:03:43.000Z",
+                                    "updatedAt": "2025-01-10T17:03:43.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 13
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2756,
+                    "createdAt": "2025-01-12T13:42:50.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 16,
+                        "title": "Favourite Signature",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:38:58.000Z",
+                                    "updatedAt": "2025-01-10T15:38:58.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 16
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2757,
+                    "createdAt": "2025-01-12T13:43:08.000Z",
+                    "challenge": {
+                        "score": 970,
+                        "id": 4,
+                        "title": "Guess the Number",
+                        "numberOfSolves": 2,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 3,
+                                "name": "Binary",
+                                "icon": "box",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:19:47.000Z",
+                                    "updatedAt": "2025-01-10T15:19:47.000Z",
+                                    "tagId": 3,
+                                    "challengeId": 4
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2760,
+                    "createdAt": "2025-01-12T13:45:59.000Z",
+                    "challenge": {
+                        "score": 1000,
+                        "id": 29,
+                        "title": "Meoware Analysis",
+                        "numberOfSolves": 1,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:26:34.000Z",
+                                    "updatedAt": "2025-01-10T15:26:34.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 29
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2764,
+                    "createdAt": "2025-01-12T13:50:08.000Z",
+                    "challenge": {
+                        "score": 1000,
+                        "id": 20,
+                        "title": "Importunate Permutation",
+                        "numberOfSolves": 1,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:57:31.000Z",
+                                    "updatedAt": "2025-01-10T15:57:31.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 20
+                                }
+                            },
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:57:31.000Z",
+                                    "updatedAt": "2025-01-10T15:57:31.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 20
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "username": "Team 6: PwnStars✨",
+            "score": 15692,
+            "solved": [
+                {
+                    "id": 8,
+                    "createdAt": "2025-01-11T02:00:21.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 68,
+                    "createdAt": "2025-01-11T02:25:28.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 70,
+                    "createdAt": "2025-01-11T02:32:45.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 12,
+                        "title": "Flags Warehouse 2",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:25:22.000Z",
+                                    "updatedAt": "2025-01-10T20:25:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 12
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 83,
+                    "createdAt": "2025-01-11T02:54:06.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 23,
+                        "title": "Tuning Parkour",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-11T00:26:56.000Z",
+                                    "updatedAt": "2025-01-11T00:26:56.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 23
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 86,
+                    "createdAt": "2025-01-11T03:02:22.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 1,
+                        "title": "Magical Runes",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:12:24.000Z",
+                                    "updatedAt": "2025-01-10T15:12:24.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 1
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 109,
+                    "createdAt": "2025-01-11T03:40:18.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 33,
+                        "title": "I Wanna Get the Flag",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:34:44.000Z",
+                                    "updatedAt": "2025-01-10T15:34:44.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 33
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 130,
+                    "createdAt": "2025-01-11T04:09:26.000Z",
+                    "challenge": {
+                        "score": 736,
+                        "id": 7,
+                        "title": "Firebird Chan's Travel Guide",
+                        "numberOfSolves": 7,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:30:13.000Z",
+                                    "updatedAt": "2025-01-10T20:30:13.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 7
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 173,
+                    "createdAt": "2025-01-11T06:37:26.000Z",
+                    "challenge": {
+                        "score": 970,
+                        "id": 4,
+                        "title": "Guess the Number",
+                        "numberOfSolves": 2,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 3,
+                                "name": "Binary",
+                                "icon": "box",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:19:47.000Z",
+                                    "updatedAt": "2025-01-10T15:19:47.000Z",
+                                    "tagId": 3,
+                                    "challengeId": 4
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 232,
+                    "createdAt": "2025-01-11T08:32:27.000Z",
+                    "challenge": {
+                        "score": 611,
+                        "id": 19,
+                        "title": "Broken Television",
+                        "numberOfSolves": 9,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:41:48.000Z",
+                                    "updatedAt": "2025-01-10T15:41:48.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 19
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 259,
+                    "createdAt": "2025-01-11T09:51:28.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 30,
+                        "title": "Perceptie Snelle Responscode 2.0",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:36:22.000Z",
+                                    "updatedAt": "2025-01-10T15:36:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 30
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 774,
+                    "createdAt": "2025-01-11T11:16:01.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 15,
+                        "title": "What a Mystake! (1)",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:22:09.000Z",
+                                    "updatedAt": "2025-01-10T17:22:09.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 15
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1000,
+                    "createdAt": "2025-01-11T13:07:28.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 34,
+                        "title": "What a Mystake! (2)",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T18:03:41.000Z",
+                                    "updatedAt": "2025-01-10T18:03:41.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 34
+                                }
+                            },
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T18:03:41.000Z",
+                                    "updatedAt": "2025-01-10T18:03:41.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 34
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1214,
+                    "createdAt": "2025-01-11T14:41:18.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 3,
+                        "title": "UwUHacker",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 3,
+                                "name": "Binary",
+                                "icon": "box",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:27:43.000Z",
+                                    "updatedAt": "2025-01-10T15:27:43.000Z",
+                                    "tagId": 3,
+                                    "challengeId": 3
+                                }
+                            },
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-11T01:37:35.000Z",
+                                    "updatedAt": "2025-01-11T01:37:35.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 3
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1335,
+                    "createdAt": "2025-01-11T15:46:00.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 8,
+                        "title": "Speedflagger",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:59:22.000Z",
+                                    "updatedAt": "2025-01-10T20:59:22.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 8
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1405,
+                    "createdAt": "2025-01-11T16:27:38.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 25,
+                        "title": "Firebird-chan's SigKnow",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:32:22.000Z",
+                                    "updatedAt": "2025-01-10T15:32:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 25
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2261,
+                    "createdAt": "2025-01-12T04:29:10.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2461,
+                    "createdAt": "2025-01-12T07:54:32.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 10,
+                        "title": "Baby PHP",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:21:50.000Z",
+                                    "updatedAt": "2025-01-10T15:21:50.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 10
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2499,
+                    "createdAt": "2025-01-12T08:33:23.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 11,
+                        "title": "Babier PHP",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:21:44.000Z",
+                                    "updatedAt": "2025-01-10T15:21:44.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 11
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2615,
+                    "createdAt": "2025-01-12T10:25:03.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 13,
+                        "title": "3 Heraes fight against Lubu",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:03:43.000Z",
+                                    "updatedAt": "2025-01-10T17:03:43.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 13
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2716,
+                    "createdAt": "2025-01-12T13:14:47.000Z",
+                    "challenge": {
+                        "score": 970,
+                        "id": 5,
+                        "title": "No Game No Life",
+                        "numberOfSolves": 2,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:28:37.000Z",
+                                    "updatedAt": "2025-01-10T15:28:37.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 5
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2761,
+                    "createdAt": "2025-01-12T13:46:45.000Z",
+                    "challenge": {
+                        "score": 970,
+                        "id": 31,
+                        "title": "Meoware Revenge",
+                        "numberOfSolves": 2,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 3,
+                                "name": "Binary",
+                                "icon": "box",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:24:34.000Z",
+                                    "updatedAt": "2025-01-10T15:24:34.000Z",
+                                    "tagId": 3,
+                                    "challengeId": 31
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "username": "Team 16: NuttyShell",
+            "score": 13912,
+            "solved": [
+                {
+                    "id": 3,
+                    "createdAt": "2025-01-11T02:00:07.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 101,
+                    "createdAt": "2025-01-11T03:16:51.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 128,
+                    "createdAt": "2025-01-11T03:49:08.000Z",
+                    "challenge": {
+                        "score": 736,
+                        "id": 7,
+                        "title": "Firebird Chan's Travel Guide",
+                        "numberOfSolves": 7,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:30:13.000Z",
+                                    "updatedAt": "2025-01-10T20:30:13.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 7
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 131,
+                    "createdAt": "2025-01-11T04:12:58.000Z",
+                    "challenge": {
+                        "score": 611,
+                        "id": 19,
+                        "title": "Broken Television",
+                        "numberOfSolves": 9,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:41:48.000Z",
+                                    "updatedAt": "2025-01-10T15:41:48.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 19
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 197,
+                    "createdAt": "2025-01-11T07:07:01.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 10,
+                        "title": "Baby PHP",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:21:50.000Z",
+                                    "updatedAt": "2025-01-10T15:21:50.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 10
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 206,
+                    "createdAt": "2025-01-11T07:16:10.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 11,
+                        "title": "Babier PHP",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:21:44.000Z",
+                                    "updatedAt": "2025-01-10T15:21:44.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 11
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 209,
+                    "createdAt": "2025-01-11T07:55:49.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 12,
+                        "title": "Flags Warehouse 2",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:25:22.000Z",
+                                    "updatedAt": "2025-01-10T20:25:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 12
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 213,
+                    "createdAt": "2025-01-11T08:01:03.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 1,
+                        "title": "Magical Runes",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:12:24.000Z",
+                                    "updatedAt": "2025-01-10T15:12:24.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 1
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 451,
+                    "createdAt": "2025-01-11T10:06:06.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 8,
+                        "title": "Speedflagger",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:59:22.000Z",
+                                    "updatedAt": "2025-01-10T20:59:22.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 8
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 544,
+                    "createdAt": "2025-01-11T10:20:17.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 33,
+                        "title": "I Wanna Get the Flag",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:34:44.000Z",
+                                    "updatedAt": "2025-01-10T15:34:44.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 33
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 801,
+                    "createdAt": "2025-01-11T11:24:19.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 30,
+                        "title": "Perceptie Snelle Responscode 2.0",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:36:22.000Z",
+                                    "updatedAt": "2025-01-10T15:36:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 30
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1219,
+                    "createdAt": "2025-01-11T14:43:08.000Z",
+                    "challenge": {
+                        "score": 1000,
+                        "id": 26,
+                        "title": "Hidden in Niflheim",
+                        "numberOfSolves": 1,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:59:56.000Z",
+                                    "updatedAt": "2025-01-10T20:59:56.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 26
+                                }
+                            },
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:33:58.000Z",
+                                    "updatedAt": "2025-01-10T15:33:58.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 26
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1500,
+                    "createdAt": "2025-01-11T17:19:41.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 23,
+                        "title": "Tuning Parkour",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-11T00:26:56.000Z",
+                                    "updatedAt": "2025-01-11T00:26:56.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 23
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1545,
+                    "createdAt": "2025-01-11T17:50:40.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 25,
+                        "title": "Firebird-chan's SigKnow",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:32:22.000Z",
+                                    "updatedAt": "2025-01-10T15:32:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 25
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2113,
+                    "createdAt": "2025-01-12T02:02:12.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2364,
+                    "createdAt": "2025-01-12T06:14:25.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 15,
+                        "title": "What a Mystake! (1)",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:22:09.000Z",
+                                    "updatedAt": "2025-01-10T17:22:09.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 15
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2444,
+                    "createdAt": "2025-01-12T07:38:07.000Z",
+                    "challenge": {
+                        "score": 1000,
+                        "id": 6,
+                        "title": "Firebird Chan's Fanclub",
+                        "numberOfSolves": 1,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:31:48.000Z",
+                                    "updatedAt": "2025-01-10T20:31:48.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 6
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2722,
+                    "createdAt": "2025-01-12T13:20:40.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 13,
+                        "title": "3 Heraes fight against Lubu",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:03:43.000Z",
+                                    "updatedAt": "2025-01-10T17:03:43.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 13
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2723,
+                    "createdAt": "2025-01-12T13:21:09.000Z",
+                    "challenge": {
+                        "score": 1000,
+                        "id": 22,
+                        "title": "Awaria",
+                        "numberOfSolves": 1,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:04.000Z",
+                                    "updatedAt": "2025-01-10T21:13:04.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 22
+                                }
+                            },
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:04.000Z",
+                                    "updatedAt": "2025-01-10T21:13:04.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 22
+                                }
+                            },
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:04.000Z",
+                                    "updatedAt": "2025-01-10T21:13:04.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 22
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "username": "Team 19: Jacky's Fan Club",
+            "score": 13435,
+            "solved": [
+                {
+                    "id": 11,
+                    "createdAt": "2025-01-11T02:00:45.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 155,
+                    "createdAt": "2025-01-11T04:44:52.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 15,
+                        "title": "What a Mystake! (1)",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:22:09.000Z",
+                                    "updatedAt": "2025-01-10T17:22:09.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 15
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 172,
+                    "createdAt": "2025-01-11T06:35:34.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 30,
+                        "title": "Perceptie Snelle Responscode 2.0",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:36:22.000Z",
+                                    "updatedAt": "2025-01-10T15:36:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 30
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 195,
+                    "createdAt": "2025-01-11T06:56:29.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 198,
+                    "createdAt": "2025-01-11T07:10:20.000Z",
+                    "challenge": {
+                        "score": 970,
+                        "id": 17,
+                        "title": "RSA-CTR",
+                        "numberOfSolves": 2,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:38:50.000Z",
+                                    "updatedAt": "2025-01-10T15:38:50.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 17
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 205,
+                    "createdAt": "2025-01-11T07:14:40.000Z",
+                    "challenge": {
+                        "score": 611,
+                        "id": 19,
+                        "title": "Broken Television",
+                        "numberOfSolves": 9,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:41:48.000Z",
+                                    "updatedAt": "2025-01-10T15:41:48.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 19
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 214,
+                    "createdAt": "2025-01-11T08:05:08.000Z",
+                    "challenge": {
+                        "score": 736,
+                        "id": 7,
+                        "title": "Firebird Chan's Travel Guide",
+                        "numberOfSolves": 7,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:30:13.000Z",
+                                    "updatedAt": "2025-01-10T20:30:13.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 7
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 240,
+                    "createdAt": "2025-01-11T08:48:21.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 25,
+                        "title": "Firebird-chan's SigKnow",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:32:22.000Z",
+                                    "updatedAt": "2025-01-10T15:32:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 25
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 251,
+                    "createdAt": "2025-01-11T09:41:37.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 13,
+                        "title": "3 Heraes fight against Lubu",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:03:43.000Z",
+                                    "updatedAt": "2025-01-10T17:03:43.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 13
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1182,
+                    "createdAt": "2025-01-11T14:24:59.000Z",
+                    "challenge": {
+                        "score": 1000,
+                        "id": 14,
+                        "title": "Project Sagekai",
+                        "numberOfSolves": 1,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:24:38.000Z",
+                                    "updatedAt": "2025-01-10T17:24:38.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 14
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1364,
+                    "createdAt": "2025-01-11T16:02:06.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 10,
+                        "title": "Baby PHP",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:21:50.000Z",
+                                    "updatedAt": "2025-01-10T15:21:50.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 10
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1579,
+                    "createdAt": "2025-01-11T18:11:39.000Z",
+                    "challenge": {
+                        "score": 1000,
+                        "id": 35,
+                        "title": "just read the flag",
+                        "numberOfSolves": 1,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:15:44.000Z",
+                                    "updatedAt": "2025-01-10T21:15:44.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 35
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2153,
+                    "createdAt": "2025-01-12T02:41:30.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 34,
+                        "title": "What a Mystake! (2)",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T18:03:41.000Z",
+                                    "updatedAt": "2025-01-10T18:03:41.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 34
+                                }
+                            },
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T18:03:41.000Z",
+                                    "updatedAt": "2025-01-10T18:03:41.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 34
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2350,
+                    "createdAt": "2025-01-12T06:05:20.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 11,
+                        "title": "Babier PHP",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:21:44.000Z",
+                                    "updatedAt": "2025-01-10T15:21:44.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 11
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2363,
+                    "createdAt": "2025-01-12T06:14:10.000Z",
+                    "challenge": {
+                        "score": 1000,
+                        "id": 21,
+                        "title": "Quad Suffer",
+                        "numberOfSolves": 1,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:12:37.000Z",
+                                    "updatedAt": "2025-01-10T21:12:37.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 21
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2544,
+                    "createdAt": "2025-01-12T09:20:12.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 16,
+                        "title": "Favourite Signature",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:38:58.000Z",
+                                    "updatedAt": "2025-01-10T15:38:58.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 16
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2555,
+                    "createdAt": "2025-01-12T09:27:20.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2708,
+                    "createdAt": "2025-01-12T12:54:39.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 8,
+                        "title": "Speedflagger",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:59:22.000Z",
+                                    "updatedAt": "2025-01-10T20:59:22.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 8
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "username": "Team 14: 現在正是復權的時刻",
+            "score": 7136,
+            "solved": [
+                {
+                    "id": 74,
+                    "createdAt": "2025-01-11T02:37:44.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 102,
+                    "createdAt": "2025-01-11T03:30:32.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 163,
+                    "createdAt": "2025-01-11T05:12:59.000Z",
+                    "challenge": {
+                        "score": 611,
+                        "id": 19,
+                        "title": "Broken Television",
+                        "numberOfSolves": 9,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:41:48.000Z",
+                                    "updatedAt": "2025-01-10T15:41:48.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 19
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 171,
+                    "createdAt": "2025-01-11T06:28:29.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 13,
+                        "title": "3 Heraes fight against Lubu",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:03:43.000Z",
+                                    "updatedAt": "2025-01-10T17:03:43.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 13
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 997,
+                    "createdAt": "2025-01-11T13:00:51.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 1,
+                        "title": "Magical Runes",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:12:24.000Z",
+                                    "updatedAt": "2025-01-10T15:12:24.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 1
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1001,
+                    "createdAt": "2025-01-11T13:10:09.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 15,
+                        "title": "What a Mystake! (1)",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:22:09.000Z",
+                                    "updatedAt": "2025-01-10T17:22:09.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 15
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1230,
+                    "createdAt": "2025-01-11T14:48:34.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 34,
+                        "title": "What a Mystake! (2)",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T18:03:41.000Z",
+                                    "updatedAt": "2025-01-10T18:03:41.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 34
+                                }
+                            },
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T18:03:41.000Z",
+                                    "updatedAt": "2025-01-10T18:03:41.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 34
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1932,
+                    "createdAt": "2025-01-11T23:01:15.000Z",
+                    "challenge": {
+                        "score": 970,
+                        "id": 17,
+                        "title": "RSA-CTR",
+                        "numberOfSolves": 2,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:38:50.000Z",
+                                    "updatedAt": "2025-01-10T15:38:50.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 17
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2196,
+                    "createdAt": "2025-01-12T03:25:48.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2449,
+                    "createdAt": "2025-01-12T07:42:18.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 16,
+                        "title": "Favourite Signature",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:38:58.000Z",
+                                    "updatedAt": "2025-01-10T15:38:58.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 16
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2558,
+                    "createdAt": "2025-01-12T09:30:17.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 8,
+                        "title": "Speedflagger",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:59:22.000Z",
+                                    "updatedAt": "2025-01-10T20:59:22.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 8
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "username": "Team 17: NuttyShell Red",
+            "score": 6620,
+            "solved": [
+                {
+                    "id": 15,
+                    "createdAt": "2025-01-11T02:01:26.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 234,
+                    "createdAt": "2025-01-11T08:41:23.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 12,
+                        "title": "Flags Warehouse 2",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:25:22.000Z",
+                                    "updatedAt": "2025-01-10T20:25:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 12
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 996,
+                    "createdAt": "2025-01-11T12:57:20.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 15,
+                        "title": "What a Mystake! (1)",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:22:09.000Z",
+                                    "updatedAt": "2025-01-10T17:22:09.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 15
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1243,
+                    "createdAt": "2025-01-11T14:54:06.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1260,
+                    "createdAt": "2025-01-11T15:03:03.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 1,
+                        "title": "Magical Runes",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:12:24.000Z",
+                                    "updatedAt": "2025-01-10T15:12:24.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 1
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2252,
+                    "createdAt": "2025-01-12T04:19:28.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2355,
+                    "createdAt": "2025-01-12T06:10:36.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 8,
+                        "title": "Speedflagger",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:59:22.000Z",
+                                    "updatedAt": "2025-01-10T20:59:22.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 8
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2649,
+                    "createdAt": "2025-01-12T11:06:43.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 13,
+                        "title": "3 Heraes fight against Lubu",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 5,
+                                "name": "Crypto",
+                                "icon": "key",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T17:03:43.000Z",
+                                    "updatedAt": "2025-01-10T17:03:43.000Z",
+                                    "tagId": 5,
+                                    "challengeId": 13
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2724,
+                    "createdAt": "2025-01-12T13:25:09.000Z",
+                    "challenge": {
+                        "score": 736,
+                        "id": 7,
+                        "title": "Firebird Chan's Travel Guide",
+                        "numberOfSolves": 7,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:30:13.000Z",
+                                    "updatedAt": "2025-01-10T20:30:13.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 7
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2728,
+                    "createdAt": "2025-01-12T13:34:27.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 23,
+                        "title": "Tuning Parkour",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-11T00:26:56.000Z",
+                                    "updatedAt": "2025-01-11T00:26:56.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 23
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2759,
+                    "createdAt": "2025-01-12T13:45:56.000Z",
+                    "challenge": {
+                        "score": 611,
+                        "id": 19,
+                        "title": "Broken Television",
+                        "numberOfSolves": 9,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:41:48.000Z",
+                                    "updatedAt": "2025-01-10T15:41:48.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 19
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "username": "Team 5: YMD_SOLO",
+            "score": 4502,
+            "solved": [
+                {
+                    "id": 2,
+                    "createdAt": "2025-01-11T02:00:06.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 64,
+                    "createdAt": "2025-01-11T02:22:37.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 156,
+                    "createdAt": "2025-01-11T04:52:10.000Z",
+                    "challenge": {
+                        "score": 736,
+                        "id": 7,
+                        "title": "Firebird Chan's Travel Guide",
+                        "numberOfSolves": 7,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:30:13.000Z",
+                                    "updatedAt": "2025-01-10T20:30:13.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 7
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 175,
+                    "createdAt": "2025-01-11T06:42:54.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 10,
+                        "title": "Baby PHP",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:21:50.000Z",
+                                    "updatedAt": "2025-01-10T15:21:50.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 10
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 196,
+                    "createdAt": "2025-01-11T07:06:56.000Z",
+                    "challenge": {
+                        "score": 894,
+                        "id": 11,
+                        "title": "Babier PHP",
+                        "numberOfSolves": 4,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:21:44.000Z",
+                                    "updatedAt": "2025-01-10T15:21:44.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 11
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 239,
+                    "createdAt": "2025-01-11T08:45:16.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 30,
+                        "title": "Perceptie Snelle Responscode 2.0",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:36:22.000Z",
+                                    "updatedAt": "2025-01-10T15:36:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 30
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1358,
+                    "createdAt": "2025-01-11T15:58:51.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 8,
+                        "title": "Speedflagger",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:59:22.000Z",
+                                    "updatedAt": "2025-01-10T20:59:22.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 8
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2203,
+                    "createdAt": "2025-01-12T03:29:27.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "username": "Team 24: enderBenBen",
+            "score": 2968,
+            "solved": [
+                {
+                    "id": 27,
+                    "createdAt": "2025-01-11T02:05:02.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 73,
+                    "createdAt": "2025-01-11T02:33:52.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 177,
+                    "createdAt": "2025-01-11T06:51:23.000Z",
+                    "challenge": {
+                        "score": 611,
+                        "id": 19,
+                        "title": "Broken Television",
+                        "numberOfSolves": 9,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:41:48.000Z",
+                                    "updatedAt": "2025-01-10T15:41:48.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 19
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 204,
+                    "createdAt": "2025-01-11T07:12:49.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 23,
+                        "title": "Tuning Parkour",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-11T00:26:56.000Z",
+                                    "updatedAt": "2025-01-11T00:26:56.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 23
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1849,
+                    "createdAt": "2025-01-11T21:50:52.000Z",
+                    "challenge": {
+                        "score": 935,
+                        "id": 3,
+                        "title": "UwUHacker",
+                        "numberOfSolves": 3,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 3,
+                                "name": "Binary",
+                                "icon": "box",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:27:43.000Z",
+                                    "updatedAt": "2025-01-10T15:27:43.000Z",
+                                    "tagId": 3,
+                                    "challengeId": 3
+                                }
+                            },
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-11T01:37:35.000Z",
+                                    "updatedAt": "2025-01-11T01:37:35.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 3
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2217,
+                    "createdAt": "2025-01-12T03:44:18.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "username": "Team 15: H4B1T_B1RD",
+            "score": 2708,
+            "solved": [
+                {
+                    "id": 6,
+                    "createdAt": "2025-01-11T02:00:14.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 85,
+                    "createdAt": "2025-01-11T02:55:18.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 224,
+                    "createdAt": "2025-01-11T08:18:38.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 30,
+                        "title": "Perceptie Snelle Responscode 2.0",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:36:22.000Z",
+                                    "updatedAt": "2025-01-10T15:36:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 30
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2468,
+                    "createdAt": "2025-01-12T08:02:13.000Z",
+                    "challenge": {
+                        "score": 611,
+                        "id": 19,
+                        "title": "Broken Television",
+                        "numberOfSolves": 9,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:41:48.000Z",
+                                    "updatedAt": "2025-01-10T15:41:48.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 19
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2470,
+                    "createdAt": "2025-01-12T08:03:49.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2588,
+                    "createdAt": "2025-01-12T09:57:49.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 23,
+                        "title": "Tuning Parkour",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-11T00:26:56.000Z",
+                                    "updatedAt": "2025-01-11T00:26:56.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 23
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "username": "Team 2: I use Arch btw",
+            "score": 2650,
+            "solved": [
+                {
+                    "id": 7,
+                    "createdAt": "2025-01-11T02:00:16.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 122,
+                    "createdAt": "2025-01-11T03:44:46.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 129,
+                    "createdAt": "2025-01-11T03:52:43.000Z",
+                    "challenge": {
+                        "score": 736,
+                        "id": 7,
+                        "title": "Firebird Chan's Travel Guide",
+                        "numberOfSolves": 7,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 1,
+                                "name": "Web",
+                                "icon": "globe-network",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:30:13.000Z",
+                                    "updatedAt": "2025-01-10T20:30:13.000Z",
+                                    "tagId": 1,
+                                    "challengeId": 7
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 176,
+                    "createdAt": "2025-01-11T06:50:58.000Z",
+                    "challenge": {
+                        "score": 611,
+                        "id": 19,
+                        "title": "Broken Television",
+                        "numberOfSolves": 9,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:41:48.000Z",
+                                    "updatedAt": "2025-01-10T15:41:48.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 19
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 1111,
+                    "createdAt": "2025-01-11T13:54:17.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 8,
+                        "title": "Speedflagger",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:59:22.000Z",
+                                    "updatedAt": "2025-01-10T20:59:22.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 8
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2334,
+                    "createdAt": "2025-01-12T05:48:09.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "username": "Team 18: NuttyShell Blue",
+            "score": 2216,
+            "solved": [
+                {
+                    "id": 4,
+                    "createdAt": "2025-01-11T02:00:07.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 257,
+                    "createdAt": "2025-01-11T09:47:00.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 258,
+                    "createdAt": "2025-01-11T09:47:54.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 1,
+                        "title": "Magical Runes",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 2,
+                                "name": "Reverse",
+                                "icon": "reset",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:12:24.000Z",
+                                    "updatedAt": "2025-01-10T15:12:24.000Z",
+                                    "tagId": 2,
+                                    "challengeId": 1
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2124,
+                    "createdAt": "2025-01-12T02:11:18.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2310,
+                    "createdAt": "2025-01-12T05:21:13.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 12,
+                        "title": "Flags Warehouse 2",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:25:22.000Z",
+                                    "updatedAt": "2025-01-10T20:25:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 12
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "username": "Team 28: Geez",
+            "score": 1422,
+            "solved": [
+                {
+                    "id": 794,
+                    "createdAt": "2025-01-11T11:22:16.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 844,
+                    "createdAt": "2025-01-11T11:36:55.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2476,
+                    "createdAt": "2025-01-12T08:09:24.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2569,
+                    "createdAt": "2025-01-12T09:39:18.000Z",
+                    "challenge": {
+                        "score": 794,
+                        "id": 12,
+                        "title": "Flags Warehouse 2",
+                        "numberOfSolves": 6,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T20:25:22.000Z",
+                                    "updatedAt": "2025-01-10T20:25:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 12
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "username": "Team 9: Medium Brain",
+            "score": 1124,
+            "solved": [
+                {
+                    "id": 697,
+                    "createdAt": "2025-01-11T10:53:33.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 928,
+                    "createdAt": "2025-01-11T12:01:19.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 30,
+                        "title": "Perceptie Snelle Responscode 2.0",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:36:22.000Z",
+                                    "updatedAt": "2025-01-10T15:36:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 30
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 988,
+                    "createdAt": "2025-01-11T12:29:24.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "username": "Team 8: beg1nner_team",
+            "score": 974,
+            "solved": [
+                {
+                    "id": 10,
+                    "createdAt": "2025-01-11T02:00:28.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2590,
+                    "createdAt": "2025-01-12T09:58:19.000Z",
+                    "challenge": {
+                        "score": 675,
+                        "id": 30,
+                        "title": "Perceptie Snelle Responscode 2.0",
+                        "numberOfSolves": 8,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 4,
+                                "name": "Forensics",
+                                "icon": "search-template",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:36:22.000Z",
+                                    "updatedAt": "2025-01-10T15:36:22.000Z",
+                                    "tagId": 4,
+                                    "challengeId": 30
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2642,
+                    "createdAt": "2025-01-12T10:58:11.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "username": "Team 22: B3g1nner",
+            "score": 628,
+            "solved": [
+                {
+                    "id": 9,
+                    "createdAt": "2025-01-11T02:00:26.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 123,
+                    "createdAt": "2025-01-11T03:45:47.000Z",
+                    "challenge": {
+                        "score": 329,
+                        "id": 18,
+                        "title": "Essay Enjoyer",
+                        "numberOfSolves": 14,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 6,
+                                "name": "Misc",
+                                "icon": "helper-management",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:31:07.000Z",
+                                    "updatedAt": "2025-01-10T15:31:07.000Z",
+                                    "tagId": 6,
+                                    "challengeId": 18
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2527,
+                    "createdAt": "2025-01-12T09:01:13.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "username": "Team 13: AllCookies",
+            "score": 299,
+            "solved": [
+                {
+                    "id": 16,
+                    "createdAt": "2025-01-11T02:02:03.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2158,
+                    "createdAt": "2025-01-12T02:44:59.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "username": "Team 3: Newbie",
+            "score": 299,
+            "solved": [
+                {
+                    "id": 63,
+                    "createdAt": "2025-01-11T02:21:39.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2378,
+                    "createdAt": "2025-01-12T06:30:03.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "username": "Team 20: KK",
+            "score": 299,
+            "solved": [
+                {
+                    "id": 20,
+                    "createdAt": "2025-01-11T02:03:35.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2592,
+                    "createdAt": "2025-01-12T09:59:43.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "username": "Team 25: 1Flag=Victory",
+            "score": 299,
+            "solved": [
+                {
+                    "id": 62,
+                    "createdAt": "2025-01-11T02:21:10.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2707,
+                    "createdAt": "2025-01-12T12:29:52.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "username": "Team 26: Raining Penguins",
+            "score": 299,
+            "solved": [
+                {
+                    "id": 2436,
+                    "createdAt": "2025-01-12T07:31:03.000Z",
+                    "challenge": {
+                        "score": 120,
+                        "id": 27,
+                        "title": "Sanity Check",
+                        "numberOfSolves": 25,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T15:47:31.000Z",
+                                    "updatedAt": "2025-01-10T15:47:31.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 27
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2727,
+                    "createdAt": "2025-01-12T13:28:32.000Z",
+                    "challenge": {
+                        "score": 179,
+                        "id": 28,
+                        "title": "Feedback",
+                        "numberOfSolves": 19,
+                        "baseScore": 0,
+                        "sharedScore": 0,
+                        "tags": [
+                            {
+                                "id": 7,
+                                "name": "Sanity Check",
+                                "icon": "tick",
+                                "challengeTags": {
+                                    "createdAt": "2025-01-10T21:13:52.000Z",
+                                    "updatedAt": "2025-01-10T21:13:52.000Z",
+                                    "tagId": 7,
+                                    "challengeId": 28
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

