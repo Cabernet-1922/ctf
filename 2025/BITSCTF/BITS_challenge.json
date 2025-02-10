@@ -1,0 +1,460 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 14,
+            "type": "dynamic",
+            "name": "Biscuits",
+            "value": 50,
+            "solves": 186,
+            "solved_by_me": true,
+            "category": "PWN",
+            "tags": [
+                {
+                    "value": "pwn"
+                }
+            ],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 26,
+            "type": "dynamic",
+            "name": "Baby DFIR",
+            "value": 50,
+            "solves": 235,
+            "solved_by_me": true,
+            "category": "DFIR",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 27,
+            "type": "standard",
+            "name": "Sanity Check",
+            "value": 50,
+            "solves": 751,
+            "solved_by_me": true,
+            "category": "Welcome",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 31,
+            "type": "dynamic",
+            "name": "HotPause",
+            "value": 50,
+            "solves": 179,
+            "solved_by_me": true,
+            "category": "OSINT",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 33,
+            "type": "dynamic",
+            "name": "Baby Crypto",
+            "value": 50,
+            "solves": 233,
+            "solved_by_me": true,
+            "category": "Crypto",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 54,
+            "type": "dynamic",
+            "name": "Baby Rev",
+            "value": 50,
+            "solves": 213,
+            "solved_by_me": true,
+            "category": "Reverse Engineering",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 52,
+            "type": "dynamic",
+            "name": "Loginator",
+            "value": 97,
+            "solves": 143,
+            "solved_by_me": true,
+            "category": "Reverse Engineering",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 44,
+            "type": "dynamic",
+            "name": "Finders Keepers",
+            "value": 120,
+            "solves": 139,
+            "solved_by_me": false,
+            "category": "Forensics",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 42,
+            "type": "dynamic",
+            "name": "Baby PWN",
+            "value": 173,
+            "solves": 129,
+            "solved_by_me": true,
+            "category": "PWN",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 34,
+            "type": "dynamic",
+            "name": "ViruS Camp 1",
+            "value": 193,
+            "solves": 125,
+            "solved_by_me": true,
+            "category": "DFIR",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 47,
+            "type": "dynamic",
+            "name": "ViruS Camp 2",
+            "value": 263,
+            "solves": 110,
+            "solved_by_me": true,
+            "category": "DFIR",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 41,
+            "type": "dynamic",
+            "name": "Baby Web",
+            "value": 324,
+            "solves": 95,
+            "solved_by_me": true,
+            "category": "Web",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 1,
+            "type": "dynamic",
+            "name": "%ulation",
+            "value": 385,
+            "solves": 77,
+            "solved_by_me": true,
+            "category": "Hardware",
+            "tags": [
+                {
+                    "value": "radio"
+                }
+            ],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 7,
+            "type": "dynamic",
+            "name": "Old Skool",
+            "value": 436,
+            "solves": 58,
+            "solved_by_me": false,
+            "category": "Hardware",
+            "tags": [
+                {
+                    "value": "radio"
+                }
+            ],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 20,
+            "type": "dynamic",
+            "name": "The Sonnets Secret ",
+            "value": 456,
+            "solves": 48,
+            "solved_by_me": false,
+            "category": "OSINT",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 50,
+            "type": "dynamic",
+            "name": "Praise Our RNG Gods",
+            "value": 456,
+            "solves": 48,
+            "solved_by_me": false,
+            "category": "Reverse Engineering",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 32,
+            "type": "dynamic",
+            "name": "Minesweeper 2",
+            "value": 484,
+            "solves": 30,
+            "solved_by_me": true,
+            "category": "Crypto",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 25,
+            "type": "dynamic",
+            "name": "The Ghosting Protocol",
+            "value": 488,
+            "solves": 26,
+            "solved_by_me": false,
+            "category": "Misc",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 53,
+            "type": "dynamic",
+            "name": "Seed Fund \ud83d\udcb0",
+            "value": 495,
+            "solves": 17,
+            "solved_by_me": false,
+            "category": "Misc",
+            "tags": [
+                {
+                    "value": "blockchain"
+                }
+            ],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 3,
+            "type": "dynamic",
+            "name": "AutoBots Unite!",
+            "value": 498,
+            "solves": 12,
+            "solved_by_me": false,
+            "category": "Forensics",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 17,
+            "type": "dynamic",
+            "name": "Symphonies",
+            "value": 498,
+            "solves": 12,
+            "solved_by_me": false,
+            "category": "Forensics",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 28,
+            "type": "dynamic",
+            "name": "Get into my Cute Small Planner",
+            "value": 498,
+            "solves": 13,
+            "solved_by_me": false,
+            "category": "Web",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 45,
+            "type": "dynamic",
+            "name": "Noob RSA Returns",
+            "value": 498,
+            "solves": 11,
+            "solved_by_me": false,
+            "category": "Crypto",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 29,
+            "type": "dynamic",
+            "name": "To The Moon",
+            "value": 499,
+            "solves": 9,
+            "solved_by_me": false,
+            "category": "Hardware",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 2,
+            "type": "dynamic",
+            "name": " the most wanted lagomorph",
+            "value": 500,
+            "solves": 4,
+            "solved_by_me": false,
+            "category": "Crypto",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 6,
+            "type": "dynamic",
+            "name": "Orchids in Orchards",
+            "value": 500,
+            "solves": 3,
+            "solved_by_me": false,
+            "category": "Misc",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 8,
+            "type": "dynamic",
+            "name": "The Triad of Secrets",
+            "value": 500,
+            "solves": 0,
+            "solved_by_me": false,
+            "category": "Forensics",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 10,
+            "type": "dynamic",
+            "name": "A Leaky Game",
+            "value": 500,
+            "solves": 0,
+            "solved_by_me": false,
+            "category": "OSINT",
+            "tags": [
+                {
+                    "value": "OSINT"
+                },
+                {
+                    "value": "Crypto"
+                }
+            ],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 11,
+            "type": "dynamic",
+            "name": "RSA Bummer",
+            "value": 500,
+            "solves": 8,
+            "solved_by_me": false,
+            "category": "Crypto",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 12,
+            "type": "dynamic",
+            "name": "Reversing Mishap",
+            "value": 500,
+            "solves": 4,
+            "solved_by_me": false,
+            "category": "Reverse Engineering",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 16,
+            "type": "dynamic",
+            "name": "Alice n Bob in Wonderland",
+            "value": 500,
+            "solves": 4,
+            "solved_by_me": false,
+            "category": "Crypto",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 18,
+            "type": "dynamic",
+            "name": "Mail me, pick me, choose me!!!!",
+            "value": 500,
+            "solves": 4,
+            "solved_by_me": false,
+            "category": "OSINT",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 23,
+            "type": "dynamic",
+            "name": "Insanity Check",
+            "value": 500,
+            "solves": 3,
+            "solved_by_me": false,
+            "category": "Welcome",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 49,
+            "type": "dynamic",
+            "name": "Appreciation of Art",
+            "value": 500,
+            "solves": 7,
+            "solved_by_me": false,
+            "category": "Reverse Engineering",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 55,
+            "type": "dynamic",
+            "name": "BrokenCode",
+            "value": 500,
+            "solves": 3,
+            "solved_by_me": false,
+            "category": "Web",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        },
+        {
+            "id": 56,
+            "type": "dynamic",
+            "name": "Quantum Paradox",
+            "value": 500,
+            "solves": 0,
+            "solved_by_me": false,
+            "category": "Web",
+            "tags": [],
+            "template": "/plugins/dynamic_challenges/assets/view.html",
+            "script": "/plugins/dynamic_challenges/assets/view.js"
+        }
+    ]
+}
