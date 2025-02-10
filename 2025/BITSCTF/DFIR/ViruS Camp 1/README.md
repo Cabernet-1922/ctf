@@ -1,4 +1,4 @@
 # ViruS Camp 1 [193 points] (125 solves)
-Similarly, it is easy to find out file named `flag.enc`. But since the flag file is encrypted, the file content is not viewable. After browsing around the whole disk, file `extension.js` under `.vscode` is quite interesting. It has chance that Windows will quarantine the file when you extract it, this makes me even more certain that there is something sussy with this file. The first flag for `ViruS Camp` is located at line 67 in this file, decode it with base64 will yield the flag.
+Similarly, it is easy to find out file named `flag.enc`. But since the flag file is encrypted, the file content is not viewable. After browsing around the whole disk, file `extension.js` under `.vscode` is quite interesting. It has chance that Windows will quarantine the file when you extract it, this makes me even more certain that there is something sussy with this file. The first flag for `ViruS Camp` is located at line 67 in this file, decode it with base64 will yield the flag.\
 
 flag: `BITSCTF{H0w_c4n_vS_c0d3_l3t_y0u_publ1sh_m4l1cious_ex73nsi0ns_SO_easily??_5a7b336c}`

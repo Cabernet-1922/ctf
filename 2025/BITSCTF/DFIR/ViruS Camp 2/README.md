@@ -69,5 +69,9 @@ $cryptoStream.FlushFinalBlock()
 $cryptoStream.Close()
 $outStream.Close()
 ```
+If you cant run the decrypt script in powershell, you may use the command below before you run the powershell script again:
+```powershell
+$ Set-ExecutionPolicy Bypass -Scope Process
+```
 
 flag: `BITSCTF{h0pe_y0u_enj0yed_th1s_145e3f1a}`
