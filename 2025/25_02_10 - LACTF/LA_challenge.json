@@ -1,0 +1,964 @@
+{
+    "kind": "goodChallenges",
+    "message": "The retrieval of challenges was successful.",
+    "data": [
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/f31e59d12f942727e16949c2afc015024e87973e54485063253398763aa671ec/Dockerfile",
+                    "name": "Dockerfile"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/ca7fed6a83955357a663598910d51b1f67afebb321e725d9e77cf91c4fefd3f6/chall.py",
+                    "name": "chall.py"
+                }
+            ],
+            "description": "In Crypto Civilization, nobody commits the beef.\n\n`nc chall.lac.tf 31173`",
+            "author": "AVDestroyer",
+            "points": 314,
+            "id": "crypto-civilization",
+            "name": "crypto-civilization",
+            "category": "crypto",
+            "sortWeight": -17,
+            "solves": 140
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/4587ca5d50631a69f81f0d5540887f5e2f6546106fa87302589f59ee6e33a631/dist.tar.gz",
+                    "name": "dist.tar.gz"
+                }
+            ],
+            "description": "i love sending messages, so i made it possible to add just a few more bytes to them\n\n`nc chall.lac.tf 31499`",
+            "author": "enzocut",
+            "points": 463,
+            "id": "messenger",
+            "name": "messenger",
+            "category": "pwn",
+            "sortWeight": -49,
+            "solves": 10
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/c0772c064809167a1c3e332ae0860ac0d566a575dfa1e6dded1749e9f3b09804/the-eye",
+                    "name": "the-eye"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/316705ffcc27d655e842a2d94d09653e9d709e78a843d94a33ed7b2ab08435dd/Dockerfile",
+                    "name": "Dockerfile"
+                }
+            ],
+            "description": "I believe we’ve reached the end of our journey. All that remains is to collapse the innumerable possibilities before us.\n\n`nc chall.lac.tf 31313`",
+            "author": "aplet123",
+            "points": 304,
+            "id": "the-eye",
+            "name": "the-eye",
+            "category": "rev",
+            "sortWeight": -37,
+            "solves": 160
+        },
+        {
+            "files": [],
+            "description": "I spy with my little eye...\n\nA website!\n\n[i-spy.chall.lac.tf](https://i-spy.chall.lac.tf)",
+            "author": "burturt",
+            "points": 140,
+            "id": "i-spy",
+            "name": "I spy...",
+            "category": "web",
+            "sortWeight": -23,
+            "solves": 646
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/67ed2f103aab634411e5c687ec58e37616a8da518ed2962ba771a8e274eab458/arclbroth.zip",
+                    "name": "arclbroth.zip"
+                }
+            ],
+            "description": "I heard [Arc'blroth](https://bulr.boo/) was writing challenges for LA CTF. Wait, is it arc'blroth or arcl broth?\n\n{instancer}",
+            "author": "r2uwu2",
+            "points": 369,
+            "id": "arclbroth",
+            "name": "arclbroth",
+            "category": "web",
+            "sortWeight": -28,
+            "solves": 39
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/64df07e1da2dc40db892a57a52f588ac8c7b69143918d708d0f3853c9fd1ffbb/mole.zip",
+                    "name": "mole.zip"
+                }
+            ],
+            "description": "Whackers!\n\n[whack-a-mole.chall.lac.tf](https://whack-a-mole.chall.lac.tf)",
+            "author": "r2uwu2",
+            "points": 463,
+            "id": "whack-a-mole",
+            "name": "whack-a-mole",
+            "category": "web",
+            "sortWeight": -31,
+            "solves": 10
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/1bf9e0b3a06222db970b01e860e0bf9af78c2da66d69e1c85dc1db0dbed9dc01/dist.tar.gz",
+                    "name": "dist.tar.gz"
+                }
+            ],
+            "description": "The glorious country of Arstotzka has switched to cryptocurrency to better audit transactions.\nCan you still make it past the border checkpoint?\n\n`nc chall.lac.tf 31337`",
+            "author": "aplet123",
+            "points": 495,
+            "id": "tokens-please",
+            "name": "tokens-please",
+            "category": "misc",
+            "sortWeight": -11,
+            "solves": 2
+        },
+        {
+            "files": [],
+            "description": "We hope you enjoyed LA CTF 2025! Please take a moment to provide feedback on the event. You can find the form [here](https://forms.gle/1Km47YLQdefPBJkg8).\n\nThe form will open (roughly) at 8pm PST 2/8/2025.\n\nThis is a non-tiebreaking challenge, so solving this challenge fast does NOT matter as long as it is solved before the end of the CTF.",
+            "author": "lactf organizers",
+            "points": 20,
+            "id": "feedback",
+            "name": "feedback",
+            "category": "welcome",
+            "sortWeight": -2,
+            "solves": 322
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/fe6f0c367595d91e601544e0ec696f4e235e1441c34ef73ed9577010a5a16fb7/dist.tar.gz",
+                    "name": "dist.tar.gz"
+                }
+            ],
+            "description": "punching holes in memory like an mma pro fighter\n\n`nc chall.lac.tf 31179`",
+            "author": "enzocut",
+            "points": 487,
+            "id": "mmapro",
+            "name": "mmapro",
+            "category": "pwn",
+            "sortWeight": -53,
+            "solves": 4
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/bcc1dbf9666bbd04398d549dedbb420dc9d59904fbc06be53fc0dd7b8280222b/chall.py",
+                    "name": "chall.py"
+                }
+            ],
+            "description": "Tired of doing RSA on your own? Try out my new service!\n\n`nc chall.lac.tf 31176`",
+            "author": "joshuazhu17",
+            "points": 234,
+            "id": "rsaaas",
+            "name": "RSAaaS",
+            "category": "crypto",
+            "sortWeight": -14,
+            "solves": 324
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/899b34e25ed239e6488a814e2bc86aa52adb1ed355b1eb7e8079fc325bcce7d2/1000xREV",
+                    "name": "1000xREV"
+                }
+            ],
+            "description": "\nThis program is taking *forever* to check my flag! It's been running for over 24 hours, and it's still not done. Can you take a look?\n\nIn some cases, the program may not work locally. In that case, try running it on [https://shell.cloud.google.com/](https://shell.cloud.google.com/?show=terminal).",
+            "author": "burturt",
+            "points": 370,
+            "id": "bit-by-bit",
+            "name": "1000xREV",
+            "category": "rev",
+            "sortWeight": -42,
+            "solves": 38
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/05b449309cc237871116bcb53346db413e902ddec7515eaad904ac0c45726f1d/patricks-paraflag",
+                    "name": "patricks-paraflag"
+                }
+            ],
+            "description": "I was going to give you the flag, but I dropped it into my parabox, and when I pulled it back out, it got all scrambled up!\n\nCan you recover the flag?",
+            "author": "aplet123",
+            "points": 184,
+            "id": "patricks-paraflag",
+            "name": "patricks-paraflag",
+            "category": "rev",
+            "sortWeight": -36,
+            "solves": 473
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/975878767ca8cde353e2053a4b49666241f1f44ea8c11cf36f0f746fd35f2a64/Makefile",
+                    "name": "Makefile"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/5747265fb3f0993553e0bea06bf27d72027f06fdd5f18c13a8e203b3fdb3177b/vuln",
+                    "name": "vuln"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/9686529a7c5e1fbad16b2e1f6829fb64ea9acfcdf39660ae652663a7d98c60a6/vuln.c",
+                    "name": "vuln.c"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/e97fbf9f887bd792489b7067ab523c79c63047153f08e2d3ccec5c97f19fb067/Dockerfile",
+                    "name": "Dockerfile"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/77d6ab25f3ab943fae80c7783f3de60bbaa5ff9e9169884d995e75dfb1790079/run.py",
+                    "name": "run.py"
+                }
+            ],
+            "description": "life is exhausting\n\n`nc chall.lac.tf 31188`",
+            "author": "enzocut",
+            "points": 487,
+            "id": "eepy",
+            "name": "eepy",
+            "category": "pwn",
+            "sortWeight": -52,
+            "solves": 4
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/4372b671442482c213b9c2c3db2a9e1b9492ca09ee89ce9696d28106902ca01d/dist.tar.gz",
+                    "name": "dist.tar.gz"
+                }
+            ],
+            "description": "read any book on the filesystem, including the flag\n\n`nc chall.lac.tf 31174`",
+            "author": "enzocut",
+            "points": 406,
+            "id": "library",
+            "name": "library",
+            "category": "pwn",
+            "sortWeight": -51,
+            "solves": 26
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/b9c9246e47aad6c722e3ba0788c1840454423c88ab354dbd411b1189bef13fcb/chall.py",
+                    "name": "chall.py"
+                }
+            ],
+            "description": "I'm so confident in my big e's, I'll give them to you twice!",
+            "author": "freed",
+            "points": 161,
+            "id": "big-e",
+            "name": "big e",
+            "category": "crypto",
+            "sortWeight": -16,
+            "solves": 556
+        },
+        {
+            "files": [],
+            "description": "Welcome to LA CTF 2025! We hope that you enjoy our challenges and learn while doing so.\n\nPlease take this time to read the rules, which is on the home page of the platform (the site you are on right now). You can find the flag somewhere inside the rules. You MUST solve this challenge in order to be eligible for prizes.",
+            "author": "lactf organizers",
+            "points": 10,
+            "id": "rules",
+            "name": "rules",
+            "category": "welcome",
+            "sortWeight": 0,
+            "solves": 769
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/f33a7f886e6b609ce6d5bb0350208f7308d473b1dbba22590beaa79f16b12ba7/dist.tar.gz",
+                    "name": "dist.tar.gz"
+                }
+            ],
+            "description": "i love lamp\n\n`nc chall.lac.tf 31169`",
+            "author": "enzocut",
+            "points": 500,
+            "id": "lamp",
+            "name": "lamp",
+            "category": "pwn",
+            "sortWeight": -54,
+            "solves": 1
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/b6609714c9d51ed45fca31cbce5768b4a0e262c75aa9fc2802cb161cb4976634/gen.py",
+                    "name": "gen.py"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/a841ea3a1960f62ee643d8224f0ae20e0816cd64b0b58abb32b62080b194f58b/chall.txt",
+                    "name": "chall.txt"
+                }
+            ],
+            "description": "What if I took my characters and... extended them?",
+            "author": "joshuazhu17",
+            "points": 168,
+            "id": "extended",
+            "name": "extended",
+            "category": "misc",
+            "sortWeight": -3,
+            "solves": 530
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/a481044167ff9cd47e5a894ebf59ba53ed6e87ccbb6d7d89e52ec7652b13de39/shuffler.py",
+                    "name": "shuffler.py"
+                }
+            ],
+            "description": "Casino grade shuffling: use this to always WIN WIN WIN!!!\n\n`nc chall.lac.tf 31172`",
+            "author": "AVDestroyer",
+            "points": 430,
+            "id": "shuffle-revenge",
+            "name": "shuffle-revenge",
+            "category": "crypto",
+            "sortWeight": -21,
+            "solves": 19
+        },
+        {
+            "files": [],
+            "description": "Discord is our primary platform of communication, support, and chatter during the competition. This is how we will let you know if anything happens that needs to be said, such as challenges being updated, and is how you can contact us with issues, like if you think you have the right flag but it isn't working, or if you think one of the challenges is broken.\n\n[Join our discord](https://lac.tf/discord) and see the pinned message in #general for the flag!",
+            "author": "lactf organizers",
+            "points": 15,
+            "id": "discord",
+            "name": "discord",
+            "category": "welcome",
+            "sortWeight": -1,
+            "solves": 666
+        },
+        {
+            "files": [],
+            "description": "Just click the flag :)\n\n[lucky-flag.chall.lac.tf](https://lucky-flag.chall.lac.tf)",
+            "author": "r2uwu2",
+            "points": 114,
+            "id": "lucky-flag",
+            "name": "lucky-flag",
+            "category": "web",
+            "sortWeight": -22,
+            "solves": 772
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/7e19a0bd426c41468da58200bffd716611408c44d7c605e522d5befd259f2e42/index.js",
+                    "name": "index.js"
+                }
+            ],
+            "description": "Wha's my numba?\n\n{instancer}\n\nFallback if link above breaks: [whats-my-number.chall.lac.tf](https://whats-my-number.chall.lac.tf)",
+            "author": "AVDestroyer",
+            "points": 426,
+            "id": "whats-my-number",
+            "name": "whats-my-number",
+            "category": "web",
+            "sortWeight": -32,
+            "solves": 20
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/29300e1ae5ea6df8c0aed7d5c08ab5d80c257899cf4a6d92290e4e54290dacde/chall",
+                    "name": "chall"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/7d44d9ab7cf5e8cc181ea037d2dae01f3f4cb49040d55c15232019082bdfaba5/chall.c",
+                    "name": "chall.c"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/666bb96697d92290e2172a8403040f9e3ebdd06aa4d4769080649c92201a9aad/libc.so.6",
+                    "name": "libc.so.6"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/7288c75488697bad29619f7ad123b8e467744f500369689d97de13197d282e87/ld-linux-x86-64.so.2",
+                    "name": "ld-linux-x86-64.so.2"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/3349a11daef3e971b0413cc8ecd42eb887e82dd746cd2af85c684f5d3bfb1d02/Dockerfile",
+                    "name": "Dockerfile"
+                }
+            ],
+            "description": "2Password > 1Password\n\n`nc chall.lac.tf 31142`",
+            "author": "kaiphait",
+            "points": 228,
+            "id": "2password",
+            "name": "2password",
+            "category": "pwn",
+            "sortWeight": -44,
+            "solves": 339
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/8383666df05f37d771fe746a42e1ae3d94e13b4d843acd50983c78ef66248342/cache-it-to-win-it.zip",
+                    "name": "cache-it-to-win-it.zip"
+                }
+            ],
+            "description": "Are YOU today's unlucky contestant in Cache! It! To! Win! It???????\n\nFind out below!\n\n[cache-it-to-win-it.chall.lac.tf](https://cache-it-to-win-it.chall.lac.tf)\n\nNote: do NOT perform any sort of denial-of-service attack against the web server or databases, directly or indirectly.",
+            "author": "burturt",
+            "points": 293,
+            "id": "cache-it-to-win-it",
+            "name": "cache it to win it!",
+            "category": "web",
+            "sortWeight": -26,
+            "solves": 183
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/d538733c7408bb1cad86b44d2e5746a05a1676e26ef2a600b86fb065f3dc51ae/chall",
+                    "name": "chall"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/3fbeb91b37fd41c111db1ad856d2fe8a3261816757dbb25a4788ac45889c31de/chall.c",
+                    "name": "chall.c"
+                }
+            ],
+            "description": "Changes in state are like rustlings in the wind\n\n`nc chall.lac.tf 31593`",
+            "author": "asdiml",
+            "points": 311,
+            "id": "state-change",
+            "name": "state-change",
+            "category": "pwn",
+            "sortWeight": -45,
+            "solves": 146
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/332073bef5e4ac3d9809353e1f421a156121b1c91e79867d32811460e6079c84/ct.txt",
+                    "name": "ct.txt"
+                }
+            ],
+            "description": "AAAAA\n\ni love AAAAA telling and posting stories! you could AAAAA say its something of a heritage for me :3\n\nunfortunately, when i AAAAA tried telling this story about \"autos\", some guy kept YELLING \"AAAAA\" in the background which AAAAA kept messing up my new take on the vigenere cipher! he actually started yelling right AAAAA when i started my story :( weh...",
+            "author": "red dust",
+            "points": 294,
+            "id": "too-loud-to-yap",
+            "name": "too-loud-to-yap",
+            "category": "crypto",
+            "sortWeight": -12,
+            "solves": 182
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/4977ccc4fbd2094509e402b183f525418b045083d8ea3b01ac56b3e28e9a3b34/chall.py",
+                    "name": "chall.py"
+                }
+            ],
+            "description": "It's time to times some bigrams!",
+            "author": "joshuazhu17",
+            "points": 275,
+            "id": "bigram-times",
+            "name": "bigram-times",
+            "category": "crypto",
+            "sortWeight": -15,
+            "solves": 223
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/58488fc72444fa3544aeff14522622a48835fd875825c6412fb89554fcd3615a/server.py",
+                    "name": "server.py"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/f5fb3ab116ac6645fcc6d39c11c03ff57225ac1e8a339a659e72f6c76c50def1/Dockerfile",
+                    "name": "Dockerfile"
+                }
+            ],
+            "description": "I learned about hash-length extension attacks, so I'm going to use a good hash instead\n\n`nc chall.lac.tf 32222`",
+            "author": "freed",
+            "points": 380,
+            "id": "good-hash",
+            "name": "good-hash",
+            "category": "crypto",
+            "sortWeight": -19,
+            "solves": 34
+        },
+        {
+            "files": [],
+            "description": "You can do this.\n\n[https://scratch.mit.edu/projects/1130755420/](https://scratch.mit.edu/projects/1130755420/)",
+            "author": "arcblroth",
+            "points": 463,
+            "id": "prologue",
+            "name": "prologue",
+            "category": "rev",
+            "sortWeight": -41,
+            "solves": 10
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/6b4d31f54ea32f7be5f48b29c88d3cfd8091003ca5b5a23f18dd8a63b65e7bab/gigachessbased.zip",
+                    "name": "gigachessbased.zip"
+                }
+            ],
+            "description": "I was too focused on the trap, I forgot about the cheese.\n\n[gigachessbased.chall.lac.tf](https://gigachessbased.chall.lac.tf)\n\n[Deploy Admin Bot]({instancer:gigachessbased-admin})",
+            "author": "r2uwu2",
+            "points": 495,
+            "id": "gigachessbased",
+            "name": "gigachessbased",
+            "category": "web",
+            "sortWeight": -34,
+            "solves": 2
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/ef1e41eabf372bb56f31b959471fbb0294db6445c0a0e7f3cc0c9c6deaa9b59e/insecure-submission-logs.csv.gz",
+                    "name": "insecure-submission-logs.csv.gz"
+                }
+            ],
+            "description": "One of our professors thought it was a BRILLIANT idea to have their student project submission portal exposed to the internet, requiring only the student's ID to submit projects or retrieve them.\n\nWe suspect a malicious actor has stolen some of our student's submissions. We need to know which students' submissions were compromised (downloaded by a malicious actor) ASAP. Unfortunately, the only logs we have are proxy logs, and the professor refuses to give us the code or access to their web app (they claim they just immediately deleted the app's code once they realized they were hacked...).\n\nThe team at Microsoft has generously provided everyone with a [free log analysis cluster](https://dataexplorer.azure.com/freecluster), no credit card needed! Go to the link, create your cluster, then copy and open the \"Cluster URI\" in your browser. You will be brought to a page you can then use to query the data!\n\nYou can easily get started with analyzing the logs by running these commands:\n\n```\n  .execute database script <|\n  .drop table WebLogs ifexists \n  .create table WebLogs (\n      IP: string,\n      Timestamp: datetime,\n      Method: string,\n      Endpoint: string,\n      HttpVersion: string,\n      Status: long,\n      UserAgent: string\n  )\n  .ingest into table WebLogs (@'https://chall-files.lac.tf/uploads/ef1e41eabf372bb56f31b959471fbb0294db6445c0a0e7f3cc0c9c6deaa9b59e/insecure-submission-logs.csv.gz')\n```\n\nTo make sure it worked, sample 10 logs:\n```\n  WebLogs\n  | limit 10\n```\n\nNotes:\n- The network here at UCLA rotates IP addresses of students fairly often, and many people use shared computers, such as at the CPO Lab. Unfortunately, this means it's hard to know whether 2 requests from the same IP are the same person, or 2 different people, even if the user agent is the same.\n- We've narrowed down the attack to a 3 hour window, which is (roughly) what the logs provided contains.\n- Note that TAs also downloaded submissions - do not consider their downloads as \"leaks\"!\n- Submission IDs are sequentially assigned to submissions as they submit, starting from the first submission in the log as ID 1, and are globally unique. You can assume there are no other submissions outside of the provided log.\n- We suspect the number of compromised accounts is between 100 and 1000, counting the number of unique students IDs that had their submissions downloaded by the malicious actor, even if a student submitted multiple times.\n- If you are 100% certain your answer is correct, and you've read all of the notes, but the submission is not taking your answer, feel free to open a support ticket, but make sure to provide the KQL query(s) you are using to get your answer.\n\nAnswer submission: `nc chall.lac.tf 30107`",
+            "author": "burturt + a little assistance getting started with KQL from bliutech",
+            "points": 467,
+            "id": "insecure-submission",
+            "name": "insecure submission",
+            "category": "misc",
+            "sortWeight": -6,
+            "solves": 9
+        },
+        {
+            "files": [],
+            "description": "I found a hole in my ship! Can you help me patch it up and retrieve whatever is left?\n\n[https://broken-ships.chall.lac.tf/v2/](https://broken-ships.chall.lac.tf/v2/)",
+            "author": "burturt",
+            "points": 284,
+            "id": "broken-ships",
+            "name": "broken ships",
+            "category": "misc",
+            "sortWeight": -8,
+            "solves": 203
+        },
+        {
+            "files": [],
+            "description": "My friend told me that they hiked on a trail that had 4 warning signs at the trailhead: Hazardous cliff, falling rocks, flash flood, AND strong currents! Could you tell me where they went? They did hint that these signs were posted on a public hawaiian hiking trail.\n\nNote: the intended location has all 4 signs in the same spot. It is 4 permanent distinct signs - not 4 warnings on one sign or on a whiteboard.\n\nNote: Feel free to try multiple plus codes. The answer skews roughly one \"plus code tile\" south/west of where many people think it is.\n\nFlag is the full 10 digit [plus code](https://plus.codes/map) **containing the signs they are mentioning**, (e.g. lactf{85633HC3+9X} would be the flag for Bruin Bear Statue at UCLA). The plus code is in the URL when you select a location, or click the `^` at the bottom of the screen next to the short plus code to get the full length one. If your plus code contains 3 digits after the plus sign, zoom out and try selecting again.",
+            "author": "burturt",
+            "points": 286,
+            "id": "danger-searching",
+            "name": "Danger Searching",
+            "category": "misc",
+            "sortWeight": -4,
+            "solves": 199
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/df1a094ba704a83ba57014a20ebd4bf3b2c72c255cc73cd18cbf61a86609b206/mavs-fan.zip",
+                    "name": "mavs-fan.zip"
+                }
+            ],
+            "description": "Just a Mavs fan trying to figure out what Nico Harrison cooking up for my team nowadays...\n\nHint - You can send a link to your post that the admin bot will visit. Note that the admin cookie is HttpOnly!\n\nSite - [mavs-fan.chall.lac.tf](https://mavs-fan.chall.lac.tf)\n\nAdmin Bot - [https://admin-bot.lac.tf/mavs-fan](https://admin-bot.lac.tf/mavs-fan)",
+            "author": "stewie",
+            "points": 239,
+            "id": "mavs-fan",
+            "name": "mavs-fan",
+            "category": "web",
+            "sortWeight": -24,
+            "solves": 310
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/817fdafb66f9283c7f023b0caf2127bae7dd89de3645b7222f340874416fba09/VDF.py",
+                    "name": "VDF.py"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/d0693595f4169ea6ca6ff5589c43de8078458fdf4f6880562511b97e1ba19217/chall.py",
+                    "name": "chall.py"
+                }
+            ],
+            "description": "Someone wants me to perform a large computation before the CTF ends, but this isn't possible unless P = NP! But P != NP, right?\n\n`nc chall.lac.tf 31182`",
+            "author": "freed",
+            "points": 455,
+            "id": "p-vs-np",
+            "name": "p-vs-np",
+            "category": "crypto",
+            "sortWeight": -20,
+            "solves": 12
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/b3d540a900c9f297b7e9a6d24a6358578e3ebf75e0de8d43e3bcaccc9e52c20a/chall",
+                    "name": "chall"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/594550b8c131dbdd9f6fd364985c45df6f3239726bce155a0becd591204c5bd0/chall.c",
+                    "name": "chall.c"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/666bb96697d92290e2172a8403040f9e3ebdd06aa4d4769080649c92201a9aad/libc.so.6",
+                    "name": "libc.so.6"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/7288c75488697bad29619f7ad123b8e467744f500369689d97de13197d282e87/ld-linux-x86-64.so.2",
+                    "name": "ld-linux-x86-64.so.2"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/3349a11daef3e971b0413cc8ecd42eb887e82dd746cd2af85c684f5d3bfb1d02/Dockerfile",
+                    "name": "Dockerfile"
+                }
+            ],
+            "description": "You've heard of rogue-likes, but have you heard of heap-likes?\n\n`nc chall.lac.tf 31338`",
+            "author": "bliutech",
+            "points": 331,
+            "id": "gamedev",
+            "name": "gamedev",
+            "category": "pwn",
+            "sortWeight": -46,
+            "solves": 108
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/fa5b263644de737c5b24365fa0d46a4af651bc2e8c9a1a4e6cd153a29e147a23/Dockerfile",
+                    "name": "Dockerfile"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/d64fa907580f1b847d1ba4c987fd33b82bab0c3598da9c5bbea3ea5eb5ecd591/chall.py",
+                    "name": "chall.py"
+                }
+            ],
+            "description": "Today, we're taking a journey to the Kingdom of Far Far Away. It is a special day, for Lord Farquaad is executing today!\n\n[farquaad.chall.lac.tf](https://farquaad.chall.lac.tf)",
+            "author": "r2uwu2",
+            "points": 341,
+            "id": "farquaad",
+            "name": "farquaad",
+            "category": "misc",
+            "sortWeight": -5,
+            "solves": 89
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/781a2cb1039013f48e916c9e76fa6308906831e91ca9d6210dd82efc339ac509/mikumikubeam.png",
+                    "name": "mikumikubeam.png"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/f4082a4267d56dd7042608c59c817de9002e65bf4c04dc352cb7e9b7c1505e0f/create.sh",
+                    "name": "create.sh"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/42d4299f28cf53860b477556b6a42aa9f8e75e26b6474f75475a0f8e3a602c9b/mikumikusteg.png",
+                    "name": "mikumikusteg.png"
+                }
+            ],
+            "description": "Miku miku beaaammmmmmmmmmmmmmmmm",
+            "author": "r2uwu2",
+            "points": 370,
+            "id": "mikumikubeam",
+            "name": "mikumikubeam",
+            "category": "misc",
+            "sortWeight": -9,
+            "solves": 38
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/dc6e0d09506bb2abf23065527781a3a6800f0601e52b64d617eb3c8a2c2d316e/chall",
+                    "name": "chall"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/e70991710af2a303c2e7125ade9d01044abb77d2485126741595bfc7ebe95bf5/chall.c",
+                    "name": "chall.c"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/666bb96697d92290e2172a8403040f9e3ebdd06aa4d4769080649c92201a9aad/libc.so.6",
+                    "name": "libc.so.6"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/7288c75488697bad29619f7ad123b8e467744f500369689d97de13197d282e87/ld-linux-x86-64.so.2",
+                    "name": "ld-linux-x86-64.so.2"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/3a8369c0c18eccc1592ec3aee8fded954462961a85a6fc7e4d639bf6bc70914e/Dockerfile",
+                    "name": "Dockerfile"
+                }
+            ],
+            "description": "look mom i made minecraft!\n\n`nc chall.lac.tf 31137`",
+            "author": "kaiphait",
+            "points": 346,
+            "id": "minceraft",
+            "name": "minceraft",
+            "category": "pwn",
+            "sortWeight": -47,
+            "solves": 80
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/0d680f47b4e3fdbad74d6d7149d8f0355f8a3e6b25ad34a1f71c45e6c9b3ef7b/plinko.zip",
+                    "name": "plinko.zip"
+                }
+            ],
+            "description": "I was tired of the rigged gambling games online, so I made this completely fair version of plinko. Don't try and cheat me.\n\nSite - [plinko.chall.lac.tf](https://plinko.chall.lac.tf)",
+            "author": "chinmay",
+            "points": 336,
+            "id": "plinko",
+            "name": "plinko",
+            "category": "web",
+            "sortWeight": -27,
+            "solves": 98
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/47f5a1d495d1307bf045f89a75be1c30abc6c7e75913a876af86ea8aeef84498/chessbased.zip",
+                    "name": "chessbased.zip"
+                }
+            ],
+            "description": "Me: Mom, can we get chessbase?\n\nMom: No, we have chessbase at home.\n\nChessbase at home:\n\n[chessbased.chall.lac.tf](https://chessbased.chall.lac.tf)\n\n[Deploy Admin Bot]({instancer:chessbased-admin})",
+            "author": "r2uwu2",
+            "points": 265,
+            "id": "chessbased",
+            "name": "chessbased",
+            "category": "web",
+            "sortWeight": -33,
+            "solves": 247
+        },
+        {
+            "files": [],
+            "description": "You wake up alone in a dark cabin, held captive by a bushy-haired man demanding you submit a \"flag\" to leave. Can you escape?\n\n[javascryption.chall.lac.tf](https://javascryption.chall.lac.tf)",
+            "author": "aplet123",
+            "points": 138,
+            "id": "javascryption",
+            "name": "javascryption",
+            "category": "rev",
+            "sortWeight": -35,
+            "solves": 652
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/7aa80f298cda8bfcb2bef38bc2d1aebfb0f0e7d5ca3381e42179794a77fd801c/chall.py",
+                    "name": "chall.py"
+                }
+            ],
+            "description": "Behold: my revolutionary new algorithm to generate primes QUICKLY and SECURELY.\n\n`nc chall.lac.tf 31175`",
+            "author": "AVDestroyer",
+            "points": 354,
+            "id": "quickprime",
+            "name": "quickprime",
+            "category": "crypto",
+            "sortWeight": -18,
+            "solves": 65
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/8e4d41a512ff4e79b951225fea02904428f03b0ef0bfc09d0f05da87b9d144e7/chall.py",
+                    "name": "chall.py"
+                }
+            ],
+            "description": "I won't let you decrypt the flag, but you can use my Extremely Convenient Breaker.\n\n`nc chall.lac.tf 31180`",
+            "author": "joshuazhu17",
+            "points": 212,
+            "id": "extremely-convenient-breaker",
+            "name": "Extremely Convenient Breaker",
+            "category": "crypto",
+            "sortWeight": -13,
+            "solves": 385
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/3ed9ea3836b39566be8ef7cd0cfc7a388cfaf362f2d71eca7859a6a0a541fe7b/dist.tar.gz",
+                    "name": "dist.tar.gz"
+                }
+            ],
+            "description": "pepega the Silent&nbsp;&nbsp;&nbsp;HP 1/66&nbsp;&nbsp;&nbsp;Floor 29 - Ascension 20&nbsp;&nbsp;&nbsp;Turn 1<br>\nSnecko&nbsp;&nbsp;&nbsp;HP 122/122&nbsp;&nbsp;&nbsp;Intent: Perplexing Gaze\n\n`nc chall.lac.tf 32323`",
+            "author": "aplet123",
+            "points": 491,
+            "id": "sneckos-lair",
+            "name": "sneckos-lair",
+            "category": "misc",
+            "sortWeight": -10,
+            "solves": 3
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/4ba068b9bba202dd9d66d67f06de1b397b5c209e06ff815fba3ddd7c0eecc671/chall.zip",
+                    "name": "chall.zip"
+                }
+            ],
+            "description": "I found this really fun datapack! If you give it the flag (somehow??), you get a special prize! Unfortunately, the datapack is very inconveniently long.... ;)\n\nNOTE: this datapack is compiled for Minecraft version 1.20.4. It will likely not work on other versions. Also, when loading the datapack on a Minecraft 1.20.4 client, it may tell you the datapack is outdated; ignore this message. The datapack will work.\n\nNOTE: You DO NOT need to purchase Minecraft to solve this challenge. You can download a free Minecraft server .jar [here](https://mcversions.net/) to test commands and data packs, without purchasing an account. There are also many open-source Minecraft bot clients that can log into an *offline* server without needing authentication.",
+            "author": "AVDestroyer",
+            "points": 377,
+            "id": "mcflagchecker",
+            "name": "McFlagChecker",
+            "category": "rev",
+            "sortWeight": -40,
+            "solves": 35
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/f0d51638ade5821361dd40f4b27b2de169f707fac325d910f79a00512cf0d725/chall",
+                    "name": "chall"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/10f8c8626b875b0056e60ba394a64b155913d4f78b6c8fbeb34fc710d41ad67f/chall.cpp",
+                    "name": "chall.cpp"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/5bfba5a79c892ef97b03de0b3266e08a628e954373742252f20ddd35f85c6440/Dockerfile",
+                    "name": "Dockerfile"
+                }
+            ],
+            "description": "when it rains, it pours\n\n<img src=\"data:image/svg+xml;base64,ICA8c3ZnIHdpZHRoPSI1OTcuMjMxIiBoZWlnaHQ9IjQyNy4wNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSI2OTIuODIiIGdyYWRpZW50VHJhbnNmb3JtPSJtYXRyaXgoLjg2MjAzIDAgMCAuNjE2NCAwIDApIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzg3Y2VlYiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2UwZjZmZiIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxwYXRoIGZpbGw9InVybCgjYSkiIGQ9Ik0wIDBoNTk3LjIzMXY0MjcuMDVIMHoiLz48cGF0aCBkPSJNMTQ1LjQ3NCAxMzUuMjVjLTUwIDAtNTAtNTAgMC01MCAwLTUwIDEwMC01MCAxMDAgMCA1MCAwIDUwIDUwIDAgNTB6IiBmaWxsPSIjZmZmIiBzdHJva2U9IiM2NjYiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9Ijk1LjQ3NCIgY3k9IjY1LjI1IiByPSIyMCIgZmlsbD0iZ29sZCIvPjx0ZXh0IHg9Ijc1LjQ3NCIgeT0iNDUuMjUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZpbGw9IiM0NDQiPm51Y2xlYXRlKCk8L3RleHQ+PGcgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZmlsbD0iIzA2YyI+PHRleHQgeD0iMjIwIiB5PSIyNDAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01NC41MjYgLTY0Ljc1KSI+MDE8L3RleHQ+PHRleHQgeD0iMjUwIiB5PSIyODAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01NC41MjYgLTY0Ljc1KSI+MTA8L3RleHQ+PHRleHQgeD0iMjgwIiB5PSIyNjAiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC01NC41MjYgLTY0Ljc1KSI+MTE8L3RleHQ+PC9nPjxwYXRoIGQ9Ik0zNDUuNDc0IDMzNS4yNXE1MC01MCAxMDAgMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmY2YjZiIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1kYXNoYXJyYXk9IjUsIDUiLz48dGV4dCB4PSIzNjUuNDc0IiB5PSIzMTUuMjUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZpbGw9IiNmNDQiPmV2YXBvcmF0ZSgpPC90ZXh0Pjx0ZXh0IHg9IjQ0NS40NzQiIHk9IjEzNS4yNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZmlsbD0iI2Y0NCI+4piBIHBvb3ImIzk1O2NvbmRpdGlvbnM8L3RleHQ+PHBhdGggZD0iTTI0NS40NzQgMTg1LjI1cTEwMCA1MCAwIDEwMC0xMDAtNTAgMC0xMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzY2NiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtZGFzaGFycmF5PSI1LCA1Ii8+PHRleHQgeD0iMTQ1LjQ3NCIgeT0iMTE1LjI1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmaWxsPSIjNDQ0Ij5wcmVjaXBpdGF0aW9uOiAke3ByZX08L3RleHQ+PHRleHQgeD0iMjQ1LjQ3NCIgeT0iNzUuMjUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZpbGw9IiM0NDQiPnNhdHVyYXRpb246ICR7c2F0fTwvdGV4dD48cGF0aCBkPSJNNDUuNDc0IDIzNS4yNXE1MCAwIDEwMC01MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNGNhZjUwIiBzdHJva2Utd2lkdGg9IjIiLz48dGV4dCB4PSI0NS40NzQiIHk9IjIyNS4yNSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZmlsbD0iIzRjYWY1MCI+YWJzb3JiKCk8L3RleHQ+PHBhdGggZD0iTTI5NS40NzQgODUuMjVoNTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmOTgwMCIgc3Ryb2tlLXdpZHRoPSIyIi8+PHRleHQgeD0iMzA1LjQ3NCIgeT0iNzUuMjUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZpbGw9IiNmZjk4MDAiPmZvcmVjYXN0KCk8L3RleHQ+PHRleHQgeD0iMTg1LjQ3NCIgeT0iMTU1LjI1IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIiBmaWxsPSIjMDZjIj5wb3VyKCk8L3RleHQ+PHRleHQgeD0iOTUuNDc0IiB5PSIzODUuMjUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc3R5bGU9Iml0YWxpYyIgZmlsbD0iIzY2NiI+JnF1b3Q7SXQmYXBvcztzIG5vdCBhIG1lbW9yeSBsZWFrLCBpdCZhcG9zO3MganVzdCBoaWdoIGh1bWlkaXR5JnF1b3Q7PC90ZXh0Pjwvc3ZnPg==\">\n\n`nc chall.lac.tf 31234`",
+            "author": "kaiphait + enzocut",
+            "points": 463,
+            "id": "cloud-computing",
+            "name": "cloud-computing",
+            "category": "pwn",
+            "sortWeight": -50,
+            "solves": 10
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/375e7a17e1e456c5e4a522b1600345b20b37a0dd2f34a4cdd8aa8874039eed7e/purell-dist.zip",
+                    "name": "purell-dist.zip"
+                }
+            ],
+            "description": "Here in purellland, we sanitize your inputs. We kill 99% of germs, can you be the 1% germ that slips through?\n\n[purell.chall.lac.tf](https://purell.chall.lac.tf)\n\nNote: when giving links to the [admin bot](https://admin-bot.lac.tf/purell), the link must be *exactly* of the form `https://purell.chall.lac.tf/level/LEVEL_NAME?html=YOUR_PAYLOAD_HERE`.",
+            "author": "r2uwu2, adapted by burturt for la ctf",
+            "points": 316,
+            "id": "purell",
+            "name": "purell",
+            "category": "web",
+            "sortWeight": -25,
+            "solves": 137
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/617a2eb6b20fb306e0ad38722b7ee3c5e273a28b10eadf824bc5ac5e2bc6d712/old-site.zip",
+                    "name": "old-site.zip"
+                }
+            ],
+            "description": "I found the source to my old web site and put it back up on the interwebz - come sign my guestbook!\n\n{instancer}",
+            "author": "arcblroth",
+            "points": 479,
+            "id": "old-site",
+            "name": "old-site",
+            "category": "web",
+            "sortWeight": -30,
+            "solves": 6
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/b1761130b9865cc85149a337b5ceceafdadba350ec0ab48a4e3669dd395dbb45/antisocial-media.zip",
+                    "name": "antisocial-media.zip"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/127eec5e32f5f31f69fbe3951b54b481ef1fb7c16414de2bf73ef57a950b0b72/antisocial-media.js",
+                    "name": "antisocial-media.js"
+                }
+            ],
+            "description": "A brand new platform, just for yourself!\n\n[antisocial-media.chall.lac.tf](https://antisocial-media.chall.lac.tf)\n\n[Admin Bot](https://admin-bot.lac.tf/antisocial-media)",
+            "author": "bliutech",
+            "points": 483,
+            "id": "antisocial-media",
+            "name": "antisocial-media",
+            "category": "web",
+            "sortWeight": -29,
+            "solves": 5
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/c224d3df1af41123240ae82a45833326e1471cce4abed4e429036bf7fd2d7fdb/crypt-of-the-necropuzzler.py",
+                    "name": "crypt-of-the-necropuzzler.py"
+                }
+            ],
+            "description": "When no one's looking, the Necrodancer actually likes to play puzzle games in his free time. However, he got stuck on a really tough one and it's sucking all his enjoyment out of the game. If you can beat this one for him, he might not return your stolen heart, but he'll at least give you a flag.",
+            "author": "aplet123",
+            "points": 333,
+            "id": "crypt-of-the-necropuzzler",
+            "name": "crypt-of-the-necropuzzler",
+            "category": "rev",
+            "sortWeight": -39,
+            "solves": 104
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/67aea887fc37ae66b0833bc5122ba88f018981afa0f58cdc83daffec7c112b36/chall",
+                    "name": "chall"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/b3932bdeaa26157ca6dff27501ec823836fdda977a8ee29d25a7a8417fb682bb/Dockerfile",
+                    "name": "Dockerfile"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/4674822ca4eaec31f8f8cd6544fd1058c6dcda0777d856517fb202767b8135dd/unsafe.ml",
+                    "name": "unsafe.ml"
+                }
+            ],
+            "description": "\"OCaml is based\" ~ probably enzo\n\n`nc chall.lac.tf 31271`",
+            "author": "asdiml",
+            "points": 471,
+            "id": "unsafe",
+            "name": "unsafe",
+            "category": "pwn",
+            "sortWeight": -48,
+            "solves": 8
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/06a1ee6f5a06fcc40622e617bd3e3263120a9d9572a2e29e1417b1488cd196d0/nine-solves",
+                    "name": "nine-solves"
+                }
+            ],
+            "description": "Let's make a promise that on that day, when we meet again, you'll take the time to tell me the flag.\n\n*You have no more unread messages from LA CTF.*\n\n`nc chall.lac.tf 32223`",
+            "author": "aplet123",
+            "points": 244,
+            "id": "nine-solves",
+            "name": "nine-solves",
+            "category": "rev",
+            "sortWeight": -38,
+            "solves": 297
+        },
+        {
+            "files": [
+                {
+                    "url": "https://chall-files.lac.tf/uploads/1a6999ad4cd3282d88f6c88160897dab1530c3f1c97f0e577536f4aeb99ba559/elf",
+                    "name": "elf"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/7f3141d86f242ebd8b1930b13b304ea594a39e8511d130bc140b9e1c0053132e/chal.py",
+                    "name": "chal.py"
+                },
+                {
+                    "url": "https://chall-files.lac.tf/uploads/65e854882b89f6afda89855beadfeaf506c47241906982101a30fc569cc074ef/Dockerfile",
+                    "name": "Dockerfile"
+                }
+            ],
+            "description": "ELF Is You is a puzzle game where the rules you have to follow are present as bytes you can interact with. By manipulating them, you can change how the program works, repurpose things you find in the binary, and cause surprising segfaults!\n\n`socat file:$(tty),raw,echo=0 tcp:chall.lac.tf:31189`",
+            "author": "enzocut",
+            "points": 448,
+            "id": "elfisyou",
+            "name": "elfisyou",
+            "category": "rev",
+            "sortWeight": -43,
+            "solves": 14
+        },
+        {
+            "files": [],
+            "description": "I have this GitHub Classroom assignment I need to do, but I kinda don't want to do it. Can you do it instead? All you need to do is follow the instructions, editing README.md to say that `LA CTF 2025 is the best ctf.` and putting the repo's name in the blank provided. Because, you know, LA CTF 2025 is the best ctf!\n\nOh and by the way, please have the github classroom user do it instead, with the little verified tag thingy next to the commit. Even better, have all commits in the repo's default branch ONLY be by github classroom, fully verified! I think that would be really funny! I can't wait to see my teacher's reaction when I submit this! XD\n\nPick one (or two!), they're all the same (GitHub Classroom can be temperamental sometimes):\n\n[Link 1](https://classroom.github.com/a/o_TkJYcx),\n[Link 2](https://classroom.github.com/a/Q_lnOD1Y),\n[Link 3](https://classroom.github.com/a/jcg8jyS1),\n[Link 4](https://classroom.github.com/a/mfpSYuRq),\n[Link 5](https://classroom.github.com/a/neh5bXxQ),\n[Link 6](https://classroom.github.com/a/9t6foNVp),\n[Link 7](https://classroom.github.com/a/V-IzmufB),\n[Link 8](https://classroom.github.com/a/HzSAi7D7),\n[Link 9](https://classroom.github.com/a/JAQZyoa3),\n[Link 10](https://classroom.github.com/a/rgAT65sx)\n\nIf you give me the repo URL and the commit ID of the latest commit on the default branch, I will check that you did the assignment properly, using the actual assignment as a base and not copying someone else's assignment, and that commits on the default branch are by github classroom and verified:\n\n`nc chall.lac.tf 31617`",
+            "author": "burturt",
+            "points": 444,
+            "id": "i-am-github",
+            "name": "I am GitHub",
+            "category": "misc",
+            "sortWeight": -7,
+            "solves": 15
+        }
+    ]
+}

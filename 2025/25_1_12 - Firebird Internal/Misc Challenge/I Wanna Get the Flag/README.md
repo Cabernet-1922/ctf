@@ -1,0 +1,2 @@
+# I Wanna Get the Flag [935 points] (3 solves)
+Show the position by entering the command `a_pos`, modify the position to `13.27127,5.309999` face to left, then modify the y coordinate to 0 and move 1 step to the right. Press `O` to get the flag.
