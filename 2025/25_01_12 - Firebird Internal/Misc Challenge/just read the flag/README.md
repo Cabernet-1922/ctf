@@ -17,7 +17,7 @@ firebird{v3ry_51mpl3_70_r34d_7h3_fl46,_r16h7?}
 ```
 ---
 ### raw‑unicode‑escape codec
-Another similar way to solve this challenge would be use Python’s `raw‑unicode‑escape codec`:
+Another similar way to solve this challenge would be use Python's `raw‑unicode‑escape codec`:
 ```
 \u0028 -> (
 \u0029 -> )
