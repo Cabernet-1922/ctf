@@ -12,7 +12,7 @@ Full payload:
 Just read the flag.txt! Very simple!
 > # -*- coding: utf-7 -*-
 > print+ACg-open+ACg-+ACI-flag+AC4-txt+ACI-+ACk-+AC4-read+ACg-+ACk-+ACk-
->
+> 
 firebird{v3ry_51mpl3_70_r34d_7h3_fl46,_r16h7?}
 ```
 ---
@@ -27,7 +27,7 @@ Another similar way to solve this challenge would be use Python's `raw‑unicode
 Full payload:
 ```bash
 Just read the flag.txt! Very simple!
-> #-*-coding:raw-unicode-escape-*-
+> # -*- coding: raw-unicode-escape -*-
 > print\u0028open\u0028\u0022flag\u002Etxt\u0022\u0029\u002Eread\u0028\u0029\u0029
 >
 firebird{v3ry_51mpl3_70_r34d_7h3_fl46,_r16h7?}
