@@ -17,4 +17,4 @@ m = long_to_bytes(pow(c, d, n)).decode()
 print(m)
 ```
 The normal phi function is not work here, we should use $\phi(p^k)=p^{k-1}(p-1)$ for this case.
-Then use the private_key to get the plaintext: $pt = ct^d~mod~n$
+Then use the private_key to get the plaintext: $pt = ct^d\,mod\,n$

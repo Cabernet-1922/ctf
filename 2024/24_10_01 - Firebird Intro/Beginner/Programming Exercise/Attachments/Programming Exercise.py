@@ -1,0 +1,20 @@
+from random import shuffle, randint
+
+flag = 'flag{?????????????????????????????????????????????????????????????}'
+key = [?, ?, ?, ?, ?, ?, ?]
+assert(len(key) == len(range(7)) and set(key) == set(range(7)))
+
+def encrypt(c, key):
+    array = [randint(0, 127) for _ in range(999)]
+    interesting_sum = sum((i + 1) * array[i] for i in range(len(array))) % 128
+    array.append(interesting_sum ^ c)
+    
+    for i in range(len(array)):
+        array[i] = sum((1 << j) * (1 if (array[i] & (1 << key[j])) else 0) for j in range(7))
+    return array
+
+res = [encrypt(ord(c), key) for c in flag]
+
+f = open("Generated List.txt", 'w')
+f.write(repr(res))
+f.close()
