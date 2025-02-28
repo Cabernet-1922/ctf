@@ -1,0 +1,553 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 2,
+            "type": "standard",
+            "name": "Sanity Check",
+            "value": 100,
+            "solves": 425,
+            "solved_by_me": true,
+            "category": "Miscellaneous",
+            "tags": [
+                {
+                    "value": "miscellaneous"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 4,
+            "type": "standard",
+            "name": "Fall of 2022",
+            "value": 100,
+            "solves": 175,
+            "solved_by_me": true,
+            "category": "OSINT",
+            "tags": [
+                {
+                    "value": "OSINT"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 11,
+            "type": "standard",
+            "name": "!Underflow",
+            "value": 100,
+            "solves": 390,
+            "solved_by_me": true,
+            "category": "Binary Exploitation",
+            "tags": [
+                {
+                    "value": "Binary Exploitation"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 19,
+            "type": "standard",
+            "name": "Super Secure Encryption",
+            "value": 100,
+            "solves": 364,
+            "solved_by_me": true,
+            "category": "Cryptography",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 21,
+            "type": "standard",
+            "name": "Broken Secrets",
+            "value": 100,
+            "solves": 275,
+            "solved_by_me": true,
+            "category": "Forensics",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 30,
+            "type": "standard",
+            "name": "Tabs&Spaces",
+            "value": 100,
+            "solves": 141,
+            "solved_by_me": true,
+            "category": "Steganography",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 37,
+            "type": "standard",
+            "name": "Buried Deep",
+            "value": 100,
+            "solves": 226,
+            "solved_by_me": true,
+            "category": "Web Exploitation",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 44,
+            "type": "standard",
+            "name": "Feeback Form",
+            "value": 100,
+            "solves": 251,
+            "solved_by_me": true,
+            "category": "Miscellaneous",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 3,
+            "type": "standard",
+            "name": "Insanity Check",
+            "value": 200,
+            "solves": 49,
+            "solved_by_me": false,
+            "category": "Miscellaneous",
+            "tags": [
+                {
+                    "value": "Miscellaneous"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 6,
+            "type": "standard",
+            "name": "Significance of Reversing",
+            "value": 200,
+            "solves": 189,
+            "solved_by_me": true,
+            "category": "Reverse",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 9,
+            "type": "standard",
+            "name": "The Chemistry Of Code",
+            "value": 200,
+            "solves": 210,
+            "solved_by_me": true,
+            "category": "Reverse",
+            "tags": [
+                {
+                    "value": "Reverse"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 13,
+            "type": "standard",
+            "name": "Custom Encoding Scheme",
+            "value": 200,
+            "solves": 206,
+            "solved_by_me": true,
+            "category": "Cryptography",
+            "tags": [
+                {
+                    "value": "Cryptography"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 14,
+            "type": "standard",
+            "name": "jumPIEng",
+            "value": 200,
+            "solves": 219,
+            "solved_by_me": true,
+            "category": "Binary Exploitation",
+            "tags": [
+                {
+                    "value": "Binary Exploitation"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 15,
+            "type": "standard",
+            "name": "A Little Extra Knowledge Is Too Dangerous",
+            "value": 200,
+            "solves": 83,
+            "solved_by_me": false,
+            "category": "Cryptography",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 17,
+            "type": "standard",
+            "name": "The Symphony of Greatness",
+            "value": 200,
+            "solves": 42,
+            "solved_by_me": false,
+            "category": "OSINT",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 18,
+            "type": "standard",
+            "name": "Webrypto",
+            "value": 200,
+            "solves": 265,
+            "solved_by_me": true,
+            "category": "Web Exploitation",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 22,
+            "type": "standard",
+            "name": "Hidden in the traffic",
+            "value": 200,
+            "solves": 83,
+            "solved_by_me": false,
+            "category": "Forensics",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 24,
+            "type": "standard",
+            "name": "Virtual Hard Disk",
+            "value": 200,
+            "solves": 100,
+            "solved_by_me": true,
+            "category": "Forensics",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 27,
+            "type": "standard",
+            "name": "Trust Issues",
+            "value": 200,
+            "solves": 145,
+            "solved_by_me": true,
+            "category": "Reverse",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 31,
+            "type": "standard",
+            "name": "Cryptic Pixels",
+            "value": 200,
+            "solves": 206,
+            "solved_by_me": true,
+            "category": "Steganography",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 32,
+            "type": "standard",
+            "name": "HeaderHijack",
+            "value": 200,
+            "solves": 68,
+            "solved_by_me": false,
+            "category": "Steganography",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 36,
+            "type": "standard",
+            "name": "Token of Trust",
+            "value": 200,
+            "solves": 202,
+            "solved_by_me": true,
+            "category": "Web Exploitation",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 38,
+            "type": "standard",
+            "name": "Flag-Fetcher",
+            "value": 200,
+            "solves": 208,
+            "solved_by_me": true,
+            "category": "Web Exploitation",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 42,
+            "type": "standard",
+            "name": "Social Circles",
+            "value": 200,
+            "solves": 46,
+            "solved_by_me": false,
+            "category": "OSINT",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 5,
+            "type": "standard",
+            "name": "Hexed and Squared",
+            "value": 300,
+            "solves": 69,
+            "solved_by_me": true,
+            "category": "Cryptography",
+            "tags": [
+                {
+                    "value": "Cryptography"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 8,
+            "type": "standard",
+            "name": "For The Fans",
+            "value": 300,
+            "solves": 42,
+            "solved_by_me": false,
+            "category": "OSINT",
+            "tags": [
+                {
+                    "value": "OSINT"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 10,
+            "type": "standard",
+            "name": "Another Reading between the Lines?",
+            "value": 300,
+            "solves": 56,
+            "solved_by_me": false,
+            "category": "Forensics",
+            "tags": [
+                {
+                    "value": "Forensics"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 12,
+            "type": "standard",
+            "name": "The Mysterious Building",
+            "value": 300,
+            "solves": 187,
+            "solved_by_me": true,
+            "category": "OSINT",
+            "tags": [
+                {
+                    "value": "OSINT"
+                }
+            ],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 16,
+            "type": "standard",
+            "name": "Pipher - Piano Cipher",
+            "value": 300,
+            "solves": 54,
+            "solved_by_me": false,
+            "category": "Cryptography",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 23,
+            "type": "standard",
+            "name": "Rogue Insider",
+            "value": 300,
+            "solves": 0,
+            "solved_by_me": false,
+            "category": "Miscellaneous",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 26,
+            "type": "standard",
+            "name": "Running Out of Time",
+            "value": 300,
+            "solves": 196,
+            "solved_by_me": true,
+            "category": "Binary Exploitation",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 28,
+            "type": "standard",
+            "name": "Piped Up",
+            "value": 300,
+            "solves": 46,
+            "solved_by_me": false,
+            "category": "Reverse",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 33,
+            "type": "standard",
+            "name": "Whispering Waves",
+            "value": 300,
+            "solves": 36,
+            "solved_by_me": true,
+            "category": "Steganography",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 35,
+            "type": "standard",
+            "name": "Bucket List",
+            "value": 300,
+            "solves": 258,
+            "solved_by_me": true,
+            "category": "Web Exploitation",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 39,
+            "type": "standard",
+            "name": "Fractured Frames",
+            "value": 300,
+            "solves": 43,
+            "solved_by_me": true,
+            "category": "Forensics",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 41,
+            "type": "standard",
+            "name": "Hash Guesser",
+            "value": 300,
+            "solves": 43,
+            "solved_by_me": false,
+            "category": "Miscellaneous",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 43,
+            "type": "standard",
+            "name": "Keyboard Echo",
+            "value": 300,
+            "solves": 85,
+            "solved_by_me": true,
+            "category": "Forensics",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 20,
+            "type": "standard",
+            "name": "The Illusion of Normalcy",
+            "value": 400,
+            "solves": 0,
+            "solved_by_me": false,
+            "category": "Cryptography",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 25,
+            "type": "standard",
+            "name": "ACE6467",
+            "value": 400,
+            "solves": 4,
+            "solved_by_me": false,
+            "category": "Miscellaneous",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 29,
+            "type": "standard",
+            "name": "DONOTOPEN",
+            "value": 400,
+            "solves": 154,
+            "solved_by_me": true,
+            "category": "Reverse",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 34,
+            "type": "standard",
+            "name": "Double Vision",
+            "value": 400,
+            "solves": 11,
+            "solved_by_me": false,
+            "category": "Steganography",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        },
+        {
+            "id": 40,
+            "type": "standard",
+            "name": "Deep Memory Dive",
+            "value": 400,
+            "solves": 39,
+            "solved_by_me": false,
+            "category": "Forensics",
+            "tags": [],
+            "template": "/plugins/challenges/assets/view.html",
+            "script": "/plugins/challenges/assets/view.js"
+        }
+    ]
+}
